@@ -15,11 +15,11 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
 ## Project Setup
 
 ### Create Project
-* [ ] Choose a project name
+* [x] Choose a project name
   * Choose a short, simple project name, e.g. `pascal` for “*The Provincial Letters of Blaise Pascal*”
   * Should be simple, no spaces, lowercase, e.g. "missfairfax" was used for "Miss Fairfax of Virginia".
   * This is used by scripts and to name the GitHub repo, so use it consistently.
-* [ ] Run the setup script
+* [x] Run the setup script
   * ```shell
     cd ~/dp/util
     . venv/bin/activate
@@ -28,54 +28,54 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
   * Setup script fetches the project resources and creates the Github repository
 
 ### Review Project Details
-* [ ] Read the project comments
-* [ ] Subscribe to the project forum
-* [ ] Read all forum posts
+* [x] Read the project comments
+* [x] Subscribe to the project forum
+* [x] Read all forum posts
 
 ### Setup Guiguts
-* [ ] Open `hurlo-src.txt` in Guiguts
-* [ ] Configure page labels
+* [x] Open `hurlo-src.txt` in Guiguts
+* [x] Configure page labels
   * `File → Project → Configure Page Labels...`
-* [ ] Check for roman numerals and unnumbered pages
-* [ ] Go to end of book to check page numbers line up
+* [x] Check for roman numerals and unnumbered pages
+* [x] Go to end of book to check page numbers line up
 
 ### Open Images  
-* [ ] Open images in Pixea: `open -a Pixea pngs`
+* [x] Open images in Pixea: `open -a Pixea pngs`
 
 ## Preliminary Review
 
 ### Illustrations
-* [ ] Note illustrations in `README.md`
-* [ ] Move illustrations to `illustrations/` folder
+* [x] Note illustrations in `README.md`
+* [x] Move illustrations to `illustrations/` folder
 
 ### Languages
-* [ ] Note languages other than the main book language in `README.md`
+* [x] Note languages other than the main book language in `README.md`
   * In HTML they can be labeled with `<span lang="fr">..</span>`
   * If they're in italic print, that's handled later during italic handling
 
 ### HTML Notes
-* [ ] Note things that will need attention in the HTML in `README.md`, for example:
+* [x] Note things that will need attention in the HTML in `README.md`, for example:
   * Author cross-references like "`(p. 150)`" and "`see page 222`" that should become links.
   * How the editor laid out special sections such as tables and sidebars.
 
 ### Check balanced markup
-* [ ] `Tools → Unmatched → DP Markup...`
-  * whiSearches for the regular expression `\<(\w+)>\n?[^<]+<(?!/\1>)`, that is any markup starting in `<..>` that doesn't end in an identical closing markup.
+* [x] `Tools → Unmatched → DP Markup...`
+  * Searches for the regular expression `\<(\w+)>\n?[^<]+<(?!/\1>)`, that is any markup starting in `<..>` that doesn't end in an identical closing markup.
   * Note: this regular expression sees `<tb>` as unbalanced, and shows the text from the `<tb>` to the next markup as an error. (If you can devise a better regex please do!)
   * Possible alternate that explicitly lists all current markup `\<(i|b|sc|g||f|u)>\n?[^<]+<(?!/\1>)`
   * Because it includes a newline, the search may take several seconds to return the first result.
-  * [ ] Correct any errors and click search until no more are found.
+  * [x] Correct any errors and click search until no more are found.
 
-* [ ] `Tools → Unmatched → Block Markup...`
-  * [ ] Correct any errors and click search until no more are found.
+* [x] `Tools → Unmatched → Block Markup...`
+  * [x] Correct any errors and click search until no more are found.
 
 ### Check Formatting
 * Proper spacing for chapters and paragraphs:
-  * [ ] Before chapter start: 4 blank lines
-  * [ ] Between chapter head and subhead: 1 blank line
-  * [ ] Between head (or subhead) and chapter body: 2 blank lines
-  * [ ] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
-  * [ ] Each overall block should have blank lines before & after
+  * [x] Before chapter start: 4 blank lines
+  * [x] Between chapter head and subhead: 1 blank line
+  * [x] Between head (or subhead) and chapter body: 2 blank lines
+  * [x] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
+  * [x] Each overall block should have blank lines before & after
 
 * [ ] Proper markup of `<i>italic</i>` and `<b>bold</b>`
   * Watch for punctuation wrongly contained in markup, such as `<i>(ibid.</i>` or `<b>Subtopic.</b>`.

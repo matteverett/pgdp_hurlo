@@ -41,6 +41,16 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 ### Other languages ###
 
 ### Illustrations ###
+* Title Page
+  * [ ] i_title.jpg
+* Decorations
+  * [ ] i_001.jpg
+  * [ ] i_010.jpg
+  * [ ] i_043.jpg
+  * [ ] i_053.jpg
+  * [ ] i_055.jpg
+  * [ ] i_delves_deco.jpg
+  * [ ] i_walpole_deco.jpg
 
 ### Proofer's notes ###
 
