@@ -329,7 +329,7 @@ the Cause of his Distress.
 <i>Sem.</i> It is my Lord <i>Flame</i>, distracted in Love with you:
 Fall back, let us hear his Soliloquy.
 
-<i>Enter</i> Flame, <i>with a drawn Sword in his Hand</i>, <i>throws it on
+<i>Enter</i> Flame, <i>with a drawn Sword in his Hand, throws it on
 the Ground</i>.
 
 <i>Fla.</i> Thou Key of my Soul, unlock me not, I will not
@@ -1475,7 +1475,7 @@ his Taste; so blind all the Beauties of the Mind; then will
 his hungry Pleasure devour up all the eternal Treasure of
 his Soul.
 
-<i>Theor. Godelmo</i>, let thy Passion cease.
+<i>Theor.</i> <i>Godelmo</i>, let thy Passion cease.
 
 <i>Dolo.</i> O pardon me, I must be alone, and burst my Heart
 with sighing.      [<i>Ex.</i> Dolo.
@@ -1634,7 +1634,7 @@ Sun, that water and warms this lower World, drive away
 swiftly the Clouds from his Presence; he open'd high the
 Casement of Heaven, and sweetly smiled upon me.
 
-<i>Hurlo. Primo</i>, what thinkest thou of that?
+<i>Hurlo.</i> <i>Primo</i>, what thinkest thou of that?
 
 <i>Primo.</i> When I gaze upon the Sun, I sink into myself,
 full of Humility; I also learn Lowliness of the Moon;
@@ -2680,7 +2680,7 @@ Fellows, says he, that are meer Paralyticks,
 With Judgments lame, and Intellects that halt,
 Because a Man outruns them----they find fault.
 He is indeed, to speak my poor Opinion,
-Out of the reach of</i> critical <i>Dominion</i>.
+Out of the reach of</i> critical <i>Dominion.</i>
 */
 -----File: 058.png---------------------------------------------------------
 
@@ -2712,7 +2712,7 @@ Cr. <i>Why here's no</i> Plot! <i>or none that's understood.</i>
 Au. <i>There's a Rebellion tho'; and that's as good.</i>
 
 Cr. <i>No Spirit nor Genius in't.</i>   Au. <i>Why didn't here
-A</i> SPIRIT <i>and a</i> GENIUS <i>both appear</i>?
+A</i> SPIRIT <i>and a</i> GENIUS <i>both appear?</i>
 
 Cr. <i>Poh, 'tis all Stuff and Nonsense</i>----Au. <i>Lack-a-day!
 Why that's the very</i> Essence <i>of a Play,
@@ -2731,7 +2731,7 @@ Thunder and Lightning; ev'ry thing surprizing!</i>
 Cr. <i>Play, Farce, or Opera is't?</i> Au. <i>No matter whether,
 'Tis a</i> <sc>Rehearsal</sc> <i>of 'em all together.
 But come Sir, come, troop off, old Blundermonger,
-And interrupt the</i> Epilogue <i>no longer</i>.
+And interrupt the</i> Epilogue <i>no longer.</i>
 */
 
 /*
