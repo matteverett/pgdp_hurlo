@@ -77,34 +77,34 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
   * [x] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
   * [x] Each overall block should have blank lines before & after
 
-* [ ] Proper markup of `<i>italic</i>` and `<b>bold</b>`
+* [x] Proper markup of `<i>italic</i>` and `<b>bold</b>`
   * Watch for punctuation wrongly contained in markup, such as `<i>(ibid.</i>` or `<b>Subtopic.</b>`.
 
 * Proper markup of foreign languages:
-  * [ ] Greek and other transliterations
+  * [x] Greek and other transliterations
 
 * Proper markup of all block material:
-  * [ ] Poetry, misc. tabular in `/* */`
-  * [ ] Block quotes in `/# #/`
+  * [x] Poetry, misc. tabular in `/* */`
+  * [x] Block quotes in `/# #/`
 
 * Proper markup of illustrations:
-  * [ ] Figures properly marked as `[Illustration: caption]`
-  * [ ] For captionless (`[Illustration: ]`), remove colon & whitespace
-  * [ ] Caption text agrees with List of Illustrations (if any)
-  * [ ] Consistent spelling, abbreviation, capitalization in captions
+  * [x] Figures properly marked as `[Illustration: caption]`
+  * [x] For captionless (`[Illustration: ]`), remove colon & whitespace
+  * [x] Caption text agrees with List of Illustrations (if any)
+  * [x] Consistent spelling, abbreviation, capitalization in captions
 
-* [ ] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes
+* [x] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes
 
-* [ ] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
+* [x] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
 
 ## Preliminary Fixup
 
 ### Basic Fixup
-* [ ] Open `Tools → Basic Fixup...`
-* [ ] Correct entries as appropriate
+* [x] Open `Tools → Basic Fixup...`
+* [x] Correct entries as appropriate
 
 ### Fix Block Markups 
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -112,7 +112,7 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
   * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
   * Make sure poetry line numbers are at least two spaces to the right of the line.
 
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [x] Use the `Search` menu to step through all `/#..#/` blocks.
   * Regex: `^(/#|#/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -121,19 +121,19 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
 
 ### Fix Page Formatting
-* [ ] Remove the extra block markers around page boundaries
-* [ ] Join words hyphenated across page boundary
+* [x] Remove the extra block markers around page boundaries
+* [x] Join words hyphenated across page boundary
 * Handle blank pages:
-  * [ ] Check that `[Blank Page]` are blank
-  * [ ] Remove blank pages
+  * [x] Check that `[Blank Page]` are blank
+  * [x] Remove blank pages
 
 ### Fix Footnotes and Illustrations
-* [ ] Fix Footnotes and Illustrations still inside a paragraph
+* [x] Fix Footnotes and Illustrations still inside a paragraph
   * Move outside paragraph to next or prior page, as appropriate
   * Don't worry about duplicate footnote numbers/symbols for now
   * Sidenotes are handled later
 
-* [ ] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
+* [x] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
   * `First Pass`
   * `Next / Prev FN` to navigate
   * Look for `*` and use `Join with Previous` to join them
@@ -141,25 +141,25 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
     * Exception: sometimes a footnote is really long (brown)
     * Exception: multiple anchors per footnote can confuse it (teal)
 
-* [ ] Move footnotes between paragraphs
+* [x] Move footnotes between paragraphs
   * `Footnote Fixup`, `First Pass`
   * `All to Number`, `Reindex`
   * `First Pass`, `Move FNs to Para`
 
 ### Fix Sidenotes
-* [ ] Step through sidenotes
+* [x] Step through sidenotes
   * Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes).
   * Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
-* [ ] Compare to page image. Move note above paragraph if feasible.
+* [x] Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ## Preliminary Corrections
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Proofer Comments
 * [ ] `Search → Find Proofer Comments`.

@@ -73,9 +73,9 @@ Clear as Mrs. <i>Madin</i>, Gay, Good and Innocent
 as Lady <i>Bland</i>. I have often thought
 that you are a Compound of the World's
 Favourites, that all meet and rejoice together
-in one; the Taste of <i>Montagu</i>, <i>Whar-*</i>
+in one; the Taste of <i>Montagu</i>, <i>Wharton</i>,
 -----File: 004.png---------------------------------------------------------
-<i>*ton</i>, or <i>Meredith</i>, <i>Stanhope</i>, <i>Sneid</i>, or <i>Byrom</i>;
+or <i>Meredith</i>, <i>Stanhope</i>, <i>Sneid</i>, or <i>Byrom</i>;
 the Integrity and Hospitality of <i>Legh</i> of <i>Lime</i>,
 the Wit and Fire of <i>Bunbury</i>, the Sense of
 an <i>Egerton</i>, fervent to serve as <i>Beresford</i> or
@@ -599,9 +599,9 @@ cherished, and rises up revived.
 <i>Urlan.</i> The Simile is not good: The Sun gives Life to
 the Plants that reside far off, but those that grow under
 him are burn'd, and scorch'd to Ashes. 'Tis plain, Foreigners
-are most encourag'd, and we that pay the Taxes re-*
+are most encourag'd, and we that pay the Taxes receive
 -----File: 016.png---------------------------------------------------------
-*ceive not the Benefit of Office; <i>Soaretherial</i> declares all
+not the Benefit of Office; <i>Soaretherial</i> declares all
 the World are his Country-men, and he that has the greatest
 Soul, to him is the nearest a-kin: but to the Purpose,
 what's to be done? The Mob of this City must be highly
@@ -1366,7 +1366,7 @@ pain in Death, the Sound of your Words is Musick to my
 Soul, and makes the ever-living Youth rejoice, and leap
 for Joy, being ripe for birth, desires to go to Life:[**P2: semi-colon?] but
 this Body, this timorous Mother Earth; alas she shivers,
-and dreads the Hour of her Travail, but when that Mid-*wife
+and dreads the Hour of her Travail, but when that Midwife
 Death in Life shall give me Birth, Oh! may it be in
 that Kingdom where thou in long Eternity shall shine; and
 if my Happiness be no more than what I conceive in thee,
@@ -1397,9 +1397,9 @@ thy Heart; blind thy mortal Eyes; and lest the Garment
 of the Intellect be thus incomparable and Glorious, make
 me not promise, for if I promise, 'twill make me uneasy in
 Heaven, 'till I perform my Word; but if I can entreat to
-thy Guardian Saint, then I'll attend thee all the Day, ho-*
+thy Guardian Saint, then I'll attend thee all the Day, hover
 -----File: 031.png---------------------------------------------------------
-*ver and settle upon thy Pillow all the Night, where I'll
+and settle upon thy Pillow all the Night, where I'll
 converse with thee in Visions, and when thy Time is full
 done, I'll wait and watch the closing of thine Eyes, and then
 will I catch away thy Soul in a Divine Transport; with Cœlestial
@@ -1930,9 +1930,9 @@ will fight and die with my Army.
 <i>Darony</i>.      [<i>Exit</i> Officer.
 
 <i>King.</i> O there is the Sting! Have I lost, for ever lost,
-every thing that's dear to me in Life, my Crown, my Mi-*
+every thing that's dear to me in Life, my Crown, my Mistress,
 -----File: 042.png---------------------------------------------------------
-*stress, and my Friends? Rise up now, thou Strength of
+and my Friends? Rise up now, thou Strength of
 Reason, and pull down the Passion of my Soul; oh let the
 Curtain of the Clouds be lifted up, the Scenes, the Elements
 depart asunder; and may some piercing penetrating
@@ -2215,7 +2215,7 @@ good Journey to you.
 
 <i>Lom.</i> Rather a good Dream.
 
-<i>Hurlo.</i> This World is all a Dream, an Outside, a Dung-*hill[**spelling? P3]
+<i>Hurlo.</i> This World is all a Dream, an Outside, a Dunghill[**spelling? P3]
 pav'd with Diamonds; but to you and your cursed Army
 nothing can compare,
 
@@ -2749,9 +2749,7 @@ A thousand murd'rous ways they cast about
 To stifle it----but Murder-like----'twill out.
 Our Author fairly, without so much Fuss
 Shews it--in</i> puris Naturalibus;
-*/
 -----File: 059.png---------------------------------------------------------
-/*
 <i>Pursues the Point beyond its highest Height,      }
 Then bids his Men of Fire, and Ladies bright,        }
 Mark, how it looks!----When it is out of Sight.      }
