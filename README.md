@@ -59,6 +59,20 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+* 006 | tho' I have nothi[n]g to boast of in my | Added.
+* 006 | Play, but the Characte[r] of Soarethereal, yet | Added.
+* 008 | MEN[.] | Added.
+* 010 | not, he's King and he's no King; his high-born Soul is [a] | Deleted.
+* 010 | die and leave her behind amongst co[r]poreal Rivals; that she | Added.
+* 012 | [The King sits down a[a/n]d pauses, then rises. | Replaced.
+* 012 | Vales, and the Valleys rose up to Mountains, [n/u]pon which a | Replaced.
+* 032 | Ente[r], Dologodelmo guarded. | Added.
+* 033 | And if you please her, as you o[n/u]ght to do, | Replaced.
+* 034 | all the Pile of Building in the other World was tumbl[;/i]ng | Replaced.
+* 036 | [he] could not escape your Armour. | Deleted.
+* 039 | Fiend to fight ag[o/a]inst him: remember thou Toad of Hell, | Replaced.
+* 045 | the Beast pulls, is pamp[a/e]red with too many Beans and Oats, | Replaced.
+* 059 | Handel himse[l]f shall yield to Hurlothrumbo, | Added.
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

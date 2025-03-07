@@ -136,8 +136,8 @@ mistaken; for so long as the Lord Duke of
 -----File: 006.png---------------------------------------------------------
 <i>Montagu</i>, Yourself, and Mr. <i>Charles Stanhope</i>
 live, fine Poetry will not want Encouragement:
-tho' I have nothig[**nothing] to boast of in my
-Play, but the Characte[**Character ?] of <i>Soarethereal</i>, yet
+tho' I have nothing to boast of in my
+Play, but the Character of <i>Soarethereal</i>, yet
 you great Men, that shine among the Angels,
 did condescend to support me; and
 no one is more thankful than
@@ -164,7 +164,7 @@ Near is my Shirt, but nearer is my Skin.
 
 
 /*
-<i>Rules were by Coxcombs made to cramp the Mind      }[**Brackets on right margin, see project thread]
+<i>Rules were by Coxcombs made to cramp the Mind      }
 By Nature free, unfetter'd, unconfin'd,               }
 She mounts a Flame, and flies, astride the Wind.      }
 Through boundless space wings her Celestial Way,        }
@@ -277,7 +277,7 @@ have coin'd their Estates into Money.
 /*
 <i>Hurlo.</i>  It will be describ'd in Blows.
           There's more in the Wind
-          Than the wise Philosophers can find.[**unclear where verse ends and prose begins]
+          Than the wise Philosophers can find.
 */
 
 <i>Dolo.</i> No Storms, no Rebellions, I hope,[** . ?]
@@ -291,7 +291,7 @@ of all; but hatch'd by none but Fools! Pray what says the
 King to these Adventures?
 
 <i>Hurlo.</i> Say! he says and he says not, cares and he cares
-not, he's King and he's no King; his high-born Soul is a[**extraneous?]
+not, he's King and he's no King; his high-born Soul is
 above the Sublunary World, he reigns, he rides in the
 Clouds, and keeps his Court in the Horizon; He's Emperor
 of the superlative Heights, and lives in Pleasure among
@@ -333,7 +333,7 @@ Fall back, let us hear his Soliloquy.
 the Ground</i>.
 
 <i>Fla.</i> Thou Key of my Soul, unlock me not, I will not
-die and leave her behind amongst coporeal[**corporeal] Rivals; that she
+die and leave her behind amongst corporeal Rivals; that she
 -----File: 011.png---------------------------------------------------------
 was dead, alive, amongst the purest Spirits: Oh that this
 too, oh too, too dear, tender fond Heart could yearn, and
@@ -366,7 +366,9 @@ and flash through all his Veins, discompose his Faculties,
 and infect his Soul: I am sorry for this poor Man, 'tis dangerous
 to continue here, let us leave the place.      [<i>Exit.</i>
 
-[<i>Scene changes, and discovers the King Sleeping upon a Couch.</i>[**appears to be centred, not right justified, so no nowrap]
+/*
+[<i>Scene changes, and discovers the King Sleeping upon a Couch.</i>
+*/
 
 <i>Enter to him</i> Dologodelmo.
 
@@ -389,7 +391,7 @@ other Eyes that see, other Ears that hear, and myself rejoices
 when myself is dead.
 
 /*
-[<i>The King sits down aad[**and] pauses, then rises.</i>
+[<i>The King sits down and pauses, then rises.</i>
 */
 
 <i>Dolo.</i> The Solitarys wait without, and humbly desire admittance.
@@ -421,7 +423,7 @@ in Hieroglyphicks.
 
 <i>Primo.</i> We all in one Night had the fame Vision; gazing
 stedfastly upon your Dominions, the Hills sunk down to
-Vales, and the Valleys rose up to Mountains, upon[**corrected from npon] which a
+Vales, and the Valleys rose up to Mountains, upon which a
 Giant stood, swelling huge with arroganting Poison; his horrid
 Visage reach'd the Skies, grasping a Sword in his Hand
 that flam'd from Earth to Heaven, glittering on high, and
@@ -1451,7 +1453,7 @@ to see you again.
 <i>Theor.</i> When I think you're safe, I'll follow.      [<i>Ex. King.</i>
 -----File: 032.png---------------------------------------------------------
 
-<i>Ente[**Enter, see catchword]</i>, Dologodelmo <i>guarded</i>.
+<i>Enter</i>, Dologodelmo <i>guarded</i>.
 
 O <i>Godelmo</i>, what brings thee to this Place of Misery?
 Speak quickly, though I dread to hear.
@@ -1532,7 +1534,7 @@ No Charm's so deep, how charming, how sweet
 It is to fall within the fair Enchantress Arms asleep;
 But if I chance to wake you with my Bell,
 Be sure you let my Mistress know you're well;
-And if you please her, as you onght[**ought?] to do,
+And if you please her, as you ought to do,
 She'll thank you, Master, and the Bellman too.      [<i>Exit.</i>
 */
 
@@ -1582,7 +1584,7 @@ in a Moment surrounded with wild Monsters, fighting with
 one another which should devour me first; my Horse tired,
 my Wife fell in Labour, the Element opened her fiery
 Mouth, and pour'd out Cataracts of Lightning and Hail;
-all the Pile of Building in the other World was tumbl;ng[**tumbling?]
+all the Pile of Building in the other World was tumbling
 down upon my Head, and how I came into my Body, I
 know not.
 
@@ -1619,7 +1621,7 @@ And never think of Man again.
 Counsel to him, as you was to <i>Soarethereal</i>.
 
 <i>Primo.</i> When he is King, I will be his Subject; till
-then, I am fervently so to my Soveraign[**Sovereign?].
+then, I am fervently so to my Soveraign.
 
 <i>Enter</i> Darony.
 
@@ -1686,7 +1688,7 @@ will be there present at the Slaughter.
 
 <i>Hurlo.</i> There is no danger of him, my Lord; he is surrounded
 with 60000 Men, and was he a Grashopper, he
-he[**extra he] could not escape your Armour.
+could not escape your Armour.
 
 <i>Dar.</i> Then I'm at peace within; yet <i>Cademore</i> still runs
 in my Mind: let us haste to her Apartment, and if she
@@ -1740,10 +1742,10 @@ first, you're confin'd five Minutes in the Regions of Fire,
 amazed, amidst the verdant green Climes of Water and
 Air; you pass then heavily through the solemn Gloom of
 -----File: 038.png---------------------------------------------------------
-Earth; you go, you faint, the Soul bows, farewel[**farewell?] to Nature;
+Earth; you go, you faint, the Soul bows, farewel to Nature;
 you fall into a dark, black Slumber, a Trance; and
 when the Spirit touches you upon the Elbow, you wake
-surpriz'd in a World of Light; there[**speck?] you see <i>Shakespear</i>,
+surpriz'd in a World of Light; there you see <i>Shakespear</i>,
 <i>Milton</i>, <i>Homer</i>, sprightly, alert, alive, flying swiftly through
 the radiant Climes, to visit the Wits of every Generation;
 the Rich, Poor, the Merry, Mournful; the pamper'd, hungry
@@ -1813,7 +1815,7 @@ from Nature; I'll die, be born again, and pursue him in
 Eternity.
 
 <i>Genius.</i> Thus when Man commits a Crime, he creates a
-Fiend to fight agoinst[**against?] him: remember thou Toad of Hell,
+Fiend to fight against him: remember thou Toad of Hell,
 all the Elements that compound the Nature of Mortals,
 are now conspiring against thee.
 
@@ -1882,7 +1884,7 @@ away, warbling as the Swift, to meet thee in thy flight.
 
 <i>King.</i> From whence this inward Joy, as if the Musick of
 the Spheres, and heavenly Song, penetrate the Sky, and
-eccho[**typo? P3] in my Soul.
+eccho in my Soul.
 -----File: 041.png---------------------------------------------------------
 
 <i>Enter</i> Officer.
@@ -1911,7 +1913,7 @@ think of him.      [<i>Exit</i> Officer.
 but yet with me indeed it is. Oh when shall the End of
 all Things come! When shall the Musick of the Spheres
 break out! like Trumpets found Alarms, and Thunder in
-Bases roar? Oh when shall the glittering Crouds[**spelling? P3] of Angels
+Bases roar? Oh when shall the glittering Crouds of Angels
 tread the Stages of the Sky, to sing the Chorus at the End
 of Time! Sing, oh Chant, with Sounds to metamorphose
 Man; and make me, oh make me any thing but what I
@@ -1950,7 +1952,7 @@ have beaten Cowards in Armour; I have also heard of
 the <i>Grecian</i> Contrivance, their Horse: I scorn to overcome
 by Stratagem, no, I'll raise up the Spirit of my Army; I'll
 give them to drink Brandy mix'd with Gun-powder, and in
-the Anguish and Bitterness of my Soul, I'll flash[** slash?] it through
+the Anguish and Bitterness of my Soul, I'll slash it through
 the Veins, and mingle it in the Blood of every Man, that
 they altogether may be one in the Image of a Dragon.
 
@@ -1958,7 +1960,7 @@ they altogether may be one in the Image of a Dragon.
 With fiery Heart and flaming Eyes,
 To every Part the Sulphur flies;
 The Wings extend, the thorny Points display,
-The Sting from Mouth ascends, and shuts[** unclear] for happy Day:
+The Sting from Mouth ascends, and shuts for happy Day:
 The Heart, the Eyes, the Sting, the Feet, the furious Claws,
 Mount all up on the Wing, and fly amidst the Foes;
 Then Lightning from the Nostrils flies.
@@ -2051,7 +2053,7 @@ Sir, perform your Office.      [<i>Speaking to the</i> Parson.
 
 <i>Fla.</i> This Dagger will I heat red-hot in the crimson Blood
 of <i>Darony</i>, with which I'll spear the Heart of <i>Seringo</i>, that
-Weather-cock; I'll raise it upon some Pinacle[**Pinnacle?] or Spire; it
+Weather-cock; I'll raise it upon some Pinacle or Spire; it
 shall ever whirl about with every Blast; myself I'll dissolve
 into Air; I'll make the stormy Winds to blow, the petty
 Breezes shall have no Power; but I'll reign King of Tempest.
@@ -2075,7 +2077,7 @@ Part of the Globe!
 may answer him in his own Language! [<i>Aside.</i>] If you
 please to let us go, my Lord, we'll this Moment mount her
 upon the Back of the Sun; in the mean while, you get a
-stradling[**straddling?] upon the Moon, there you'll be mounted aloft,
+stradling upon the Moon, there you'll be mounted aloft,
 and ride after her, spur and whip, whip and spur, and you'll
 be sure to overtake her in the Eclipses; there you'll be
 clapp'd together, Face to Face, one upon another; and all
@@ -2096,8 +2098,8 @@ Security.
 Power to assist you?
 
 <i>Fla.</i> No; my Soul, like a Jocky, is mounted and riding
-his eternal Race; I have slackned[**slackend?] the Reins of Nature, and
-the Beast pulls, is pampared[**pampered?] with too many Beans and Oats,
+his eternal Race; I have slackned the Reins of Nature, and
+the Beast pulls, is pampered[**pampered?] with too many Beans and Oats,
 and is running away with me to the Devil.
 
 /*
@@ -2119,8 +2121,8 @@ rise up in my Heart, and conquer all my Grief.
 
 <i>Enter</i> Seringo <i>and</i> Sementory.
 
-<i>Sem.</i> I am full of sympathetick[**sympathetic?] Confusion; there is nothing
-to be seen upon the Terrass[**Terrace?], but Flashes of Lightning,
+<i>Sem.</i> I am full of sympathetick Confusion; there is nothing
+to be seen upon the Terrass, but Flashes of Lightning,
 flying through Clouds of Gun-pouder[**powder?] Smoak.
 
 <i>Cad.</i> Oh I tremble!
@@ -2215,7 +2217,7 @@ good Journey to you.
 
 <i>Lom.</i> Rather a good Dream.
 
-<i>Hurlo.</i> This World is all a Dream, an Outside, a Dunghill[**spelling? P3]
+<i>Hurlo.</i> This World is all a Dream, an Outside, a Dunghill
 pav'd with Diamonds; but to you and your cursed Army
 nothing can compare,
 
@@ -2223,7 +2225,7 @@ nothing can compare,
 Except I hunt the Woods, to find a Savage Boar:
 No sooner he his Adversary sees,
 But rouses up from Luxury and Ease;
-His Heart and Eyes, was in Surprize[**spelling? P3], and both at Civil War,
+His Heart and Eyes, was in Surprize, and both at Civil War,
 And all his Passion backward flies, and flames into the Air,
 Then from his Jaws did Foam descend, as tho' he fear'd no Evil;
 The Tail, the Tusks, the Bristles stood an end, as if he'd fight the Devil;
@@ -2268,7 +2270,7 @@ Person of Quality?
 <i>Primo.</i> Every Man is honour'd according to his Colour
 and Brightness; your common Souls are like dissolved Allum,
 pour'd in clear Water; these are not able to converse
-with the Sublimes, nor Gloworm[**spelling? P3] shine before the
+with the Sublimes, nor Gloworm shine before the
 Sun.
 
 <i>Hurlo.</i> I hope they'll not rob me of my Honour, that
@@ -2308,7 +2310,7 @@ an Opera, terrify'd with Delights; she lows and interrupts;
 she gallops to those Climes, where is most Grass, and a
 Bull.      [<i>Ex.</i> Primo.
 
-<i>Hurlo.</i> May be live in my Dream, upon the Desarts[**spelling? P3] of
+<i>Hurlo.</i> May be live in my Dream, upon the Desarts of
 <i>Arabia</i>, hurl'd about with stormy Tempest, in Thunder,
 Lightning and Hail; be pursued by Dragons, Wolves and
 Tygers; then fly to my Body for shelter, and find the Door
@@ -2759,7 +2761,7 @@ Never, no never; not while vital Breath,
 Defends ye from that</i> long-liv'd Mortal <i>Death.
 Death!----something hangs on my prophetick Tongue,
 I'll give it utterance----be it right or wrong</i>:
-Handel <i>himsef[**himself] shall yield to</i> Hurlothrumbo,
+Handel <i>himself shall yield to</i> Hurlothrumbo,
 <i>And</i> Bononcini <i>too shall cry</i>----Succumbo.
 <i>That's if the Ladies condescend to smile:
 Their Looks make Sense, or Nonsense, in our Isle.</i>
