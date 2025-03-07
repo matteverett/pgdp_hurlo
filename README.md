@@ -66,6 +66,8 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 010 | die and leave her behind amongst co[r]poreal Rivals; that she | Added.
 * 012 | [The King sits down a[a/n]d pauses, then rises. | Replaced.
 * 012 | Vales, and the Valleys rose up to Mountains, [n/u]pon which a | Replaced.
+* 019 | Ser[e/i]n. How gay, how free, how merry is he! | Replaced.
+* 026 | Enter Darony and U[n/r]landenny. | Replaced.
 * 032 | Ente[r], Dologodelmo guarded. | Added.
 * 033 | And if you please her, as you o[n/u]ght to do, | Replaced.
 * 034 | all the Pile of Building in the other World was tumbl[;/i]ng | Replaced.

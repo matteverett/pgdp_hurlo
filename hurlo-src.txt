@@ -23,18 +23,20 @@ HAY-MARKET.
 Written by Mr. <sc>Samuel Johnson</sc>, of <i>Cheshire</i>.
 
 
-<i>Ye Sons of Fire, read my</i> <sc>Hurlothrumbo</sc>[**possible gesperrt?],
+<i>Ye Sons of Fire, read my</i> <g><sc>Hurlothrumbo</sc></g>,
 <i>Turn it betwixt your Finger and your Thumbo,
-And being quite outdone, be quite struck dumbo</i>.[**note period inside italics per LOFE 101-42A//F2:referenced example doesn't refer to poetry]
+And being quite outdone, be quite struck dumbo.</i>
 
 
 <i>LONDON</i>:
 
-Printed for the AUTHOR[**.] And,
+Printed for the AUTHOR And,
 
+/#
 <i>Dublin</i>: Re-Printed by <sc>James Hoey</sc>, and <sc>George
 Faulkner</sc>, at the <i>Pamphlet-Shop</i> in <i>Skinner-Row</i> opposite
 to the <i>Tholsel</i>, MDCCXXIX.[**Rewrap with hanging indent]
+#/
 */
 -----File: 002.png---------------------------------------------------------
 [Blank Page]
@@ -112,7 +114,7 @@ TO
 
 The Right Hon^{ble} the
 
-Lord <i>WALPOLE</i>,[**unclear, but likely .]
+Lord <i>WALPOLE</i>.
 
 
 /*
@@ -147,7 +149,7 @@ no one is more thankful than
 
 <i>very humble Servant</i>,
 
-SAM. JOHNSON;[**unclear punctuation]
+SAM. JOHNSON.
 */
 -----File: 007.png---------------------------------------------------------
 
@@ -156,7 +158,7 @@ SAM. JOHNSON;[**unclear punctuation]
 
 PROLOGUE.
 
-By <sc>Amos Meredith</sc>[**gesperrt], Esq;
+By <g><sc>Amos Meredith</sc></g>, Esq;
 
 /*
 Near is my Shirt, but nearer is my Skin.
@@ -280,7 +282,7 @@ have coin'd their Estates into Money.
           Than the wise Philosophers can find.
 */
 
-<i>Dolo.</i> No Storms, no Rebellions, I hope,[** . ?]
+<i>Dolo.</i> No Storms, no Rebellions, I hope.
 
 <i>Hurlo.</i> Nothing less, 'tis Pride, curs'd Pride, but let them
 climb to fall.
@@ -402,7 +404,7 @@ when myself is dead.
 World, and will yield your Majesty pleasure through
 their own Simplicities.
 
-<i>King.</i> Let them appear,[** . ?] [<i>Exit</i> Dolo.] These Men despise
+<i>King.</i> Let them appear. [<i>Exit</i> Dolo.] These Men despise
 the Company of Mortals, and say they delight more
 in the Shadow of something, than to converse with a Nothing
 in Substance.
@@ -442,7 +444,7 @@ Afflicted depend on Dreams?
 
 <i>Dolo.</i> Your Majesty has no cause to fear.
 
-<i>King.</i> If <i>Hurlothrumbo</i> is brave, there is no danger,[** . ?]
+<i>King.</i> If <i>Hurlothrumbo</i> is brave, there is no danger.
 -----File: 013.png---------------------------------------------------------
 
 <i>Dolo.</i> Was not his Courage truly try'd in <i>Rome</i>.
@@ -452,7 +454,7 @@ Afflicted depend on Dreams?
 <i>Dolo.</i> By the Emperor's Imperial Command he was forc'd
 into the Amphitheatre, there to be devoured by the hungry
 Jaws of a Lion; disarm'd he enter'd, taking from his Heel
-his Ammunition Spur, he wrench[**'|P3: this & rest appear missing on source] d it wide, and gripe[**' | P3: may be faint on source] d it
+his Ammunition Spur, he wrench'd it wide, and gripe'd it
 thus.
 
 <i>Enter</i> Hurlo.
@@ -462,7 +464,7 @@ Combat.
 
 <i>Hurlo.</i> The Door of the Den was no sooner lifted up,
 but the Monster hugely rouz'd himself aloft, stalking gravely
-he enter[**'] d, flinging from his Talons sedentary Pain, with
+he enter'd, flinging from his Talons sedentary Pain, with
 Scarlet fiery Ogles ken'd all around; but when I saw the
 Beauty of <i>Greece</i>, my Heart was all Granade, I had an Army
 within, a Centry guarded every Pore, and this Compound
@@ -470,7 +472,7 @@ of Elements thundred. The Lion came at me amain,
 with Jaws open, dreadful as the Mouth of Hell, he sprang
 aloft, I glanc'd, he mist me, then with rebound he turn'd,
 and by the Main I caught him as he flew, and over his Back
-I threw myself astride; then with my Knees I crush[**'] d his
+I threw myself astride; then with my Knees I crush'd his
 Ribs and Heart together, and with my Right-hand Spur I
 cleft his Skull: I bruis'd the Pan of his Brain, till Flashes of
 Lightning flew swift from his Eyes; I stabb'd his Sight, he
@@ -549,7 +551,7 @@ have often fortold my Fate.
 <i>Fla.</i> And as I was saying, Army in Array against Army,
 stood solemn, profound, before the Cloudy Van, Expectation
 stood in Horrour, and <i>Satan</i>, with vast and haughty
-Strides advanc [**']d, came touring, arm'd in Adamant and Gold.
+Strides advanc'd, came touring, arm'd in Adamant and Gold.
 
 <i>Enter</i> Darony.
 
@@ -562,7 +564,7 @@ Strides advanc [**']d, came touring, arm'd in Adamant and Gold.
 <i>Fla.</i> Draw.
 
 <i>Urlan.</i> Hold, he is repeating a Passage in <i>Milton</i>; his Wit
-is borrow'd, he [**']s a Moon-light.
+is borrow'd, he's a Moon-light.
 
 <i>Dar.</i> I'll excuse him as a Lunatick.
 
@@ -591,7 +593,7 @@ together plunge in over Head and Ears most horrid.
 
 <i>Urlan.</i> Pray what new Adventures at Court?
 
-<i>Dar[**.]</i> A poor King is arrived at Court, and <i>Dologodelmo</i>
+<i>Dar.</i> A poor King is arrived at Court, and <i>Dologodelmo</i>
 Oratorys high Encomiums upon the mighty <i>Soaretherial</i>,
 declares he's like the glorious Sun, extends his Beams to
 all and every part of the World; and as he rides along
@@ -618,11 +620,11 @@ the Lord <i>Urme</i>, he will strengthen our Design.
 */
 
 
-SCENE[**gesperrt?], <i>Cademore</i>'s Apartment.
+<g>SCENE</g>, <i>Cademore</i>'s Apartment.
 
 <i>Enter</i> Cademore <i>and</i> Lusingo.
 
-<i>Lusin[** . ?]</i> My good Lady prepare, the King comes.
+<i>Lusin.</i> My good Lady prepare, the King comes.
 
 <i>Cade.</i> O <i>Lusingo</i>! I could longer taste the Sweets of Expectation
 dear, I'd view the beautiful œconomy of this
@@ -632,7 +634,7 @@ Bliss too too soon. Was I to leave this World, and take
 my Flight to the celestial Heights, I'd first visit yon distant
 Moon; then tow'ring high I'd visit the brightest Situation
 of the Sun; then climb amazed up to the Stars; I'd taste
-the Sweets of every Orb, before I enter d[**enter'd?] Heaven.      [<i>Ex.</i>
+the Sweets of every Orb, before I enter'd Heaven.      [<i>Ex.</i>
 
 <i>Enter</i> King, Theorbeo, <i>and</i> Hurlothrumbo.
 
@@ -647,7 +649,7 @@ one that is cloathed with Nature.
 <i>King.</i> I beg pardon, I touch your Sore; I long to attend
 thee to the Throne with a hundred thousand Men.
 
-<i>Theo[** . ?]</i> I return your Majesty thanks; yet hope, that no
+<i>Theo.</i> I return your Majesty thanks; yet hope, that no
 one will venture his Life for me: the Life of a Friend is
 more than a Kingdom.
 
@@ -677,7 +679,7 @@ is starved out.
 <i>King.</i> And what is Honour?
 
 /*
-<i>Hurlo[** .]</i> Honour is, and it is not; yet Honour is to be found[**. ?][**F1: this line only has a hanging indent; a printing error? intended as verse?//F2:runover line of verse due to length; typical in metrical]
+<i>Hurlo.</i> Honour is, and it is not; yet Honour is to be found.[**F1: this line only has a hanging indent; a printing error? intended as verse?//F2:runover line of verse due to length; typical in metrical]
 */
 
 <i>Theo.</i> My Intellect has rang'd in pursuit of Honour
@@ -713,7 +715,7 @@ this lower World, and makes all Nature rejoice in his
 Presence; so you cherish and revive my Heart, all my Faculties
 rise up in Raptures: A thousand sublime Thoughts
 -----File: 018.png---------------------------------------------------------
-spring up in my Soul: Is there any thing[**anything?] in my Kingdom
+spring up in my Soul: Is there any thing in my Kingdom
 can yield you Pleasure.
 
 <i>Cad.</i> Every thing here is pleasing to me. <i>Seringo</i>, Let
@@ -748,9 +750,9 @@ ACT II.
 
 <i>Urlan.</i> All things are in readiness according
 to your desire; <i>Darno</i> is raising an Army in
-the <i>North</i>, <i>Lomporhomock[** unclear in source scan]</i> is now landing in the <i>South</i> with
+the <i>North</i>, <i>Lomporhomock</i> is now landing in the <i>South</i> with
 20000 Men, and when the Tidings reach the King's Ears,
-he ll[**he'll ?] extend his Army to the <i>North</i> and to the <i>South</i>; then,
+he'll extend his Army to the <i>North</i> and to the <i>South</i>; then,
 when his Forces have left the City, the 500 Men which I
 have hired, for what Purpose they know not, but exactly
 at two a-Clock in the Morning, each Man is to fire a
@@ -788,7 +790,7 @@ all.
 
 <i>Serin.</i> <i>Sementory</i>, to thy Tire.
 
-<i>Sem[**.]</i> I'm weary of Dress, pall'd with Pleasure, sick of
+<i>Sem.</i> I'm weary of Dress, pall'd with Pleasure, sick of
 the event of vain Hopes: Some say that Marriage is made
 in Heaven; but 'tis my Opinion, if all the Harlots were
 sent to the Grand <i>Turk</i>, there would be more Weddings
@@ -812,7 +814,7 @@ and look as fierce as if he took Gunpowder-Snuff; could
 you love such a one?
 
 /*
-<i>Seren.[**Serin?]</i>  How gay, how free, how merry is he!
+<i>Serin.</i>  How gay, how free, how merry is he!
           How full of Charms to move!
           His Soul is full of Love.
 */
@@ -826,7 +828,7 @@ you love such a one?
 a gossiping all Night with a very fine Lady, and is not able
 now to perform her Office.
 
-<i>Sem.</i> The rich <i>Molotto[**unclear in source scan]</i> Lady, I presume?
+<i>Sem.</i> The rich <i>Molotto</i> Lady, I presume?
 
 <i>Hurlo.</i> She is rich, do you not like her for that?
 
@@ -961,7 +963,7 @@ away.
 your Majesty.
 
 /*
-[<i>Ex.</i> Theorbeo, Hurlo.[**,?] <i>and</i> Servant.
+[<i>Ex.</i> Theorbeo, Hurlo, <i>and</i> Servant.
 */
 
 <i>King.</i> I am at leisure----From whence this Distress in my
@@ -1105,24 +1107,24 @@ with me, then farewel Honour, farewel Care.       [<i>Exit.</i>
 
 
 
-ACT III,[**.]
+ACT III.
 
 
 <i>Enter</i> Hurlothrumbo <i>and</i> Dologodelmo.
 
 <i>Dolo.</i> <i>Hurlothrumbo</i>, are you ready to mount[**missing "?"]
 
-<i>Hurlo[**.]</i> 'tis[** 'Tis] confounded dark, must we not stay
+<i>Hurlo.</i> 'tis[** 'Tis] confounded dark, must we not stay
 for the King?
 
 <i>Dolo.</i> No; the Princess <i>Cademore</i> will not hear of his
 going to the Wars; at the Sound of the Word, she faints,
-sinks and dies away.       [<i>Exit</i> Dolo[**.]
+sinks and dies away.       [<i>Exit</i> Dolo.
 
 <i>Enter</i> Servant <i>with a Letter, delivers it, and Exit</i>.
 
 /*
-[Hurlo[**.] <i>reads it</i>.
+[Hurlo. <i>reads it</i>.
 */
 
 <i>Hurlo.</i> Oh 'tis from <i>Darony</i>! <i>Make me the next Man to the
@@ -1134,7 +1136,7 @@ long as</i> Theorbeo <i>stays, thy Honour wears like a Garment</i>:
 may be so; I'll consider of this.       [<i>Exit</i> Hurlo.
 -----File: 026.png---------------------------------------------------------
 
-<i>Enter</i> Darony <i>and</i> Unlandenny[** Urlandenny?][** .]
+<i>Enter</i> Darony <i>and</i> Urlandenny.
 
 /*
 [<i>Guns fire at a distance.</i>
@@ -1251,7 +1253,7 @@ that are in Intellect but three Inches high.
 
 <i>Urlan.</i> No, your Upstarts are huge, and tall, converse
 with a Prince of the Air, and their Nostrils are full of the
-Devil.      [<i>Ex.</i> Pun. and[**s/b italics?] Tem.
+Devil.      [<i>Ex.</i> Pun. <i>and</i> Tem.
 
 <i>Drums beat. Enter</i> Darony.
 
@@ -1276,9 +1278,9 @@ the King; for while he's living, all his Friends will
 rouse up like Lions, but when they hear he's dead, 'twill
 greatly oppress their Souls.
 
-<i>Dar[** missing "."]</i> He shall instantly be executed.
+<i>Dar.</i> He shall instantly be executed.
 
-<i>Lom,[**typo?: "," should be "."]</i> Then I'll march in Pleasure, and meet his Army[** "." ?]
+<i>Lom.</i> Then I'll march in Pleasure, and meet his Army.
 
 /*
 [<i>Ex.</i> Urland. Dar. <i>and</i> Lom.
@@ -1293,7 +1295,7 @@ limited Revenge.
 
 <i>Enter</i> Lomperhomock.
 
-<i>Lomp[**typo?: "<i>Lom.</i>"]</i> Pardon me, oh King, I am come to inform you,
+<i>Lomp.</i> Pardon me, oh King, I am come to inform you,
 at Six a Clock this Morning is your appointed Time to die.
 
 /*
@@ -1366,7 +1368,7 @@ Thought of Man.
 <i>King.</i> The Pangs of my Death smart in thee, there is no
 pain in Death, the Sound of your Words is Musick to my
 Soul, and makes the ever-living Youth rejoice, and leap
-for Joy, being ripe for birth, desires to go to Life:[**P2: semi-colon?] but
+for Joy, being ripe for birth, desires to go to Life; but
 this Body, this timorous Mother Earth; alas she shivers,
 and dreads the Hour of her Travail, but when that Midwife
 Death in Life shall give me Birth, Oh! may it be in
@@ -1431,7 +1433,7 @@ Escape in my Habit; and by that Time you have reach'd
 to the Army, I being a Stranger, will pass the Centry again,
 and come to your Majesty.
 
-<i>King.</i> 'Tis an inspired Thought, we'll put it in Execution[**missing .?]
+<i>King.</i> 'Tis an inspired Thought, we'll put it in Execution.
 
 /*
 [<i>The King dresses himself in</i> Theorbeo<i>'s Clothes</i>.
@@ -1521,7 +1523,7 @@ With all your Harps and Arts, and Sweets to please from <i>Jove</i>.
 
 
 
-ACT[**possible gesperrt] IV.
+ACT IV.
 
 
 <i>Enter</i> Bellman <i>and Sings</i>.
@@ -1696,7 +1698,7 @@ will not consent to marry, I'll force her.      [<i>Exeunt.</i>
 -----File: 037.png---------------------------------------------------------
 
 
-SCENE[**gesperrt?], <i>a Prison</i>.
+<g>SCENE</g>, <i>a Prison</i>.
 
 <i>Enter</i> Theorbeo, <i>and</i> Dologodelmo <i>looking on his Watch</i>.
 
@@ -1787,7 +1789,7 @@ farewell for ever.      [<i>Ex.</i>
 -----File: 039.png---------------------------------------------------------
 
 
-SCENE[**gesperrt?], <i>a Wood</i>.
+<g>SCENE</g>, <i>a Wood</i>.
 
 <i>Thunder and Lightning. Enter</i> King.
 
@@ -1972,7 +1974,7 @@ I'll prick him on with speary Tail.
 -----File: 043.png---------------------------------------------------------
 
 
-SCENE[**gesperrt?], <i>Cadmore</i>'s Apartment.
+<g>SCENE</g>, <i>Cadmore</i>'s Apartment.
 
 <i>Enter</i> Cadmore <i>and</i> Seringo.
 
@@ -2049,7 +2051,7 @@ Sir, perform your Office.      [<i>Speaking to the</i> Parson.
 
 <i>Par.</i> 'Tis my Sovereign, and I must obey.
 
-<i>Enter</i> Flame, <i>with Pistols.[** , ?] and a drawn Sword</i>.
+<i>Enter</i> Flame, <i>with Pistols, and a drawn Sword</i>.
 
 <i>Fla.</i> This Dagger will I heat red-hot in the crimson Blood
 of <i>Darony</i>, with which I'll spear the Heart of <i>Seringo</i>, that
@@ -2099,7 +2101,7 @@ Power to assist you?
 
 <i>Fla.</i> No; my Soul, like a Jocky, is mounted and riding
 his eternal Race; I have slackned the Reins of Nature, and
-the Beast pulls, is pampered[**pampered?] with too many Beans and Oats,
+the Beast pulls, is pampered with too many Beans and Oats,
 and is running away with me to the Devil.
 
 /*
@@ -2173,7 +2175,7 @@ And parting worse than Death, Death, oh.</i>
 
 
 
-ACT[**gesperrt?] V.
+ACT V.
 
 
 <i>Enter</i> Hurlothrumbo, <i>in Prison guarded</i>.
@@ -2466,7 +2468,7 @@ up a Rit-a-te; every Faculty is trickling down with Transports.
 */
 
 
-<i>A SONG.</i>[**or gesperrt?]
+<g><i>A SONG.</i></g>
 
 <i>Scene changes to the Court.</i>
 
