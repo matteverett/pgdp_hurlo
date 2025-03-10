@@ -61,19 +61,54 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 ### Transcriber's notes ###
 * 006 | tho' I have nothi[n]g to boast of in my | Added.
 * 006 | Play, but the Characte[r] of Soarethereal, yet | Added.
+* 006 | SAM. JOHNSON[;/.] | Replaced.
 * 008 | MEN[.] | Added.
+* 009 | <i>Dolo.</i> No Storms, no Rebellions, I hope[,/.] | Replaced.
 * 010 | not, he's King and he's no King; his high-born Soul is [a] | Deleted.
 * 010 | die and leave her behind amongst co[r]poreal Rivals; that she | Added.
-* 012 | [The King sits down a[a/n]d pauses, then rises. | Replaced.
+* 012 | [<i>The King sits down a[a/n]d pauses, then rises.</i> | Replaced.
+* 012 | <i>King.</i> Let them appear[,/.] [<i>Exit</i> Dolo.] These Men despise | Replaced.
 * 012 | Vales, and the Valleys rose up to Mountains, [n/u]pon which a | Replaced.
+* 012 | <i>King.</i> If <i>Hurlothrumbo</i> is brave, there is no danger[,/.] | Replaced
+* 013 | his Ammunition Spur, he wrench[']d it wide, and gripe'd it | Added.
+* 013 | his Ammunition Spur, he wrench'd it wide, and gripe[']d it | Added.
+* 013 | he enter[']d, flinging from his Talons sedentary Pain, with | Added.
+* 013 | I threw myself astride; then with my Knees I crush[']d his | Added.
+* 013 | I advanc[']d; again I struck, then trembling, he disgorg'd | Added.
+* 015 | is borrow'd, he[']s a Moon-light. | Added.
+* 015 | <i>Dar[.]</i> A poor King is arrived at Court, and <i>Dologodelmo</i> | Added.
+* 016 | <i>Lusin[.]</i> My good Lady prepare, the King comes. | Added.
+* 016 | the Sweets of every Orb, before I enter[']d Heaven. | Added.
+* 016 | <i>Theo[.]</i> I return your Majesty thanks; yet hope, that no | Added.
+* 017 | <i>Cade.</i> Oh he's here! O my Soul starts, and my Heart[:]strings | Deleted.
+* 018 | he[']ll extend his Army to the <i>North</i> and to the <i>South</i>; then, | Added.
+* 019 | <i>Sem[.]</i> I'm weary of Dress, pall'd with Pleasure, sick of | Added.
 * 019 | Ser[e/i]n. How gay, how free, how merry is he! | Replaced.
+* 022 | [<i>Ex.</i> Theorbeo, Hurlo[./,] <i>and</i> Servant. | Replaced.
+* 025 | ACT III[,/.] | Replaced.
+* 025 | <i>Dolo.</i> <i>Hurlothrumbo</i>, are you ready to mount[?] | Added.
+* 025 | <i>Hurlo[.]</i> 'Tis confounded dark, must we not stay | Added.
+* 025 | <i>Hurlo.</i> '[t/T]is confounded dark, must we not stay | Replaced.
+* 025 | [<i>Exit</i> Dolo[.] | Added.
+* 025 | [Hurlo[.] <i>reads it</i>. | Added.
 * 026 | Enter Darony and U[n/r]landenny. | Replaced.
+* 028 | [<i>Ex.</i> Pun. [<i>and</i>] Tem. | Italicized.
+* 028 | <i>Dar[.]</i> He shall instantly be executed. | Added.
+* 028 | <i>Lom[,/.]</i> Then I'll march in Pleasure, and meet his Army. | Replaced.
+* 028 | <i>Lomp[.]</i> Pardon me, oh King, I am come to inform you, | Added.
+* 030 | for Joy, being ripe for birth, desires to go to Life[:/;] but | Replaced.
+* 031 | <i>King.</i> 'Tis an inspired Thought, we'll put it in Execution[.] | Added.
 * 032 | Ente[r], Dologodelmo guarded. | Added.
 * 033 | And if you please her, as you o[n/u]ght to do, | Replaced.
 * 034 | all the Pile of Building in the other World was tumbl[;/i]ng | Replaced.
 * 036 | [he] could not escape your Armour. | Deleted.
 * 039 | Fiend to fight ag[o/a]inst him: remember thou Toad of Hell, | Replaced.
+* 042 | the Anguish and Bitterness of my Soul, I'll [f/s]lash it through | Replaced.
+* 044 | <i>Enter</i> Flame, <i>with Pistols[./,] and a drawn Sword</i>. | Replaced.
 * 045 | the Beast pulls, is pamp[a/e]red with too many Beans and Oats, | Replaced.
+* 053 | [ (/[ ]<i>Ex.</i> Dolo. | Replaced.
+* 053 | [ (/[ ]<i>Exit.</i> | Replaced.
+* 056 | [ (/[ ]<i>Exeunt.</i> | Replaced.
 * 059 | Handel himse[l]f shall yield to Hurlothrumbo, | Added.
 
 ### HTML file review ###

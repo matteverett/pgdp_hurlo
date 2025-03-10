@@ -35,7 +35,7 @@ Printed for the AUTHOR And,
 /#
 <i>Dublin</i>: Re-Printed by <sc>James Hoey</sc>, and <sc>George
 Faulkner</sc>, at the <i>Pamphlet-Shop</i> in <i>Skinner-Row</i> opposite
-to the <i>Tholsel</i>, MDCCXXIX.[**Rewrap with hanging indent]
+to the <i>Tholsel</i>, MDCCXXIX.
 #/
 */
 -----File: 002.png---------------------------------------------------------
@@ -205,7 +205,7 @@ And Words burst forth with more than mortal Sound.</i>      }
 Persons of the Drama.
 
 
-MEN
+MEN.
 
 /*
 Soarethereal.
@@ -227,7 +227,7 @@ Death.
 */
 
 
-WOMEN,[** unclear - delete punctuation? ]
+WOMEN.
 
 /*
 Cademore.
@@ -679,7 +679,7 @@ is starved out.
 <i>King.</i> And what is Honour?
 
 /*
-<i>Hurlo.</i> Honour is, and it is not; yet Honour is to be found.[**F1: this line only has a hanging indent; a printing error? intended as verse?//F2:runover line of verse due to length; typical in metrical]
+<i>Hurlo.</i> Honour is, and it is not; yet Honour is to be found.
 */
 
 <i>Theo.</i> My Intellect has rang'd in pursuit of Honour
@@ -702,13 +702,13 @@ to see the Lady your Sister.
 */
 
 /#
-[<i>Scene changes, and discovers</i> Cademore, Seringo, <i>and</i> Lusingo.[**Hanging indent in printed book, but rejoined in P-rounds.]
+[<i>Scene changes, and discovers</i> Cademore, Seringo, <i>and</i> Lusingo.
 #/
 
 <i>Enter</i> King, <i>and salutes</i> Cademore.
 
-<i>Cade.</i> Oh he's here! O my Soul starts, and my Heart:[**-]
-strings shiver!
+<i>Cade.</i> Oh he's here! O my Soul starts, and my Heartstrings
+shiver!
 
 <i>King.</i> O my <i>Cademore</i>, now I live: as that great Sun revives
 this lower World, and makes all Nature rejoice in his
@@ -719,7 +719,7 @@ spring up in my Soul: Is there any thing in my Kingdom
 can yield you Pleasure.
 
 <i>Cad.</i> Every thing here is pleasing to me. <i>Seringo</i>, Let
-the King hear the musical Description of <i>Arsinoe</i>'s Dancing.[**hanging indent?]
+the King hear the musical Description of <i>Arsinoe</i>'s Dancing.
 
 /*
 Ser.  <i>Brisk and Airy, tript with a</i> Fairy <i>Air of Scorn,
@@ -765,7 +765,7 @@ him from Sleep surprized.
 <i>Urlan.</i> You and I with a small Body of Men, will march
 through the City with a Shout, saying, The City is surrounded
 with Foreigners, Fire and Sword, Fire and Sword!
-rise[**capital?], rise quickly, rise to Arms.
+rise, rise quickly, rise to Arms.
 -----File: 019.png---------------------------------------------------------
 
 <i>Daro.</i> That's good; then in a moment's time we shall be
@@ -780,7 +780,7 @@ will devour a savage Lion. We'll prejudice them against
 the King, lead them to the Court, and take possession of
 all.
 
-<i>Daro.</i> So farewel, my Lord; remember two a-clock[**a-Clock capitalized on previous page].
+<i>Daro.</i> So farewel, my Lord; remember two a-clock.
 
 /*
 [<i>Exeunt severally.</i>
@@ -866,7 +866,7 @@ know not where.
 
 <i>Enter</i> King.
 
-<i>King.</i> <i>Theorbo</i>, why meditate yon[**you?] thus? that Soul of
+<i>King.</i> <i>Theorbo</i>, why meditate yon thus? that Soul of
 thine that came from Heaven, longs to leave me, to soar
 aloft and travel home; grieve not thus for a Woman, I
 myself am tender, yet bold; I often weep in a fine Lady's
@@ -1047,7 +1047,7 @@ Officer, is just landed with 200,000 Men.
 and I'll give them the meeting myself.
 
 /*
-[<i>Ex.</i> Hurlo. <i>and</i> Dolo.[**stage directions in the same line elsewhere]
+[<i>Ex.</i> Hurlo. <i>and</i> Dolo.
 */
 
 I am rais'd above the common Height of Man, lifted up to
@@ -1112,9 +1112,9 @@ ACT III.
 
 <i>Enter</i> Hurlothrumbo <i>and</i> Dologodelmo.
 
-<i>Dolo.</i> <i>Hurlothrumbo</i>, are you ready to mount[**missing "?"]
+<i>Dolo.</i> <i>Hurlothrumbo</i>, are you ready to mount?
 
-<i>Hurlo.</i> 'tis[** 'Tis] confounded dark, must we not stay
+<i>Hurlo.</i> 'Tis confounded dark, must we not stay
 for the King?
 
 <i>Dolo.</i> No; the Princess <i>Cademore</i> will not hear of his
@@ -2125,7 +2125,7 @@ rise up in my Heart, and conquer all my Grief.
 
 <i>Sem.</i> I am full of sympathetick Confusion; there is nothing
 to be seen upon the Terrass, but Flashes of Lightning,
-flying through Clouds of Gun-pouder[**powder?] Smoak.
+flying through Clouds of Gun-pouder Smoak.
 
 <i>Cad.</i> Oh I tremble!
 -----File: 046.png---------------------------------------------------------
@@ -2483,7 +2483,7 @@ coming.
 
 <i>Dolo.</i> I have inform'd the King that you have a Petition
 to his Majesty; he'll instantly pass by, and speak to you;
-see where he comes!      ([**F1: bracket in past rather than (]<i>Ex.</i> Dolo.
+see where he comes!      [<i>Ex.</i> Dolo.
 
 <i>Enter</i> King.
 
@@ -2515,7 +2515,7 @@ and demands a Parly; and when my vanquish'd Adversary
 stands before me, it is equal to me whether I strike or kiss.
 
 /*
-([**F1: bracket in past rather than (]<i>Exit.</i>
+[<i>Exit.</i>
 */
 
 <i>Enter</i> Sementory <i>and</i> Seringo.
@@ -2651,7 +2651,7 @@ stand, for thy exceeding Glory will eclipse their Sight: Fear
 and Trembling on their vital Hearts will seize, they'll drop
 to the Earth as Leaves in Autumn fall; the mortal Stars will
 not presume to gaze, but in thy Presence veil their Faces
-all.      ([**s/b bracket?]<i>Exeunt.</i>
+all.      [<i>Exeunt.</i>
 
 
 <i>FINIS.</i>
@@ -2691,7 +2691,7 @@ Out of the reach of</i> critical <i>Dominion.</i>
 [Enter <i>Critick</i>.]
 
 /*
-<i>Adso! her's one of 'em.</i>----Cr. <i>A strange odd Play, Sir</i>;[**F1: lines w/ two speakers need to remain intact for the rhyming]
+<i>Adso! her's one of 'em.</i>----Cr. <i>A strange odd Play, Sir</i>;
 */
 
 /*
