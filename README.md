@@ -12,10 +12,6 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 
-### Things to revisit ###
-
-* [ ] Example item
-
 ### Project manager notes ###
 
 > ... every book ought to be read with the same spirit and in the same manner as it is writ. Thus the famous author of *Hurlothrumbo* told a learned bishop, that the reason his lordship could not taste the excellence of his piece was, that he did not read it with a fiddle in his hand; which instrument he himself had always had in his own, when he composed it.
@@ -33,6 +29,12 @@ The page numbering in this book skips from 28 to 33, but no material is missing 
 This is an 18th-century book that uses the long s (ſ), which looks a lot like an f. Please proof as a **regular s** (i.e., proof "progreſs" as "progress"). See the [Proofing old texts](https://www.pgdp.net/wiki/DP_Official_Documentation:Proofreading/Proofing_old_texts) page for more information.
 
 Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki/DP_Official_Documentation:Proofreading/Proofreading_Guidelines#Single_Word_at_Bottom_of_Page) at the bottom of pages, even if they're the second part of a hyphenated word.
+
+### Things to revisit ###
+
+* [x] Oeconomy -- Replace Oe with Œ.
+* [x] melancholly? -- sic.
+* [x] jarr? -- sic.
 
 ### Forum notes ###
 
@@ -59,6 +61,8 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+* Superscript notation
+  
 * 006 | tho' I have nothi[n]g to boast of in my | Added.
 * 006 | Play, but the Characte[r] of Soarethereal, yet | Added.
 * 006 | SAM. JOHNSON[;/.] | Replaced.
@@ -85,6 +89,7 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 019 | <i>Sem[.]</i> I'm weary of Dress, pall'd with Pleasure, sick of | Added.
 * 019 | Ser[e/i]n. How gay, how free, how merry is he! | Replaced.
 * 022 | [<i>Ex.</i> Theorbeo, Hurlo[./,] <i>and</i> Servant. | Replaced.
+* 023 | beautiful [OE/Œ]conomy of the Universe, listen to the Linnets, } Replaced.
 * 025 | ACT III[,/.] | Replaced.
 * 025 | <i>Dolo.</i> <i>Hurlothrumbo</i>, are you ready to mount[?] | Added.
 * 025 | <i>Hurlo[.]</i> 'Tis confounded dark, must we not stay | Added.
@@ -98,7 +103,7 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 028 | <i>Lomp[.]</i> Pardon me, oh King, I am come to inform you, | Added.
 * 030 | for Joy, being ripe for birth, desires to go to Life[:/;] but | Replaced.
 * 031 | <i>King.</i> 'Tis an inspired Thought, we'll put it in Execution[.] | Added.
-* 032 | Ente[r], Dologodelmo guarded. | Added.
+* 032 | Ente[,/r], Dologodelmo guarded. | Replaced.
 * 033 | And if you please her, as you o[n/u]ght to do, | Replaced.
 * 034 | all the Pile of Building in the other World was tumbl[;/i]ng | Replaced.
 * 036 | [he] could not escape your Armour. | Deleted.
@@ -106,8 +111,13 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 042 | the Anguish and Bitterness of my Soul, I'll [f/s]lash it through | Replaced.
 * 044 | <i>Enter</i> Flame, <i>with Pistols[./,] and a drawn Sword</i>. | Replaced.
 * 045 | the Beast pulls, is pamp[a/e]red with too many Beans and Oats, | Replaced.
+* 045 | flying through Clouds of Gun-po[u/w]der Smoak. | Replaced.
+* 046 | [<i>Exeunt.</i> | Italicized.
+* 050 | Mind; raise to the highest [Oe/Œ]conomy of the Universe, and | Replaced.
 * 053 | [ (/[ ]<i>Ex.</i> Dolo. | Replaced.
 * 053 | [ (/[ ]<i>Exit.</i> | Replaced.
+* 054 | [ (/[ ]<i>Ex.</i> Flame, Sementory, <i>and</i> Seringo. | Replaced.
+* 056 | [ (/[ ]Dol. <i>holds him</i>. | Replaced.
 * 056 | [ (/[ ]<i>Exeunt.</i> | Replaced.
 * 059 | Handel himse[l]f shall yield to Hurlothrumbo, | Added.
 

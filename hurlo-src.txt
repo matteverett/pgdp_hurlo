@@ -39,7 +39,6 @@ to the <i>Tholsel</i>, MDCCXXIX.
 #/
 */
 -----File: 002.png---------------------------------------------------------
-[Blank Page]
 -----File: 003.png---------------------------------------------------------
 
 
@@ -277,7 +276,7 @@ have coin’d their Estates into Money.
 <i>Dolo.</i> Pray describe yourself in Prose.
 
 /*
-<i>Hurlo.</i>  It will be describ’d in Blows.
+<i>Hurlo.</i> It will be describ’d in Blows.
           There’s more in the Wind
           Than the wise Philosophers can find.
 */
@@ -722,7 +721,7 @@ can yield you Pleasure.
 the King hear the musical Description of <i>Arsinoe</i>’s Dancing.
 
 /*
-Ser.  <i>Brisk and Airy, tript with a</i> Fairy <i>Air of Scorn,
+Ser. <i>Brisk and Airy, tript with a</i> Fairy <i>Air of Scorn,
       Sink in the rising, all surprizing Charms adorn.
       Swift and Gay in every Part,
       And flies away with every Heart:
@@ -814,7 +813,7 @@ and look as fierce as if he took Gunpowder-Snuff; could
 you love such a one?
 
 /*
-<i>Serin.</i>  How gay, how free, how merry is he!
+<i>Serin.</i> How gay, how free, how merry is he!
           How full of Charms to move!
           His Soul is full of Love.
 */
@@ -833,7 +832,7 @@ now to perform her Office.
 <i>Hurlo.</i> She is rich, do you not like her for that?
 
 /*
-<i>Sem.</i>  But give me the Man that’s like the Bee,
+<i>Sem.</i> But give me the Man that’s like the Bee,
         That flies round and round the Field to see,
         To taste of every Herb, to chuse the Sweet, to miss the Sour,
         He hovers and sings, and sucks the true Vertue from the Flower:
@@ -990,7 +989,7 @@ Mortals! that I had been born in humbler State: Ye rural
 Shepherds, ye Companions of Angels, I envy you: that I
 could be like to you, my Ambition only to reach the Top
 of a Mountain, to lean upon my Staff, there to admire the
-beautiful OEconomy of the Universe, listen to the Linnets,
+beautiful Œconomy of the Universe, listen to the Linnets,
 Larks, and Nightingales, that warble forth their Praise on
 high; to the Sun they offer up their Joy: these would
 teach me to be grateful. Of my Lambs, that innocently
@@ -1455,7 +1454,7 @@ to see you again.
 <i>Theor.</i> When I think you’re safe, I’ll follow.      [<i>Ex. King.</i>
 -----File: 032.png---------------------------------------------------------
 
-<i>Enter</i>, Dologodelmo <i>guarded</i>.
+<i>Enter</i> Dologodelmo <i>guarded</i>.
 
 O <i>Godelmo</i>, what brings thee to this Place of Misery?
 Speak quickly, though I dread to hear.
@@ -2125,7 +2124,7 @@ rise up in my Heart, and conquer all my Grief.
 
 <i>Sem.</i> I am full of sympathetick Confusion; there is nothing
 to be seen upon the Terrass, but Flashes of Lightning,
-flying through Clouds of Gun-pouder Smoak.
+flying through Clouds of Gun-powder Smoak.
 
 <i>Cad.</i> Oh I tremble!
 -----File: 046.png---------------------------------------------------------
@@ -2160,7 +2159,7 @@ And parting worse than Death, Death, oh.</i>
 */
 
 /*
-[Exeunt.
+[<i>Exeunt.</i>
 */
 
 
@@ -2360,7 +2359,7 @@ in readiness; let the Musick be <i>Astartus</i>, ’tis the Language
 of Angels, the Eccho of Heaven; and who shall declare
 the Sense to Mortals? Those Sounds inspire the Intellect,
 and strengthen the Soul; they animate and arm the
-Mind; raise to the highest Oeconomy of the Universe, and
+Mind; raise to the highest Œconomy of the Universe, and
 lure me quite from Care; then finely turning the Keys of
 Paradise, they waft me from Orb to Orb, and make me,
 thro’ divine Opticks, see, the radiant Splendors of bright
@@ -2560,7 +2559,7 @@ away.
 <i>Sem.</i> Make way; see here the King comes!
 
 /*
-(<i>Ex.</i> Flame, Sementory, <i>and</i> Seringo.
+[<i>Ex.</i> Flame, Sementory, <i>and</i> Seringo.
 */
 
 <i>Enter</i> King <i>and</i> Cademore.
@@ -2627,7 +2626,7 @@ is at Wars within, and knocks down Avarice, Cruelty
 and Pride in me, I am in love with your Greatness, and
 -----File: 056.png---------------------------------------------------------
 hate myself; I myself will punish your Offender, [<i>stabs
-himself</i>] Oh! loose me, ’tis not finished.      (Dol. <i>holds him</i>.
+himself</i>] Oh! loose me, ’tis not finished.      [Dol. <i>holds him</i>.
 
 <i>King.</i> See, is the Wound mortal?
 
