@@ -282,7 +282,7 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
 
 ### Save Edited Markup
 * [x] Save any unsaved changes
-* [ ] Sync with github repository
+* [x] Sync with github repository
 
 ### Validation
 * [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
@@ -291,10 +291,10 @@ _Hurlothrumbo: or: the super-natural_ by Johnson, Samuel
 ## Create Ppgen File
 
 ### Add Front Matter
-* [ ] Add `frontmatter.txt` to the start of the file.
+* [x] Add `frontmatter.txt` to the start of the file.
 
 ### Join page boundaries
-* [ ] Replace page boundaries with `.pm new-page`
+* [x] Replace page boundaries with `.pm new-page`
   * Search Regex: `-----File: (\d\d\d).png---------------------------------------------------------`
   * Replace with: `.pm new-page $1`
 

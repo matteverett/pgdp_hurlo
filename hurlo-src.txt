@@ -1,5 +1,56 @@
+// ppgen source for Hurlothrumbo: or: the super-natural
+// ppgen ver 3.57e
 
------File: 001.png---------------------------------------------------------
+// Set title
+.dt Hurlothrumbo: or: the super-natural | Project Gutenberg
+
+// Set line length
+.ll 72
+
+// Define CSS
+.de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+
+// Define macros
+.dm chapter-break
+.sp 4
+.dm-
+
+.dm section-break
+.sp 2
+.dm-
+
+.dm new-page $1
+.bn $1.png
+.pn +1
+.dm-
+
+.dm new-page-break $1
+.pb
+.pm new-page $1
+.dm-
+
+.dm verse-start
+.in +4
+.nf b
+.dm-
+
+.dm verse-end
+.nf-
+.in -4
+.dm-
+
+// Page numbering
+.pn off // turn off visible page numbers
+.pn link
+
+// Paragraph formatting, indent paragraphs by 0.75 em.
+.pi
+.nr psi 0.75em
+
+.bn 001.png
+.pn 1
+
+
 
 
 
@@ -38,8 +89,8 @@ Faulkner</sc>, at the <i>Pamphlet-Shop</i> in <i>Skinner-Row</i> opposite
 to the <i>Tholsel</i>, MDCCXXIX.
 #/
 */
------File: 002.png---------------------------------------------------------
------File: 003.png---------------------------------------------------------
+.pm new-page 002
+.pm new-page 003
 
 
 
@@ -75,7 +126,7 @@ as Lady <i>Bland</i>. I have often thought
 that you are a Compound of the World’s
 Favourites, that all meet and rejoice together
 in one; the Taste of <i>Montagu</i>, <i>Wharton</i>,
------File: 004.png---------------------------------------------------------
+.pm new-page 004
 or <i>Meredith</i>, <i>Stanhope</i>, <i>Sneid</i>, or <i>Byrom</i>;
 the Integrity and Hospitality of <i>Legh</i> of <i>Lime</i>,
 the Wit and Fire of <i>Bunbury</i>, the Sense of
@@ -99,7 +150,7 @@ especially,
 
 Lord <i>FLAME</i>.
 */
------File: 005.png---------------------------------------------------------
+.pm new-page 005
 
 
 
@@ -134,7 +185,7 @@ but they will not write, because they say
 there is nothing encourag’d but Noise and
 Nonsense. But I believe those Bards are
 mistaken; for so long as the Lord Duke of
------File: 006.png---------------------------------------------------------
+.pm new-page 006
 <i>Montagu</i>, Yourself, and Mr. <i>Charles Stanhope</i>
 live, fine Poetry will not want Encouragement:
 tho’ I have nothing to boast of in my
@@ -150,7 +201,7 @@ no one is more thankful than
 
 SAM. JOHNSON.
 */
------File: 007.png---------------------------------------------------------
+.pm new-page 007
 
 
 
@@ -196,7 +247,7 @@ Hark to the Noise a hundred Doors around,                   }
 Spontaneous jarr, the vaulted Roofs rebound,                }
 And Words burst forth with more than mortal Sound.</i>      }
 */
------File: 008.png---------------------------------------------------------
+.pm new-page 008
 
 
 
@@ -235,7 +286,7 @@ Seringo.
 Lusingo.
 Cuzzonida.
 */
------File: 009.png---------------------------------------------------------
+.pm new-page 009
 
 
 
@@ -285,7 +336,7 @@ have coin’d their Estates into Money.
 
 <i>Hurlo.</i> Nothing less, ’tis Pride, curs’d Pride, but let them
 climb to fall.
------File: 010.png---------------------------------------------------------
+.pm new-page 010
 
 <i>Dolo.</i> Pride, Pride is the Serpent’s Egg laid in the Hearts
 of all; but hatch’d by none but Fools! Pray what says the
@@ -335,7 +386,7 @@ the Ground</i>.
 
 <i>Fla.</i> Thou Key of my Soul, unlock me not, I will not
 die and leave her behind amongst corporeal Rivals; that she
------File: 011.png---------------------------------------------------------
+.pm new-page 011
 was dead, alive, amongst the purest Spirits: Oh that this
 too, oh too, too dear, tender fond Heart could yearn, and
 sigh no more! Constancy destroys me, Love makes me
@@ -387,7 +438,7 @@ die always thus to live with thee; for when the Fetters of
 Slumber have link’d these Limbs and the Ground together,
 when the Chains of Sleep have bound this Body to the
 Earth; when these Eyes, these Ears are insensible, I have
------File: 012.png---------------------------------------------------------
+.pm new-page 012
 other Eyes that see, other Ears that hear, and myself rejoices
 when myself is dead.
 
@@ -444,7 +495,7 @@ Afflicted depend on Dreams?
 <i>Dolo.</i> Your Majesty has no cause to fear.
 
 <i>King.</i> If <i>Hurlothrumbo</i> is brave, there is no danger.
------File: 013.png---------------------------------------------------------
+.pm new-page 013
 
 <i>Dolo.</i> Was not his Courage truly try’d in <i>Rome</i>.
 
@@ -492,7 +543,7 @@ I advanc’d; again I struck, then trembling, he disgorg’d
 a Flood of Gore, and stifling with the Stream, bolt
 upright he rose; I pursued my Strokes, he fainted, he sunk,
 he shiver’d, he died.
------File: 014.png---------------------------------------------------------
+.pm new-page 014
 
 <i>King.</i> <i>Hurlothrumbo</i>, ’tis bravely done; search out into all
 the World, pick the Universe, bring to me every thing
@@ -545,7 +596,7 @@ Designs? The Tongues of Children, Fools and Madmen
 have often fortold my Fate.
 
 <i>Darn.</i> You are superstitious.
------File: 015.png---------------------------------------------------------
+.pm new-page 015
 
 <i>Fla.</i> And as I was saying, Army in Array against Army,
 stood solemn, profound, before the Cloudy Van, Expectation
@@ -603,7 +654,7 @@ cherished, and rises up revived.
 the Plants that reside far off, but those that grow under
 him are burn’d, and scorch’d to Ashes. ’Tis plain, Foreigners
 are most encourag’d, and we that pay the Taxes receive
------File: 016.png---------------------------------------------------------
+.pm new-page 016
 not the Benefit of Office; <i>Soaretherial</i> declares all
 the World are his Country-men, and he that has the greatest
 Soul, to him is the nearest a-kin: but to the Purpose,
@@ -655,7 +706,7 @@ more than a Kingdom.
 <i>King.</i> Venture my Life! what is my Life? let me not
 pass through this World, the common Road to Eternity;
 fade away through the blasting Word from on high, that
------File: 017.png---------------------------------------------------------
+.pm new-page 017
 mingles with the Air, and makes all Men mortal; I had
 much rather surrender this Life up an offering, and die in
 the Service of some dear Friend; in Vehemency of Spirit,
@@ -713,7 +764,7 @@ shiver!
 this lower World, and makes all Nature rejoice in his
 Presence; so you cherish and revive my Heart, all my Faculties
 rise up in Raptures: A thousand sublime Thoughts
------File: 018.png---------------------------------------------------------
+.pm new-page 018
 spring up in my Soul: Is there any thing in my Kingdom
 can yield you Pleasure.
 
@@ -765,7 +816,7 @@ him from Sleep surprized.
 through the City with a Shout, saying, The City is surrounded
 with Foreigners, Fire and Sword, Fire and Sword!
 rise, rise quickly, rise to Arms.
------File: 019.png---------------------------------------------------------
+.pm new-page 019
 
 <i>Daro.</i> That’s good; then in a moment’s time we shall be
 at the Head of 100,000 Men.
@@ -817,7 +868,7 @@ you love such a one?
           How full of Charms to move!
           His Soul is full of Love.
 */
------File: 020.png---------------------------------------------------------
+.pm new-page 020
 
 <i>Enter</i> Hurlothrumbo.
 
@@ -870,7 +921,7 @@ thine that came from Heaven, longs to leave me, to soar
 aloft and travel home; grieve not thus for a Woman, I
 myself am tender, yet bold; I often weep in a fine Lady’s
 Presence, but in a moment can conquer that Passion, and
------File: 021.png---------------------------------------------------------
+.pm new-page 021
 venture my Life with a Lion; can lay my Hand under the
 Foot of an humble Beggar, or take a lofty Emperor by the
 Nose.
@@ -915,7 +966,7 @@ Earthquake in my Breast, Thunder and Lightning in my
 Head, that storm’d down Tempest, and burst my Heart.
 Oh what is Woman! I am sadly in Love, I am not well;
 do kill me, O pity a Lover.      [<i>Ex.</i> Flame.
------File: 022.png---------------------------------------------------------
+.pm new-page 022
 
 <i>King.</i> <i>Hurlothrumbo</i>, what is thy Opinion of this Man?
 my prophetick Soul loves him.
@@ -974,7 +1025,7 @@ Spirits fly around my Heart; my prophetick Soul, like
 
 <i>Dolo.</i> If it be a Crime to bear ill Tidings, your Majesty’s
 Goodness will oblige you to pardon.
------File: 023.png---------------------------------------------------------
+.pm new-page 023
 
 <i>King.</i> Speak, speak <i>Godelmo</i>, thou art my Friend.
 
@@ -1022,7 +1073,7 @@ Forest, every Monster’s Heart will tremble, and in a moment
 fly to their Dens for shelter.
 
 <i>King.</i> See that Draughts are made out of my Troops,
------File: 024.png---------------------------------------------------------
+.pm new-page 024
 20,000 of the most proper Men. This moment I’ll review
 my Army.       [<i>Ex.</i> King <i>and</i> Theor.
 
@@ -1077,7 +1128,7 @@ Then fly to War’s Alarms, and both my Lives will venture.      [<i>Ex.</i> Kin
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Serin.</i> I am all at War within.
------File: 025.png---------------------------------------------------------
+.pm new-page 025
 
 <i>Sem.</i> So much in Love with two Men! alas thy Combat
 will do you no harm; you admire <i>Darone</i> for his Honour,
@@ -1133,7 +1184,7 @@ or debauch a Man’s Wife, and separate their Souls eternal?
 <i>It will preserve a great deal of Blood</i>, that’s true. <i>So
 long as</i> Theorbeo <i>stays, thy Honour wears like a Garment</i>:
 may be so; I’ll consider of this.       [<i>Exit</i> Hurlo.
------File: 026.png---------------------------------------------------------
+.pm new-page 026
 
 <i>Enter</i> Darony <i>and</i> Urlandenny.
 
@@ -1195,7 +1246,7 @@ he’ll touch me; take it I’ll see no more.
 [<i>A shout behind the Scenes, Fire and Sword! Fire and
 Sword! rise quickly.</i>
 */
------File: 027.png---------------------------------------------------------
+.pm new-page 027
 
 <i>Daro.</i> This is <i>Puny</i>’s House, the Miser, break it open.
 
@@ -1244,7 +1295,7 @@ Thirst in the Soul; a longing to reward Merit; fervent
 to serve the meanest, and punctual to his Word; his
 Blood is double and treble refin’d; he’s full of Heaven;
 a Sunfire; a Light that quenches all the Flame of Nature;
------File: 028.png---------------------------------------------------------
+.pm new-page 028
 he lets himself down to converse with great Men and Angels,
 that are in Intellect but three Inches high.
 
@@ -1300,7 +1351,7 @@ at Six a Clock this Morning is your appointed Time to die.
 /*
 [<i>Ex. King.</i>
 */
------File: 029.png---------------------------------------------------------
+.pm new-page 029
 
 <i>King.</i> Let them strike me, let these Clouds pass away;
 let them break the Sky within me, that I may truly see, enter
@@ -1346,7 +1397,7 @@ and there, oh there, let my Spirit expire.
 
 <i>King.</i> Nay, no more of that, if thou be my Friend,
 hate me, be lewd, be infamous, that I may banish thee;
------File: 030.png---------------------------------------------------------
+.pm new-page 030
 oh let me banish thee from every Glance of Thought, that
 I may take my Sleep, my lasting Sleep in Peace.
 
@@ -1401,7 +1452,7 @@ of the Intellect be thus incomparable and Glorious, make
 me not promise, for if I promise, ’twill make me uneasy in
 Heaven, ’till I perform my Word; but if I can entreat to
 thy Guardian Saint, then I’ll attend thee all the Day, hover
------File: 031.png---------------------------------------------------------
+.pm new-page 031
 and settle upon thy Pillow all the Night, where I’ll
 converse with thee in Visions, and when thy Time is full
 done, I’ll wait and watch the closing of thine Eyes, and then
@@ -1452,7 +1503,7 @@ to fly to Sin for Refuge, or to Heaven for Relief.
 to see you again.
 
 <i>Theor.</i> When I think you’re safe, I’ll follow.      [<i>Ex. King.</i>
------File: 032.png---------------------------------------------------------
+.pm new-page 032
 
 <i>Enter</i> Dologodelmo <i>guarded</i>.
 
@@ -1498,7 +1549,7 @@ in the Face of the Elements, bow, sigh, and think
 of Sorrow; I wonder what the Moon thinks of me. Oh
 when, oh when, shall Time and Sorrow cease! Surely <i>Cupid</i>’s
 Dart is the Sting of Death; oh dear Death, oh how I
------File: 033.png---------------------------------------------------------
+.pm new-page 033
 could hug thee. What Sign is it when a Man’s Heart is
 broken?
 
@@ -1544,7 +1595,7 @@ She’ll thank you, Master, and the Bellman too.      [<i>Exit.</i>
 <i>Sem.</i> I have had no Rest this Night, my flustrated Spirits,
 my troubled Soul rais’d me from my Couch to my
 Terrass, where I beheld all Nature in Confusion, the City
------File: 034.png---------------------------------------------------------
+.pm new-page 034
 in Uproar, the Brave in Distress; Spears of Fire, fighting
 in the Elements; the King’s Solitaries scrambling up the
 lofty Hills, by the Light of the Moon; they prostrated
@@ -1592,7 +1643,7 @@ know not.
 <i>Sem.</i> You’re happy you had a Body to shelter you: this
 prognosticates you’ll endure great Calamities, and at the
 last lose your Mistress.
------File: 035.png---------------------------------------------------------
+.pm new-page 035
 
 <i>Hurlo.</i> This is my Mistress; <i>Darony</i>, my Rival, is dead
 in Love to thee; since he’s cruel and inconstant, pour out
@@ -1647,7 +1698,7 @@ as she climbs, she clears, she soars aloft diminutive, that she
 may shine among the Stars.
 
 <i>Hurlo.</i> Mr. Humility, your humble Servant.
------File: 036.png---------------------------------------------------------
+.pm new-page 036
 
 <i>Primo.</i> Every one that petitions must be humble, or else
 his Petition will not be granted.
@@ -1694,7 +1745,7 @@ could not escape your Armour.
 <i>Dar.</i> Then I’m at peace within; yet <i>Cademore</i> still runs
 in my Mind: let us haste to her Apartment, and if she
 will not consent to marry, I’ll force her.      [<i>Exeunt.</i>
------File: 037.png---------------------------------------------------------
+.pm new-page 037
 
 
 <g>SCENE</g>, <i>a Prison</i>.
@@ -1742,7 +1793,7 @@ Soul begins a March through all the Elements: in the Body
 first, you’re confin’d five Minutes in the Regions of Fire,
 amazed, amidst the verdant green Climes of Water and
 Air; you pass then heavily through the solemn Gloom of
------File: 038.png---------------------------------------------------------
+.pm new-page 038
 Earth; you go, you faint, the Soul bows, farewel to Nature;
 you fall into a dark, black Slumber, a Trance; and
 when the Spirit touches you upon the Elbow, you wake
@@ -1785,7 +1836,7 @@ of this Life, makes a Garment for the Soul, mine will be
 stain’d with Avarice, Debauchery and Revenge; you are
 Innocent: O Innocence! thou only Traveller to Heaven,
 farewell for ever.      [<i>Ex.</i>
------File: 039.png---------------------------------------------------------
+.pm new-page 039
 
 
 <g>SCENE</g>, <i>a Wood</i>.
@@ -1834,7 +1885,7 @@ Elements appear, and Fury rides on flaming Winds,
 and spreads himself abroad, deep in the Bowels of this
 Globe shall wake, nay twice ten thousand Thunders, renting
 the rocky Mountains, and hurling Kingdoms to the
------File: 040.png---------------------------------------------------------
+.pm new-page 040
 Sky; Cataracts of Fire, and purple Storms shall rage, and
 hurricane thy infernal Soul.
 
@@ -1886,7 +1937,7 @@ away, warbling as the Swift, to meet thee in thy flight.
 <i>King.</i> From whence this inward Joy, as if the Musick of
 the Spheres, and heavenly Song, penetrate the Sky, and
 eccho in my Soul.
------File: 041.png---------------------------------------------------------
+.pm new-page 041
 
 <i>Enter</i> Officer.
 
@@ -1934,7 +1985,7 @@ will fight and die with my Army.
 
 <i>King.</i> O there is the Sting! Have I lost, for ever lost,
 every thing that’s dear to me in Life, my Crown, my Mistress,
------File: 042.png---------------------------------------------------------
+.pm new-page 042
 and my Friends? Rise up now, thou Strength of
 Reason, and pull down the Passion of my Soul; oh let the
 Curtain of the Clouds be lifted up, the Scenes, the Elements
@@ -1970,7 +2021,7 @@ With Sounds to pierce the Skies, and make the Earth to quake:
 And if one Part should chance to fail,
 I’ll prick him on with speary Tail.
 */
------File: 043.png---------------------------------------------------------
+.pm new-page 043
 
 
 <g>SCENE</g>, <i>Cadmore</i>’s Apartment.
@@ -2020,7 +2071,7 @@ Soul, I love.
 
 <i>Cad.</i> They are Brutes that marry Bodies; the Mind is all
 that can be loved; the other is a Desire proceeds from
------File: 044.png---------------------------------------------------------
+.pm new-page 044
 Nature vicious, urged by Food and Wine: Live low, and
 you’ll not love me.
 
@@ -2072,7 +2123,7 @@ answer you!
 <i>Fla.</i> Speak! quickly speak! or like a Griffin stuff’d with
 Fire and Gunpowder, I’ll blow thy Limbs and Stings to every
 Part of the Globe!
------File: 045.png---------------------------------------------------------
+.pm new-page 045
 
 <i>Hurlo.</i> Oh ye Powers inspire me with Madness, that I
 may answer him in his own Language! [<i>Aside.</i>] If you
@@ -2127,7 +2178,7 @@ to be seen upon the Terrass, but Flashes of Lightning,
 flying through Clouds of Gun-powder Smoak.
 
 <i>Cad.</i> Oh I tremble!
------File: 046.png---------------------------------------------------------
+.pm new-page 046
 
 <i>Enter</i> Servant.
 
@@ -2164,7 +2215,7 @@ And parting worse than Death, Death, oh.</i>
 
 
 <i>The End of the Fourth Act.</i>
------File: 047.png---------------------------------------------------------
+.pm new-page 047
 
 
 
@@ -2214,7 +2265,7 @@ thee dance the stripping Dance.
 thy Clothes off thy Back; then strip thy Body of thy
 Soul, and send it into its own Country stark naked, and a
 good Journey to you.
------File: 048.png---------------------------------------------------------
+.pm new-page 048
 
 <i>Lom.</i> Rather a good Dream.
 
@@ -2257,7 +2308,7 @@ descend, you’ll yearn to your old Delights, and visit the
 Virgins in the Night.
 
 <i>Hurlo.</i> That’s good.
------File: 049.png---------------------------------------------------------
+.pm new-page 049
 
 <i>Primo.</i> Then will you haunt melancholy Tombs, and
 visit <i>Hurlothrumbo</i> in his Solitude; invite him to a Banquet
@@ -2315,7 +2366,7 @@ Bull.      [<i>Ex.</i> Primo.
 <i>Arabia</i>, hurl’d about with stormy Tempest, in Thunder,
 Lightning and Hail; be pursued by Dragons, Wolves and
 Tygers; then fly to my Body for shelter, and find the Door
------File: 050.png---------------------------------------------------------
+.pm new-page 050
 shut. Oh most horrid! oh, what has brought me to this
 unhappy Place of Misery? it was in pursuit of Honour.
 
@@ -2368,7 +2419,7 @@ shining Worlds.
 /*
 [<i>Ex. King and Officer.</i>
 */
------File: 051.png---------------------------------------------------------
+.pm new-page 051
 
 /#
 [<i>Musick plays solemn. The Scene discovers</i> Theorbeo<i>’s
@@ -2418,7 +2469,7 @@ the Musick raises me from the Dust of Death.
 
 Oh <i>Theorbeo</i>, I am like a Cœlestial inspired Man, my Heart
 is full of Love, and overflows with Joy; is it lasting, or
------File: 052.png---------------------------------------------------------
+.pm new-page 052
 will it vanish? To-day or ever? Momentary or eternal?
 declare those blooming Thoughts; a Pearl and Heavenly
 Mystery lodge within thy Eyes, ripe with Anity, appris’d
@@ -2476,7 +2527,7 @@ up a Rit-a-te; every Faculty is trickling down with Transports.
 <i>Sem.</i> See here comes the King; Calamity prepares a Man
 to receive a Petition; <i>Dolo</i> will tell him the Cause of our
 coming.
------File: 053.png---------------------------------------------------------
+.pm new-page 053
 
 <i>Enter</i> Dologodelmo.
 
@@ -2522,7 +2573,7 @@ stands before me, it is equal to me whether I strike or kiss.
 <i>Sem.</i> <i>Darony</i> is very desirous to live, he’s much in love
 with Life; the King is now in <i>Cademore</i>’s Apartment; she
 may soften his Mind, and make him full of Compassion:
------File: 054.png---------------------------------------------------------
+.pm new-page 054
 <i>Darony</i> deserves no Pity. Oh <i>Seringo</i>, what was you in love
 with, when you admir’d that Mortal?
 
@@ -2572,7 +2623,7 @@ a Tear of Blood to trickle down, and drop from the Bottom
 of my Heart; then Reason rouz’d within me, with celestial
 Wings I soar’d, I flew to my Aid aloft, I sigh’d, I
 bow’d sublime, and wept.
------File: 055.png---------------------------------------------------------
+.pm new-page 055
 
 <i>Enter</i> Theorbeo <i>and</i> Dologodelmo.
 
@@ -2624,7 +2675,7 @@ Why do you pause?
 <i>Dar.</i> Oh what an Alteration in the Mind! your Generosity
 is at Wars within, and knocks down Avarice, Cruelty
 and Pride in me, I am in love with your Greatness, and
------File: 056.png---------------------------------------------------------
+.pm new-page 056
 hate myself; I myself will punish your Offender, [<i>stabs
 himself</i>] Oh! loose me, ’tis not finished.      [Dol. <i>holds him</i>.
 
@@ -2654,7 +2705,7 @@ all.      [<i>Exeunt.</i>
 
 
 <i>FINIS.</i>
------File: 057.png---------------------------------------------------------
+.pm new-page 057
 
 
 
@@ -2685,7 +2736,7 @@ Because a Man outruns them——they find fault.
 He is indeed, to speak my poor Opinion,
 Out of the reach of</i> critical <i>Dominion.</i>
 */
------File: 058.png---------------------------------------------------------
+.pm new-page 058
 
 [Enter <i>Critick</i>.]
 
@@ -2752,7 +2803,7 @@ A thousand murd’rous ways they cast about
 To stifle it——but Murder-like——’twill out.
 Our Author fairly, without so much Fuss
 Shews it—in</i> puris Naturalibus;
------File: 059.png---------------------------------------------------------
+.pm new-page 059
 <i>Pursues the Point beyond its highest Height,      }
 Then bids his Men of Fire, and Ladies bright,        }
 Mark, how it looks!——When it is out of Sight.      }
