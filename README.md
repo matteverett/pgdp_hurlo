@@ -35,6 +35,7 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * [x] Oeconomy -- Replace Oe with Œ.
 * [x] melancholly? -- sic.
 * [x] jarr? -- sic.
+* [ ] Scenes -- names, locations, numbering, page b
 
 ### Forum notes ###
 

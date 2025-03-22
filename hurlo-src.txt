@@ -29,6 +29,16 @@
 .pm new-page $1
 .dm-
 
+.dm hang-start
+.in 4
+.ti -4 begin
+.dm-
+
+.dm hang-end
+.ti end
+.in
+.dm-
+
 .dm verse-start
 .in +4
 .nf b
@@ -40,12 +50,12 @@
 .dm-
 
 // Page numbering
-.pn off // turn off visible page numbers
 .pn link
 
 // Paragraph formatting, indent paragraphs by 0.75 em.
 .pi
 .nr psi 0.75em
+.nr tag-g ""
 
 .bn 001.png
 .pn 1
@@ -55,13 +65,14 @@
 
 
 
-/*
-<i>HURLOTHRUMBO</i>:
-
-OR: THE
-
+.h1
+<i>HURLOTHRUMBO</i>:|\
+|\
+OR: THE|\
+|\
 <sc>Super-Natural</sc>.
 
+.ce 7
 As it is Acted at the
 
 NEW-THEATRE,
@@ -70,46 +81,53 @@ IN THE
 
 HAY-MARKET.
 
+.hr 70%
 
+.ce
 Written by Mr. <sc>Samuel Johnson</sc>, of <i>Cheshire</i>.
 
+.hr 70%
 
+.ce 3
 <i>Ye Sons of Fire, read my</i> <g><sc>Hurlothrumbo</sc></g>,
 <i>Turn it betwixt your Finger and your Thumbo,
 And being quite outdone, be quite struck dumbo.</i>
 
+.hr 70%
 
+.ce
 <i>LONDON</i>:
 
+.ce
 Printed for the AUTHOR And,
 
-/#
+.nf b
 <i>Dublin</i>: Re-Printed by <sc>James Hoey</sc>, and <sc>George
-Faulkner</sc>, at the <i>Pamphlet-Shop</i> in <i>Skinner-Row</i> opposite
-to the <i>Tholsel</i>, MDCCXXIX.
-#/
-*/
+  Faulkner</sc>, at the <i>Pamphlet-Shop</i> in <i>Skinner-Row</i>
+  opposite to the <i>Tholsel</i>, MDCCXXIX.
+.nf-
+
+.pm chapter-break
+
 .pm new-page 002
-.pm new-page 003
+.pm new-page-break 003
 
-
-
+.pm chapter-break
 
 [Illustration]
 
-
-
-
-TO
-
-The Honourable the
-
+.h2 nobreak
+TO|\
+|\
+The Honourable the|\
+|\
 Lady <i>DELVES</i>.
 
+.pm section-break
 
-/*
+.in +2
 MADAM,
-*/
+.in
 
 When I think of your Goodness, it
 gives me Encouragement to put my
@@ -145,31 +163,32 @@ Lady</i> DELVES! that illuminates the Minds,
 of Mortals, inspires with Musick and Poetry
 especially,
 
-/*
+.nf r
 <i>Your most Humble Servant</i>,
 
-Lord <i>FLAME</i>.
-*/
-.pm new-page 005
+                 Lord <i>FLAME</i>.
+.nf-
 
+.pm chapter-break
 
+.pm new-page-break 005
 
+.pm chapter-break
 
 [Illustration]
 
-
-
-
-TO
-
-The Right Hon^{ble} the
-
+.h2 nobreak
+TO|\
+|\
+The Right Hon^{ble} the|\
+|\
 Lord <i>WALPOLE</i>.
 
+.pm section-break
 
-/*
+.in +2
 <i>My Good Lord</i>,
-*/
+.in
 
 I Return Thanks to Heaven, which is in
 you, I mean your Taste, that would not
@@ -194,70 +213,84 @@ you great Men, that shine among the Angels,
 did condescend to support me; and
 no one is more thankful than
 
-/*
+.nf r
 <i>Your</i> LORDSHIP’S
 
-<i>very humble Servant</i>,
+      <i>very humble Servant</i>,
 
-SAM. JOHNSON.
-*/
-.pm new-page 007
+      SAM. JOHNSON.
+.nf-
 
+.pm chapter-break
 
+.pm new-page-break 007
 
+.pm chapter-break
 
+.h2 nobreak
 PROLOGUE.
 
+.hr 70%
+
+.ce
 By <g><sc>Amos Meredith</sc></g>, Esq;
 
-/*
+.hr 70%
+
+.ce
 Near is my Shirt, but nearer is my Skin.
-*/
 
+.hr 70%
 
-/*
-<i>Rules were by Coxcombs made to cramp the Mind      }
-By Nature free, unfetter’d, unconfin’d,               }
-She mounts a Flame, and flies, astride the Wind.      }
-Through boundless space wings her Celestial Way,        }
-And Eagle-ey’d confronts the Source of Day;             }
-Criticks begone, avant ye Sons of Clay!                 }
-To every Star its Name and Course assign,         }
-In narrow Bounds the swelling Tides confine,      }
-And teach the Ruler of the Day to shine.          }
-Sluggish the servile Mule sustains the Weight;          }
-Wolves bait the Moon because she shines so bright;      }
-And Owls are blinded with Excess of Light.              }
-Unchain’d by Art with true Poetick Rage,            }
-In Buskins highly rais’d, we tread the Stage;       }
-With Fire from Heaven, to thaw the frozen Age.      }
-The God of Number and melodious Strains,           }
-Triumphant drives through Empyrean Plains,         }
-Impetuous bound the Steeds nor hear the Reins      }
-If Soar-æthereal’s Characters too high,         }
-For mean Conception shocks the vulgar Eye,      }
-Let filthy Mire accuse the Azure Sky.           }
-Diamonds to Swine are despicable Things,         }
-Lost to the Mole the Vernal Verdure Springs,     }
-And Adders hiss tho’</i> Senesino <i>sings.      }
-The Priestess speaks of him that gilds the Skies;        }
-Behold he comes, behold the God she cries:               }
-And swells, and foams, and rolls her frantick Eyes.      }
-Hark to the Noise a hundred Doors around,                   }
-Spontaneous jarr, the vaulted Roofs rebound,                }
-And Words burst forth with more than mortal Sound.</i>      }
-*/
-.pm new-page 008
+.pm section-break
 
+.ta l:52 l:2
+<i>Rules were by Coxcombs made to cramp the Mind       | }
+By Nature free, unfetter’d, unconfin’d,                | }
+She mounts a Flame, and flies, astride the Wind.       | }
+Through boundless space wings her Celestial Way,       | }
+And Eagle-ey’d confronts the Source of Day;            | }
+Criticks begone, avant ye Sons of Clay!                | }
+To every Star its Name and Course assign,              | }
+In narrow Bounds the swelling Tides confine,           | }
+And teach the Ruler of the Day to shine.               | }
+Sluggish the servile Mule sustains the Weight;         | }
+Wolves bait the Moon because she shines so bright;     | }
+And Owls are blinded with Excess of Light.             | }
+Unchain’d by Art with true Poetick Rage,               | }
+In Buskins highly rais’d, we tread the Stage;          | }
+With Fire from Heaven, to thaw the frozen Age.         | }
+The God of Number and melodious Strains,               | }
+Triumphant drives through Empyrean Plains,             | }
+Impetuous bound the Steeds nor hear the Reins          | }
+If Soar-æthereal’s Characters too high,                | }
+For mean Conception shocks the vulgar Eye,             | }
+Let filthy Mire accuse the Azure Sky.                  | }
+Diamonds to Swine are despicable Things,               | }
+Lost to the Mole the Vernal Verdure Springs,           | }
+And Adders hiss tho’</i> Senesino <i>sings.            | }
+The Priestess speaks of him that gilds the Skies;      | }
+Behold he comes, behold the God she cries:             | }
+And swells, and foams, and rolls her frantick Eyes.    | }
+Hark to the Noise a hundred Doors around,              | }
+Spontaneous jarr, the vaulted Roofs rebound,           | }
+And Words burst forth with more than mortal Sound.</i> | }
+.ta-
 
+.pm chapter-break
 
+.pm new-page-break 008
 
+.pm chapter-break
+
+.h2 nobreak
 Persons of the Drama.
 
+.pm section-break
 
+.nf b
 MEN.
 
-/*
 Soarethereal.
 Hurlothrumbo.
 Dologodelmo.
@@ -274,40 +307,42 @@ Genius.
 Spirit.
 Death.
 <i>Lord</i> Flame.
-*/
 
+.pm section-break
 
 WOMEN.
 
-/*
 Cademore.
 Sermentory.
 Seringo.
 Lusingo.
 Cuzzonida.
-*/
-.pm new-page 009
+.nf-
 
+.pm chapter-break
 
+.pm new-page-break 009
 
+.pm chapter-break
 
 [Illustration]
 
+.pm section-break
 
-
-
+.ce 5
 <i>HURLOTHRUMBO</i>:
 
 OR, THE
 
 <sc>Super-Natural</sc>.
 
+.pm chapter-break
 
-
-
+.h2 title='ACT I.' nobreak
 ACT I. SCENE I.
+.h3 title='SCENE I.' nobreak
 
-
+.ce
 <i>Enter</i> Dologodelmo <i>and</i> Hurlothrumbo <i>meeting</i>.
 
 <i>Dolo.</i> <i>Hurlothrumbo</i>, how goes the Muse?
@@ -326,11 +361,11 @@ have coin’d their Estates into Money.
 
 <i>Dolo.</i> Pray describe yourself in Prose.
 
-/*
+.nf l
 <i>Hurlo.</i> It will be describ’d in Blows.
-          There’s more in the Wind
-          Than the wise Philosophers can find.
-*/
+         There’s more in the Wind
+         Than the wise Philosophers can find.
+.nf-
 
 <i>Dolo.</i> No Storms, no Rebellions, I hope.
 
@@ -360,6 +395,7 @@ King, will rise with all the Gods to keep the Rebels under:
 They’ll make Drums of the Elements and Skies, and beat
 up for Volunteers in Thunder.
 
+.ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Ser.</i> Can you guess at the Cause of the King’s excessive
@@ -381,6 +417,7 @@ the Cause of his Distress.
 <i>Sem.</i> It is my Lord <i>Flame</i>, distracted in Love with you:
 Fall back, let us hear his Soliloquy.
 
+.ce 2
 <i>Enter</i> Flame, <i>with a drawn Sword in his Hand, throws it on
 the Ground</i>.
 
@@ -397,11 +434,10 @@ Man; I’ll think of her I love the most, and pour out my
 Tears upon him; there will I prostrate myself, and may I
 slumber till the heavenly Harmony wakes the sleepy dead.
 
-/*
+.rj
 [<i>Enter</i> Sementory <i>and</i> Seringo.
-*/
 
-/*
+.pm verse-start
 Oh! the deluding Creature,
 Stings me from every Feature;
 When you strive to gain me,
@@ -409,7 +445,7 @@ You only mean to pain me;
 Cruel Deceiver, Heaven leave her,
 Let her not come above,
 To taste the Sweets of constant Love.      [<i>Exit.</i>
-*/
+.pm verse-end
 
 <i>Sem.</i> Oh <i>Seringo</i>, entice not a Man to Love, except you
 design to marry: If a radiant Beam dart from the Fire of
@@ -418,10 +454,10 @@ and flash through all his Veins, discompose his Faculties,
 and infect his Soul: I am sorry for this poor Man, ’tis dangerous
 to continue here, let us leave the place.      [<i>Exit.</i>
 
-/*
+.ce
 [<i>Scene changes, and discovers the King Sleeping upon a Couch.</i>
-*/
 
+.ce
 <i>Enter to him</i> Dologodelmo.
 
 <i>King.</i> Oh <i>Godelmo</i>, why hast thou call’d me home to myself?
@@ -442,9 +478,8 @@ Earth; when these Eyes, these Ears are insensible, I have
 other Eyes that see, other Ears that hear, and myself rejoices
 when myself is dead.
 
-/*
+.rj
 [<i>The King sits down and pauses, then rises.</i>
-*/
 
 <i>Dolo.</i> The Solitarys wait without, and humbly desire admittance.
 
@@ -459,6 +494,7 @@ the Company of Mortals, and say they delight more
 in the Shadow of something, than to converse with a Nothing
 in Substance.
 
+.ce
 <i>Enter</i> Dolo. <i>and six Solitarys</i>.
 
 <i>Primo.</i> My Sovereign Lord, we think ourselves in Duty
@@ -507,6 +543,7 @@ Jaws of a Lion; disarm’d he enter’d, taking from his Heel
 his Ammunition Spur, he wrench’d it wide, and gripe’d it
 thus.
 
+.ce
 <i>Enter</i> Hurlo.
 
 <i>King.</i> <i>Hurlothrumbo</i>, give me a Description of the
@@ -567,10 +604,10 @@ his Crown for his Friend: Is he yet arrived?
 
 <i>King.</i> Go tell him, I’ll come and rejoice in his Presence.
 
-/*
+.rj
 [<i>Ex.</i> King <i>and</i> Dolo.
-*/
 
+.ce
 <i>Enter</i> Urlandenny <i>and</i> Darno.
 
 <i>Urlan.</i> <i>Darno</i>, a good Day to you, how prospers our Design?
@@ -584,6 +621,7 @@ Ill, but now we’ll speak for thy self; I am inspir’d with a
 Thought that will overthrow the Government, that makes
 as strong as <i>Atlas</i>; I’ll make——
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Fla.</i> The Flight takes me in the Head to give you a Description
@@ -603,6 +641,7 @@ stood solemn, profound, before the Cloudy Van, Expectation
 stood in Horrour, and <i>Satan</i>, with vast and haughty
 Strides advanc’d, came touring, arm’d in Adamant and Gold.
 
+.ce
 <i>Enter</i> Darony.
 
 <i>Dar.</i> Who do you mimick, my Lord?
@@ -637,9 +676,8 @@ which all the Faculties sport in Terror, like Boys that
 dance upon the Ice, if one cracks, another breaks, then all
 together plunge in over Head and Ears most horrid.
 
-/*
+.rj
 [<i>Ex.</i> Flame.
-*/
 
 <i>Urlan.</i> Pray what new Adventures at Court?
 
@@ -665,13 +703,15 @@ prejudic’d in our behalf.
 amongst them a hundred thousand Pounds; let’s away to
 the Lord <i>Urme</i>, he will strengthen our Design.
 
-/*
+.rj
 [<i>Ex.</i> Darony, Urlandenny, <i>and</i> Darno.
-*/
 
+.pm section-break
 
+.h3 nobreak
 <g>SCENE</g>, <i>Cademore</i>’s Apartment.
 
+.ce
 <i>Enter</i> Cademore <i>and</i> Lusingo.
 
 <i>Lusin.</i> My good Lady prepare, the King comes.
@@ -686,6 +726,7 @@ Moon; then tow’ring high I’d visit the brightest Situation
 of the Sun; then climb amazed up to the Stars; I’d taste
 the Sweets of every Orb, before I enter’d Heaven.      [<i>Ex.</i>
 
+.ce
 <i>Enter</i> King, Theorbeo, <i>and</i> Hurlothrumbo.
 
 <i>King.</i> <i>Theorbeo</i>, thy constant Heart mourns for thy Mistress,
@@ -728,9 +769,9 @@ is starved out.
 
 <i>King.</i> And what is Honour?
 
-/*
+.pm hang-start
 <i>Hurlo.</i> Honour is, and it is not; yet Honour is to be found.
-*/
+.pm hang-end
 
 <i>Theo.</i> My Intellect has rang’d in pursuit of Honour
 throughout the Universe, nay, even to the Skies, but found
@@ -747,14 +788,13 @@ can sway the Faculties.
 <i>King.</i> I beg pardon for interrupting; I must beg leave
 to see the Lady your Sister.
 
-/*
+.rj
 [<i>Ex.</i> King, Theo. <i>and</i> Hurlo.
-*/
 
-/#
+.ce
 [<i>Scene changes, and discovers</i> Cademore, Seringo, <i>and</i> Lusingo.
-#/
 
+.ce
 <i>Enter</i> King, <i>and salutes</i> Cademore.
 
 <i>Cade.</i> Oh he’s here! O my Soul starts, and my Heartstrings
@@ -771,29 +811,34 @@ can yield you Pleasure.
 <i>Cad.</i> Every thing here is pleasing to me. <i>Seringo</i>, Let
 the King hear the musical Description of <i>Arsinoe</i>’s Dancing.
 
-/*
+.nf l
 Ser. <i>Brisk and Airy, tript with a</i> Fairy <i>Air of Scorn,
-      Sink in the rising, all surprizing Charms adorn.
-      Swift and Gay in every Part,
-      And flies away with every Heart:
-      Return’d them back with cold Despair,
-      Which much reviv’d the jealous Fair.</i>
-*/
+     Sink in the rising, all surprizing Charms adorn.
+     Swift and Gay in every Part,
+     And flies away with every Heart:
+     Return’d them back with cold Despair,
+     Which much reviv’d the jealous Fair.</i>
+.nf-
 
+.pm section-break
 
+.ce
 <i>The End of the First Act.</i>
 
+.pm chapter-break
 
+.pb
 
+.pm chapter-break
 
 [Illustration]
 
-
-
-
+.h2 nobreak
 ACT II.
 
+.pm section-break
 
+.ce
 <i>Enter</i> Urlandenny <i>and</i> Darony.
 
 <i>Daro.</i> What News, my Lord?
@@ -832,10 +877,10 @@ all.
 
 <i>Daro.</i> So farewel, my Lord; remember two a-clock.
 
-/*
+.rj
 [<i>Exeunt severally.</i>
-*/
 
+.ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Serin.</i> <i>Sementory</i>, to thy Tire.
@@ -863,13 +908,14 @@ extatick Raptures, his Opticks are like two Balls of Fire,
 and look as fierce as if he took Gunpowder-Snuff; could
 you love such a one?
 
-/*
+.nf l
 <i>Serin.</i> How gay, how free, how merry is he!
-          How full of Charms to move!
-          His Soul is full of Love.
-*/
+         How full of Charms to move!
+         His Soul is full of Love.
+.nf-
 .pm new-page 020
 
+.ce
 <i>Enter</i> Hurlothrumbo.
 
 <i>Sem.</i> What, not a Word? sure ’tis pain to speak?
@@ -882,19 +928,19 @@ now to perform her Office.
 
 <i>Hurlo.</i> She is rich, do you not like her for that?
 
-/*
+.nf l
 <i>Sem.</i> But give me the Man that’s like the Bee,
-        That flies round and round the Field to see,
-        To taste of every Herb, to chuse the Sweet, to miss the Sour,
-        He hovers and sings, and sucks the true Vertue from the Flower:
-        But the mean Soul like yours that courts for Money,
-        Is like the Wasp, will settle upon a Nettle for a little Honey.
-*/
+       That flies round and round the Field to see,
+       To taste of every Herb, to chuse the Sweet, to miss the Sour,
+       He hovers and sings, and sucks the true Vertue from the Flower:
+       But the mean Soul like yours that courts for Money,
+       Is like the Wasp, will settle upon a Nettle for a little Honey.
+.nf-
 
-/*
+.rj
 [<i>Ex.</i> Sementory <i>and</i> Seringo.
-*/
 
+.ce
 <i>Enter</i> Theorbeo.
 
 <i>Hurlo.</i> The King will instantly wait upon your Majesty;
@@ -914,6 +960,7 @@ comes.      [<i>Ex.</i> Hurlothrumbo.
 he knew not what; I long for something more than <i>Eve</i>, I
 know not where.
 
+.ce
 <i>Enter</i> King.
 
 <i>King.</i> <i>Theorbo</i>, why meditate yon thus? that Soul of
@@ -926,6 +973,7 @@ venture my Life with a Lion; can lay my Hand under the
 Foot of an humble Beggar, or take a lofty Emperor by the
 Nose.
 
+.ce
 <i>Enter</i> Hurlothrumbo.
 
 <i>King.</i> <i>Hurlothrumbo</i>, what Tidings from the World?
@@ -943,6 +991,7 @@ highly honour’d, and entertain the Gods.
 <i>King.</i> That will also please me; I receive the Borrower
 with more Joy than him that comes to pay a Debt.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Flame.</i> Beggars be gone, these Men sell Land upon the
@@ -975,11 +1024,13 @@ my prophetick Soul loves him.
 Man; for if he dies at this time, he’ll be metamorphos’d
 into a wild <i>Elysian</i> Colt.
 
-/*
+.in +6
+.nf l
 He’ll cock his Tail, he’ll praunce and stare,
 Will gallop, snort, and snuff the Air;
 And all his Thoughts will be of——
-*/
+.nf-
+.in
 
 <i>King.</i> Pray tell me how does Love affect thee?
 
@@ -1007,20 +1058,21 @@ struck not the Vanquish’d, but conquer’d myself.
 <i>Hurlo.</i> ’Twas a noble Retreat, your Majesty bravely run
 away.
 
+.ce
 <i>Enter</i> Servant.
 
 <i>Serv.</i> The Lord <i>Dologodelmo</i> waits without to speak to
 your Majesty.
 
-/*
+.rj
 [<i>Ex.</i> Theorbeo, Hurlo, <i>and</i> Servant.
-*/
 
 <i>King.</i> I am at leisure——From whence this Distress in my
 Breast of late, restless Nights, horrid Visions, affluster’d
 Spirits fly around my Heart; my prophetick Soul, like
 <i>Argus</i>, discerns Destruction approaching.
 
+.ce
 <i>Enter</i> Dologo.
 
 <i>Dolo.</i> If it be a Crime to bear ill Tidings, your Majesty’s
@@ -1054,6 +1106,7 @@ Compassion; for with his Tongue he’ll heal the Wound of
 the Oppressed. Ye Rationals, learn of Brutes; and teach
 me to abhor Mankind.      [<i>Exit.</i>
 
+.ce
 <i>Enter</i> Theorbeo <i>and</i> Dologodelmo.
 
 <i>King.</i> <i>Theorbeo</i>, you say your desire is to exert yourself
@@ -1077,6 +1130,7 @@ fly to their Dens for shelter.
 20,000 of the most proper Men. This moment I’ll review
 my Army.       [<i>Ex.</i> King <i>and</i> Theor.
 
+.ce
 <i>Enter</i> Hurlothrumbo, <i>out of Breath</i>.
 
 <i>Dolo.</i> What’s the matter now, my Lord, you seem to be
@@ -1088,6 +1142,7 @@ a Tempest in my Belly.
 
 <i>Dolo.</i> Pray let the Storms cease, and let me hear the Cause.
 
+.ce
 <i>Enter</i> King.
 
 <i>Hurlo.</i> Cause! Cause enough; one <i>Lomporhomock</i>, a <i>Dutch</i>
@@ -1096,9 +1151,8 @@ Officer, is just landed with 200,000 Men.
 <i>King.</i> Go this moment, and get my Troops in readiness,
 and I’ll give them the meeting myself.
 
-/*
+.rj
 [<i>Ex.</i> Hurlo. <i>and</i> Dolo.
-*/
 
 I am rais’d above the common Height of Man, lifted up to
 the rattling Climes of Discord, where <i>Dologodelmo</i> and <i>Hurlothrumbo</i>
@@ -1107,12 +1161,14 @@ to crack; but as the Lightning flies before the Thunder-clap,
 so shall <i>Darony</i> fly before me, or Death shall
 swallow me up.
 
-/*
+.in +6
+.nf l
 But yet, shall I in this tempestuous Season,
 In furious headlong bid farewel to Reason?
 No; in Storms all Fools are hurrican’d in Mind,
 But Wisdom gently moves upon the swiftest Wind.
-*/
+.nf-
+.in
 
 To fight, and in the heat of Blood, in an Agony, drop into
 Eternity, and carry the Fire with me. O! let me not pause,
@@ -1125,6 +1181,7 @@ My <i>Cademore</i>’s Charms to happy Fate that sent her,
 Then fly to War’s Alarms, and both my Lives will venture.      [<i>Ex.</i> King.
 */
 
+.ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Serin.</i> I am all at War within.
@@ -1143,6 +1200,7 @@ distance; the Man I love is near. What is Fame? a
 Word; that Word is Wind, the humming of a Bee: but
 when I sleep by the Man I love, no Wind can come to me.
 
+.ce
 <i>Enter</i> Flame, <i>and sings</i>.
 
 <i>Sem.</i> So, my Lord, your Aid is required at the Wars.
@@ -1151,15 +1209,23 @@ when I sleep by the Man I love, no Wind can come to me.
 there is no Calm in Love and War; let my <i>Seringo</i> live
 with me, then farewel Honour, farewel Care.       [<i>Exit.</i>
 
+.pm section-break
 
+.ce
 <i>The End of the Second</i> <g>ACT</g>
 
+.pm chapter-break
 
+.pb
 
+.pm chapter-break
 
+.h2 nobreak
 ACT III.
 
+.pm section-break
 
+.ce
 <i>Enter</i> Hurlothrumbo <i>and</i> Dologodelmo.
 
 <i>Dolo.</i> <i>Hurlothrumbo</i>, are you ready to mount?
@@ -1171,11 +1237,11 @@ for the King?
 going to the Wars; at the Sound of the Word, she faints,
 sinks and dies away.       [<i>Exit</i> Dolo.
 
+.ce
 <i>Enter</i> Servant <i>with a Letter, delivers it, and Exit</i>.
 
-/*
+.rj
 [Hurlo. <i>reads it</i>.
-*/
 
 <i>Hurlo.</i> Oh ’tis from <i>Darony</i>! <i>Make me the next Man to the
 Crown, if I desert the King</i>; how can I do that? Why did
@@ -1186,11 +1252,11 @@ long as</i> Theorbeo <i>stays, thy Honour wears like a Garment</i>:
 may be so; I’ll consider of this.       [<i>Exit</i> Hurlo.
 .pm new-page 026
 
+.ce
 <i>Enter</i> Darony <i>and</i> Urlandenny.
 
-/*
+.rj
 [<i>Guns fire at a distance.</i>
-*/
 
 <i>Daro.</i> They’re punctual to the time.
 
@@ -1201,6 +1267,7 @@ Guns are discharg’d, the Men from every end of the City
 with a Shout will come to this Place, and stir not you an
 Inch till <i>Lomporhomock</i> enters the City. Who comes there?
 
+.ce
 <i>Enter</i> Temo.
 
 <i>Temo.</i> A Friend and Servant of thine.
@@ -1225,10 +1292,10 @@ exactly at two the Battle will be rehears’d first in the
 <i>Urlan.</i> Accept of this Purse of Guineas; let me see, the
 time is now expired.
 
-/*
+.nf r
 [Temo <i>stamps, a Spirit rises up, and gives him a
-Talisman</i>.
-*/
+    Talisman</i>.
+.nf-
 
 <i>Temo.</i> You shall, my Lord; hold this firm to your right
 Eye: tell me what you see.
@@ -1242,10 +1309,11 @@ separate Armies; Death stalks among the Croud, marking
 his own Appointed. Oh! he makes towards me! oh!
 he’ll touch me; take it I’ll see no more.
 
-/*
+.nf r
 [<i>A shout behind the Scenes, Fire and Sword! Fire and
-Sword! rise quickly.</i>
-*/
+    Sword! rise quickly.</i>
+.nf-
+
 .pm new-page 027
 
 <i>Daro.</i> This is <i>Puny</i>’s House, the Miser, break it open.
@@ -1257,6 +1325,7 @@ fall back, he comes.
 and satisfy their Thirst with Gold; then will I take
 possession of his Person, and his Crown.      [<i>Exeunt.</i>
 
+.ce
 <i>Enter</i> Puny.
 
 <i>Puny.</i> Oh bless me! Fire and Sword! I shall not live
@@ -1270,6 +1339,7 @@ ill-dreamt visionary Lewdness! If they come, I shall never
 purchase <i>Kemp</i>’s Estate, but buy a Coat of Arms, and a
 Patent for my Son.
 
+.ce
 <i>Enter</i> Urlandenny <i>and</i> Temo.
 
 <i>Urlan.</i> So old <i>Gaddecar</i>, you’re at Prayers, cry aloud, thy
@@ -1305,6 +1375,7 @@ that are in Intellect but three Inches high.
 with a Prince of the Air, and their Nostrils are full of the
 Devil.      [<i>Ex.</i> Pun. <i>and</i> Tem.
 
+.ce
 <i>Drums beat. Enter</i> Darony.
 
 <i>Dar.</i> Now, my dear Friend, all is secured, the King is
@@ -1314,6 +1385,7 @@ in Chains.
 
 <i>Dar.</i> <i>Lomperhomock</i>, the <i>Dutch</i> General.
 
+.ce
 <i>Enter</i> Lomperhomock.
 
 My Lord <i>Lomperhomock</i>, you’re welcome to Court.
@@ -1332,10 +1404,10 @@ greatly oppress their Souls.
 
 <i>Lom.</i> Then I’ll march in Pleasure, and meet his Army.
 
-/*
+.rj
 [<i>Ex.</i> Urland. Dar. <i>and</i> Lom.
-*/
 
+.ce
 <i>The Scene changes to the King in Prison.</i>
 
 <i>King.</i> I would ask Relief of Heaven, though ’tis in
@@ -1343,14 +1415,15 @@ vain, when all the eternal Infernals are turn’d out loose
 upon me, to pour out their flaming Cataracts of mighty,
 limited Revenge.
 
+.ce
 <i>Enter</i> Lomperhomock.
 
 <i>Lomp.</i> Pardon me, oh King, I am come to inform you,
 at Six a Clock this Morning is your appointed Time to die.
 
-/*
+.rj
 [<i>Ex. King.</i>
-*/
+
 .pm new-page 029
 
 <i>King.</i> Let them strike me, let these Clouds pass away;
@@ -1360,6 +1433,7 @@ Fields: but what is that to a Man in Love, a Man whose
 Heaven’s here? Oh my <i>Cademore</i>, who can bear the Pangs
 of parting! since we must part, ’tis death to live.
 
+.ce
 <i>Enter</i> Cademore.
 
 <i>King.</i> O Executioner art thou come, bring to me a Taste
@@ -1462,15 +1536,17 @@ Clouds, when they shall dissolve like a Bed of Down; our
 inward Hearts shall kiss each other in Love, in Extasy, and
 then we’ll fly away together from all Adversity.
 
-/*
+.rj
 [Cademore <i>faints, and is carried off the Stage</i>.
-*/
 
-/*
+.in +6
+.nf l
 Oh my Soul stealeth from me.
 Clippeth and hangeth upon thee.      [<i>King lies down.</i>
-*/
+.nf-
+.in
 
+.ce
 <i>Enter</i> Theorbeo. <i>The King rises.</i>
 
 <i>King.</i> Oh <i>Theorbeo</i>, I perceive there is an End of Hope;
@@ -1485,9 +1561,8 @@ and come to your Majesty.
 
 <i>King.</i> ’Tis an inspired Thought, we’ll put it in Execution.
 
-/*
+.rj
 [<i>The King dresses himself in</i> Theorbeo<i>’s Clothes</i>.
-*/
 
 Oh <i>Theorbeo</i>, grieve not, every Sigh of thine, will make
 my Heart to weep Drops of Blood; consider a small Affliction
@@ -1505,6 +1580,7 @@ to see you again.
 <i>Theor.</i> When I think you’re safe, I’ll follow.      [<i>Ex. King.</i>
 .pm new-page 032
 
+.ce
 <i>Enter</i> Dologodelmo <i>guarded</i>.
 
 O <i>Godelmo</i>, what brings thee to this Place of Misery?
@@ -1540,6 +1616,7 @@ of great Men would dye the Spring, the Rivers, and the
 Seas. O my Soul is full of Calamity, and my Heart is sore
 with Sorrow.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Fla.</i> Just now my Rival is with her; I tremble thus in
@@ -1561,24 +1638,32 @@ Creatures; tho’ I could kiss her a thousand thousand Times;
 oh ye inconstant Wretch, yet I will press my Check to
 thine, weep, sigh, and part Eternal; Oh!
 
-/*
+.in +6
+.nf l
 Oh you dearest Creature,
 Heaven is seen in every Feature
 Is there no such thing, as learning Charms to move?
 No, no, no, ’tis Gold and Honour makes the Fair to love:
 Angel, ’tis in vain, if you come like a Swain,
 With all your Harps and Arts, and Sweets to please from <i>Jove</i>.
-*/
+.nf-
+.in
 
+.pm chapter-break
 
+.pb
 
+.pm chapter-break
 
+.h2 nobreak
 ACT IV.
 
+.pm section-break
 
+.ce
 <i>Enter</i> Bellman <i>and Sings</i>.
 
-/*
+.nf l
 Good Morn, good Morn, my Masters all good Morn!
 Whilst I poor Mortal wander here below,
 You what’s most pleasing know,
@@ -1588,8 +1673,9 @@ But if I chance to wake you with my Bell,
 Be sure you let my Mistress know you’re well;
 And if you please her, as you ought to do,
 She’ll thank you, Master, and the Bellman too.      [<i>Exit.</i>
-*/
+.nf-
 
+.ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Sem.</i> I have had no Rest this Night, my flustrated Spirits,
@@ -1615,6 +1701,7 @@ he likes.
 
 <i>Ser.</i> Oh <i>Sementory</i>, I have had cruel Dreams.
 
+.ce
 <i>Enter</i> Hurlothrumbo.
 
 <i>Hurlo.</i> Ladies, what are you upon now?
@@ -1651,17 +1738,19 @@ thy Grief in merry Sounds; you must part.
 
 <i>Ser.</i> Part, and never meet no more:
 
-/*
+.in +6
+.nf l
 How can I bear to see that gloomy Day,
 No, no, no, no, I’ll be a Soul, and fly away,
 In merry Sounds, I will pour out my Pain,
 And never think of Man again.
-*/
+.nf-
+.in
 
-/*
+.rj
 [<i>Ex.</i> Sem. <i>and</i> Ser.
-*/
 
+.ce
 <i>Enter</i> Primo.
 
 <i>Hurlo.</i> Honest Solitary, what brings thee to Court to-day?
@@ -1675,6 +1764,7 @@ Counsel to him, as you was to <i>Soarethereal</i>.
 <i>Primo.</i> When he is King, I will be his Subject; till
 then, I am fervently so to my Soveraign.
 
+.ce
 <i>Enter</i> Darony.
 
 <i>Hurlo.</i> Much Joy to your Majesty; I perceive Heaven’s
@@ -1723,9 +1813,8 @@ to live.
 
 <i>Primo.</i> Oh how Men condemn themselves!
 
-/*
+.rj
 [<i>Ex.</i> Primo.
-*/
 
 <i>Dar.</i> Compassion is a Weakness in Man, it may become
 a Woman; not but I feel the Failing in myself, tho’ I
@@ -1747,9 +1836,12 @@ in my Mind: let us haste to her Apartment, and if she
 will not consent to marry, I’ll force her.      [<i>Exeunt.</i>
 .pm new-page 037
 
+.pm section-break
 
+.h3 nobreak
 <g>SCENE</g>, <i>a Prison</i>.
 
+.ce
 <i>Enter</i> Theorbeo, <i>and</i> Dologodelmo <i>looking on his Watch</i>.
 
 <i>Theor.</i> Our Time is almost expired.
@@ -1770,6 +1862,7 @@ secret Thought in that, which revives my very Soul.
 <i>Theor.</i> A small Offence unthrones the Noble, but infamous
 Actions raise a Tyrant.
 
+.ce
 <i>Enter Guards and Executioner.</i>
 
 <i>Theor.</i> After what manner must we suffer?
@@ -1784,6 +1877,7 @@ Meridian Course, by this Man we must be slaughtered.
 <i>Offic.</i> My Lord, your Time’s expired; Guards attend
 here.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Fla.</i> But hold, I’m come to give you a Description of
@@ -1812,9 +1906,8 @@ cutting, flashing, carbonading <i>Nero</i>’s Buttocks;
 nay, they’re all fighting in Blood up to the Ears, and there
 is the Devil to do amongst them.
 
-/*
+.rj
 [<i>Exit</i> Flame.
-*/
 
 <i>Theo. Dologodelmo</i> farewell.
 
@@ -1838,9 +1931,12 @@ Innocent: O Innocence! thou only Traveller to Heaven,
 farewell for ever.      [<i>Ex.</i>
 .pm new-page 039
 
+.pm section-break
 
+.h3 nobreak
 <g>SCENE</g>, <i>a Wood</i>.
 
+.ce
 <i>Thunder and Lightning. Enter</i> King.
 
 <i>King.</i> What a Smell of Sulphur is here? Was ever Day
@@ -1853,6 +1949,7 @@ dissolv’d, and Conscience smiles.
 [<i>Ex.</i> King.
 */
 
+.ce 2
 <i>A</i> Genius <i>descends in a Cloud, and</i> Death <i>enters upon a
 pale-dun Horse</i>.
 
@@ -1891,6 +1988,7 @@ hurricane thy infernal Soul.
 
 <i>Death.</i> Discord horrid!      [<i>Ex.</i> Death.
 
+.ce
 <i>Enter</i> King.
 
 <i>King.</i> Man, what is thy Business here to interrupt my
@@ -1930,15 +2028,15 @@ Words to the highest Heaven; Angels will love and long
 for thy coming on high; rapp’d with thy Fame will wing
 away, warbling as the Swift, to meet thee in thy flight.
 
-/*
+.rj
 [<i>Ex.</i> Genius.
-*/
 
 <i>King.</i> From whence this inward Joy, as if the Musick of
 the Spheres, and heavenly Song, penetrate the Sky, and
 eccho in my Soul.
 .pm new-page 041
 
+.ce
 <i>Enter</i> Officer.
 
 <i>Offic.</i> I am inform’d from the City, that <i>Darony</i> has taken
@@ -1954,6 +2052,7 @@ it leaps, it yearns; Oh great is my Desire! I am all athirst,
 not for the Blood of my Adversaries, but for the
 Freedom of my Friends.
 
+.ce
 <i>Enter</i> Officer.
 
 <i>Offic. Theorbeo</i> is at the Place of Execution; he desires to
@@ -1971,6 +2070,7 @@ of Time! Sing, oh Chant, with Sounds to metamorphose
 Man; and make me, oh make me any thing but what I
 am!
 
+.ce
 <i>Enter</i> Officer.
 
 <i>King.</i> Why do you pause?
@@ -1992,6 +2092,7 @@ Curtain of the Clouds be lifted up, the Scenes, the Elements
 depart asunder; and may some piercing penetrating
 Eye in tender Pity gaze upon me!
 
+.ce
 <i>Enter</i> Officer.
 
 <i>Offic.</i> The Enemies assaults us in our Trenches, we must
@@ -2008,7 +2109,8 @@ the Anguish and Bitterness of my Soul, I’ll slash it through
 the Veins, and mingle it in the Blood of every Man, that
 they altogether may be one in the Image of a Dragon.
 
-/*
+.in +6
+.nf l
 With fiery Heart and flaming Eyes,
 To every Part the Sulphur flies;
 The Wings extend, the thorny Points display,
@@ -2020,18 +2122,23 @@ Swift Thunder-bolts from Anus, and the Mouth will break,
 With Sounds to pierce the Skies, and make the Earth to quake:
 And if one Part should chance to fail,
 I’ll prick him on with speary Tail.
-*/
+.nf-
+.in
+
 .pm new-page 043
 
+.pm section-break
 
 <g>SCENE</g>, <i>Cadmore</i>’s Apartment.
 
+.ce
 <i>Enter</i> Cadmore <i>and</i> Seringo.
 
 <i>Cad.</i> See who comes here?
 
 <i>Serin.</i> ’Tis the Lord <i>Flame</i>.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Flame.</i> My Soul is outrageous in Pursuit of my Rivals,
@@ -2046,13 +2153,13 @@ from her Body, ambitious to vie against the Stars: How
 vain is Woman! veil thy Bosom, those heaving Monsters
 fire me; oh that I was a Child again, that I might suck!
 
-/*
+.rj
 [<i>Exit</i> Flame.
-*/
 
 <i>Cad.</i> I pity this poor unfortunate Man, I feel his Distemper
 approach my Brain.
 
+.ce
 <i>Enter</i> Darony, Cademore <i>turns from him</i>.
 
 <i>Daro.</i> Dear Lady fly me not, stay and hear me speak;
@@ -2080,16 +2187,17 @@ you’ll not love me.
 <i>Cad.</i> Then if you converse, you enjoy; what can you
 ask for more?
 
+.ce
 <i>Enter</i> Hurlothrumbo, <i>and a</i> Parson.
 
 <i>Hurlo.</i> Come along, Sir, the King will make you a Bishop.
 
-/*
+.nf l
 <i>Daro.</i> My Love, my Life, my Fire, to thee shall all be given;
         I’ll make thee taste of earthly Joys, and fetch thee down from Heaven:
         A Power that will without controul,
         Knock down all the Centrys of the Soul.
-*/
+.nf-
 
 Sir, perform your Office.      [<i>Speaking to the</i> Parson.
 
@@ -2101,6 +2209,7 @@ Sir, perform your Office.      [<i>Speaking to the</i> Parson.
 
 <i>Par.</i> ’Tis my Sovereign, and I must obey.
 
+.ce
 <i>Enter</i> Flame, <i>with Pistols, and a drawn Sword</i>.
 
 <i>Fla.</i> This Dagger will I heat red-hot in the crimson Blood
@@ -2136,9 +2245,8 @@ clapp’d together, Face to Face, one upon another; and all
 the World will shout and say, he has her, he has her, he
 has her! huzza!
 
-/*
+.rj
 [Darony, Hurlothrumbo, <i>and the</i> Parson, <i>shout and Ex.</i>
-*/
 
 <i>Fla.</i> Ride on, Lightning, to perform, or I’ll drive you
 on with Thunder.
@@ -2154,9 +2262,8 @@ his eternal Race; I have slackned the Reins of Nature, and
 the Beast pulls, is pampered with too many Beans and Oats,
 and is running away with me to the Devil.
 
-/*
+.rj
 [<i>Exit</i> Flame <i>and</i> Seringo.
-*/
 
 <i>Cad.</i> Pity! I have heard of Pity, surely Pity now is banish’d
 from the Earth, and all the Spirits of Love are lock’d up fast
@@ -2171,6 +2278,7 @@ Tears; then will I rise, and gaze, and give her all that’s
 mine, that Generosity may please my Soul, and Love will
 rise up in my Heart, and conquer all my Grief.
 
+.ce
 <i>Enter</i> Seringo <i>and</i> Sementory.
 
 <i>Sem.</i> I am full of sympathetick Confusion; there is nothing
@@ -2180,11 +2288,13 @@ flying through Clouds of Gun-powder Smoak.
 <i>Cad.</i> Oh I tremble!
 .pm new-page 046
 
+.ce
 <i>Enter</i> Servant.
 
 <i>Serv.</i> <i>Hurlothrumbo</i> is taken Prisoner, and the <i>Dutch</i>
 Horse begin to fly.      [<i>Exit</i> Servant.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Flame.</i> The King has gain’d the Victory; I’ll fly to the
@@ -2194,11 +2304,11 @@ Horse begin to fly.      [<i>Exit</i> Servant.
 
 <i>Flame.</i> Oh! no, <i>Seringo</i>, Coquets can never alarm me.
 
-/*
+.rj
 [<i>A Song.</i>
-*/
 
-/*
+.in +6
+.nf l
 <i>I’ll to the simple Fair incline,
 Constant Love, full of</i> Jove, <i>all divine,
 All, all, all divine, she’s rais’d, touch’d, rap’d, and only mine:
@@ -2207,27 +2317,30 @@ Yet mighty Fate from happy State,
 Leads us all from Ruin,
 Through jealous Discords oh,
 And parting worse than Death, Death, oh.</i>
-*/
+.nf-
+.in
 
-/*
+.rj
 [<i>Exeunt.</i>
-*/
 
+.pm section-break
 
 <i>The End of the Fourth Act.</i>
-.pm new-page 047
 
+.pm chapter-break
 
+.pm new-page-break 047
 
+.pm chapter-break
 
 [Illustration]
 
-
-
-
+.h2
 ACT V.
 
+.pm section-break
 
+.ce
 <i>Enter</i> Hurlothrumbo, <i>in Prison guarded</i>.
 
 <i>Hurlo.</i> Leave me alone, let me vent, let me pour out
@@ -2242,6 +2355,7 @@ oh ye Sun, and burn all mortal Race, or keep thee farther
 off, and starve them soon to Death; oh that all Mankind
 might perish with myself!
 
+.ce
 <i>Enter</i> Lomporhomock, <i>guarded</i>.
 
 <i>Hurlo.</i> My Lord <i>Lomporhomock</i>, you’re welcome to your
@@ -2273,7 +2387,8 @@ good Journey to you.
 pav’d with Diamonds; but to you and your cursed Army
 nothing can compare,
 
-/*
+.in +6
+.nf l
 Except I hunt the Woods, to find a Savage Boar:
 No sooner he his Adversary sees,
 But rouses up from Luxury and Ease;
@@ -2283,8 +2398,10 @@ Then from his Jaws did Foam descend, as tho’ he fear’d no Evil;
 The Tail, the Tusks, the Bristles stood an end, as if he’d fight the Devil;
 But when with Spear, the Foe drew near, to shout for happy Day,
 His Ears let fall, and drooping all, cry’d <i>Boh!</i> and run away.      [<i>Exit</i> Lomp.
-*/
+.nf-
+.in
 
+.ce
 <i>Enter</i> Primo.
 
 <i>Hurlo.</i> Honourable Sir, and greatest Comfort in Adversity,
@@ -2370,7 +2487,8 @@ Tygers; then fly to my Body for shelter, and find the Door
 shut. Oh most horrid! oh, what has brought me to this
 unhappy Place of Misery? it was in pursuit of Honour.
 
-/*
+.in +6
+.nf l
 Honour, like the lighted Meteor in the Air,
 She leads the midnight Traveller astray,
 Forsaken by the Light, the Sun and Day;
@@ -2382,12 +2500,13 @@ Thus I do roul and wallow in the Mire of the Mind,
 Not one Moment’s Ease to my Soul can find;
 Shine oh Sun, my Life to me restore,
 And thee for <i>Fatuus</i> I’ll forsake no more.
-*/
+.nf-
+.in
 
-/*
+.rj
 [<i>Ex.</i> Hurlo.
-*/
 
+.ce
 <i>Enter</i> King, <i>and Officer</i>.
 
 <i>King.</i> Here I parted with <i>Theorbeo</i>; ah he is gone, he is
@@ -2416,16 +2535,17 @@ Paradise, they waft me from Orb to Orb, and make me,
 thro’ divine Opticks, see, the radiant Splendors of bright
 shining Worlds.
 
-/*
+.rj
 [<i>Ex. King and Officer.</i>
-*/
+
 .pm new-page 051
 
-/#
+.nf r
 [<i>Musick plays solemn. The Scene discovers</i> Theorbeo<i>’s
-Statue in a Grove</i>.
-#/
+    Statue in a Grove</i>.
+.nf-
 
+.ce
 <i>Enter</i> King.
 
 <i>King.</i> I could lay me down, and dissolve my Body by
@@ -2446,10 +2566,10 @@ blind; but now sleepy Nature calls to rest, and as
 our Bodies slumbering sympathize, may our Souls in extatick
 Visions meet.
 
-/*
+.rj
 [<i>Enter</i> Seringo <i>and sings, and Exit</i>.
-*/
 
+.ce
 <i>Enter</i> Theorbeo <i>and</i> Dologodelmo.
 
 <i>Theor.</i> She resembles the Guardian Angel of a Man,
@@ -2463,9 +2583,8 @@ Sound makes all my Nerves to creep; the chanting
 Harmony thrills my Veins; the superlative Sweetness of
 the Musick raises me from the Dust of Death.
 
-/*
+.rj
 [<i>He rises and sees</i> Theorbeo.
-*/
 
 Oh <i>Theorbeo</i>, I am like a Cœlestial inspired Man, my Heart
 is full of Love, and overflows with Joy; is it lasting, or
@@ -2501,6 +2620,7 @@ and eclipse the Sun; O <i>Theorbeo</i>, I celebrate a Dunelmo in
 my Heart, and all the Faculties of my Soul are banqueting
 on high Delight.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Fla.</i> The Centry of my Actions is just reliev’d; my new
@@ -2508,20 +2628,18 @@ Companion, and a good Conscience, revive my Vitals,
 chuck my Heart under the Chin; and all the Strings strike
 up a Rit-a-te; every Faculty is trickling down with Transports.
 
-/*
+.nf l
 <i>Sings.</i> I gaze in Transport charm’d,
-         My Soul’s with Love alarm’d.
-*/
+         My Soul’s with Love alarm’d.      [<i>Ex.</i>
+.nf-
 
-/*
-[<i>Ex.</i>
-*/
-
-
+.ce
 <g><i>A SONG.</i></g>
 
+.ce
 <i>Scene changes to the Court.</i>
 
+.ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Sem.</i> See here comes the King; Calamity prepares a Man
@@ -2529,12 +2647,14 @@ to receive a Petition; <i>Dolo</i> will tell him the Cause of our
 coming.
 .pm new-page 053
 
+.ce
 <i>Enter</i> Dologodelmo.
 
 <i>Dolo.</i> I have inform’d the King that you have a Petition
 to his Majesty; he’ll instantly pass by, and speak to you;
 see where he comes!      [<i>Ex.</i> Dolo.
 
+.ce
 <i>Enter</i> King.
 
 <i>Sem.</i> Pray my Sovereign Lord hear us, let Pity move;
@@ -2564,10 +2684,10 @@ Passions rise, then Reason strengthens, and Love stands up
 and demands a Parly; and when my vanquish’d Adversary
 stands before me, it is equal to me whether I strike or kiss.
 
-/*
+.rj
 [<i>Exit.</i>
-*/
 
+.ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
 
 <i>Sem.</i> <i>Darony</i> is very desirous to live, he’s much in love
@@ -2594,6 +2714,7 @@ all shall be well.
 
 <i>Ser.</i> I will, <i>Sementory</i>.
 
+.ce
 <i>Enter</i> Flame.
 
 <i>Fla.</i> What! not marry’d yet?
@@ -2609,10 +2730,10 @@ away.
 
 <i>Sem.</i> Make way; see here the King comes!
 
-/*
+.rj
 [<i>Ex.</i> Flame, Sementory, <i>and</i> Seringo.
-*/
 
+.ce
 <i>Enter</i> King <i>and</i> Cademore.
 
 <i>Cad.</i> Oh! tell me, how did you bear the Pangs of Parting?
@@ -2625,6 +2746,7 @@ Wings I soar’d, I flew to my Aid aloft, I sigh’d, I
 bow’d sublime, and wept.
 .pm new-page 055
 
+.ce
 <i>Enter</i> Theorbeo <i>and</i> Dologodelmo.
 
 <i>Dolo.</i> The vanquish’d Traitors are come to appear before
@@ -2641,6 +2763,7 @@ plead to strengthen Mercy! telling me I am a Judge, my
 own Eternal highly honour’d, myself appears before myself,
 to receive from myself my irrevocable Sentence.
 
+.ce 2
 <i>A Shout behind the Scenes. Enter</i> Hurlothrumbo, Urlandenny,
 <i>and</i> Darony.
 
@@ -2703,28 +2826,36 @@ to the Earth as Leaves in Autumn fall; the mortal Stars will
 not presume to gaze, but in thy Presence veil their Faces
 all.      [<i>Exeunt.</i>
 
+.pm section-break
 
+.hr 70%
+
+.ce
 <i>FINIS.</i>
-.pm new-page 057
 
+.hr 70%
 
+.pm chapter-break
 
+.pm new-page-break 057
+
+.pm chapter-break
 
 [Illustration]
 
-
-
-
-EPILOGUE,
-
-BY
-
+.h3 nobreak
+EPILOGUE,|\ 
+|\
+BY|\
+|\
 Mr. <i><g>BYROM</g></i>.
 
+.pm section-break
 
+.ce
 Enter <i>Hurlothrumbo</i>.
 
-/*
+.nf l
 <i>Ladies and Gentlemen, my Lord of</i> Flame
 <i>Has sent me here to thank you in his Name;
 Proud of your Smiles, he’s mounted many a Story
@@ -2735,20 +2866,21 @@ With Judgments lame, and Intellects that halt,
 Because a Man outruns them——they find fault.
 He is indeed, to speak my poor Opinion,
 Out of the reach of</i> critical <i>Dominion.</i>
-*/
+.nf-
+
 .pm new-page 058
 
+.ce
 [Enter <i>Critick</i>.]
 
-/*
+.nf l
 <i>Adso! her’s one of ’em.</i>——Cr. <i>A strange odd Play, Sir</i>;
-*/
+.nf-
 
-/*
+.rj
 [Enter <i>Author</i>, pushes <i>Hurlothrumbo</i> aside.
-*/
 
-/*
+.nf l
 Au. <i>Let me come to him——Pray, what’s that you say, Sir?</i>
 
 Cr. <i>I say, Sir, Rules are not observ’d here.</i>——Au. <i>Rules,
@@ -2786,13 +2918,12 @@ Cr. <i>Play, Farce, or Opera is’t?</i> Au. <i>No matter whether,
 ’Tis a</i> <sc>Rehearsal</sc> <i>of ’em all together.
 But come Sir, come, troop off, old Blundermonger,
 And interrupt the</i> Epilogue <i>no longer.</i>
-*/
+.nf-
 
-/*
+.rj
 [<i>Author</i> drives the <i>Critick</i> off the Stage.
-*/
 
-/*
+.nf l
 Hurlo <i>proceed</i>——
 
                    Hurlo. <i>Troth! he says true enough,
@@ -2804,9 +2935,9 @@ To stifle it——but Murder-like——’twill out.
 Our Author fairly, without so much Fuss
 Shews it—in</i> puris Naturalibus;
 .pm new-page 059
-<i>Pursues the Point beyond its highest Height,      }
-Then bids his Men of Fire, and Ladies bright,        }
-Mark, how it looks!——When it is out of Sight.      }
+<i>Pursues the Point beyond its highest Height,             }
+Then bids his Men of Fire, and Ladies bright,             }
+Mark, how it looks!——When it is out of Sight.             }
 So true a</i> Stage, <i>so fair a Play for Laughter,
 There never was before, nor ever will come after:
 Never, no never; not while vital Breath,
@@ -2817,6 +2948,6 @@ Handel <i>himself shall yield to</i> Hurlothrumbo,
 <i>And</i> Bononcini <i>too shall cry</i>——Succumbo.
 <i>That’s if the Ladies condescend to smile:
 Their Looks make Sense, or Nonsense, in our Isle.</i>
-*/
+.nf-
 
 [Illustration]
