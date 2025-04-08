@@ -36,6 +36,8 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * [x] melancholly? -- sic.
 * [x] jarr? -- sic.
 * [ ] Scenes -- names, locations, numbering, page b
+* [ ] What to do with unnumbered pages? No page #? Make up roman numerals?
+* [ ] What to do with act/scene structure? Most acts don't start with a scene, except act 1, etc.
 
 ### Forum notes ###
 
@@ -121,6 +123,8 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 056 | [ (/[ ]Dol. <i>holds him</i>. | Replaced.
 * 056 | [ (/[ ]<i>Exeunt.</i> | Replaced.
 * 059 | Handel himse[l]f shall yield to Hurlothrumbo, | Added.
+
+* 044: Moved stage direction before line
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

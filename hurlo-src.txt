@@ -65,7 +65,7 @@
 
 
 
-.h1
+.h1 title='blah'
 <i>HURLOTHRUMBO</i>:|\
 |\
 OR: THE|\
@@ -444,15 +444,21 @@ When you strive to gain me,
 You only mean to pain me;
 Cruel Deceiver, Heaven leave her,
 Let her not come above,
-To taste the Sweets of constant Love.      [<i>Exit.</i>
+To taste the Sweets of constant Love.
 .pm verse-end
+
+.rj
+[<i>Exit.</i>
 
 <i>Sem.</i> Oh <i>Seringo</i>, entice not a Man to Love, except you
 design to marry: If a radiant Beam dart from the Fire of
 the Eye, ’twill touch his Inclination like Nitrous Powder,
 and flash through all his Veins, discompose his Faculties,
 and infect his Soul: I am sorry for this poor Man, ’tis dangerous
-to continue here, let us leave the place.      [<i>Exit.</i>
+to continue here, let us leave the place.
+
+.rj
+[<i>Exit.</i>
 
 .ce
 [<i>Scene changes, and discovers the King Sleeping upon a Couch.</i>
@@ -523,7 +529,10 @@ Sovereign Lord.
 
 <i>King.</i> Did this appear to all?
 
-<i>Primo.</i> All, all, all.      [<i>Ex. Solit.</i>
+<i>Primo.</i> All, all, all.
+
+.rj
+[<i>Ex. Solit.</i>
 
 <i>King.</i> If Calamity be the Parent of Wisdom, why do the
 Afflicted depend on Dreams?
@@ -724,7 +733,10 @@ Bliss too too soon. Was I to leave this World, and take
 my Flight to the celestial Heights, I’d first visit yon distant
 Moon; then tow’ring high I’d visit the brightest Situation
 of the Sun; then climb amazed up to the Stars; I’d taste
-the Sweets of every Orb, before I enter’d Heaven.      [<i>Ex.</i>
+the Sweets of every Orb, before I enter’d Heaven.
+
+.rj
+[<i>Ex.</i>
 
 .ce
 <i>Enter</i> King, Theorbeo, <i>and</i> Hurlothrumbo.
@@ -954,7 +966,10 @@ Parsons, Clergymen and Divines,
 <i>Theo.</i> What is a Parson?
 
 <i>Hurlo.</i> A Parson is——I beg pardon, the King
-comes.      [<i>Ex.</i> Hurlothrumbo.
+comes.
+
+.rj
+[<i>Ex.</i> Hurlothrumbo.
 
 <i>Theo.</i> <i>Adam</i> before <i>Eve</i> was made, longed for something
 he knew not what; I long for something more than <i>Eve</i>, I
@@ -1014,7 +1029,10 @@ to her Cheeks, I kiss’d, I curs’d, I bless’d, I wept, an
 Earthquake in my Breast, Thunder and Lightning in my
 Head, that storm’d down Tempest, and burst my Heart.
 Oh what is Woman! I am sadly in Love, I am not well;
-do kill me, O pity a Lover.      [<i>Ex.</i> Flame.
+do kill me, O pity a Lover.
+
+.rj
+[<i>Ex.</i> Flame.
 .pm new-page 022
 
 <i>King.</i> <i>Hurlothrumbo</i>, what is thy Opinion of this Man?
@@ -1104,7 +1122,10 @@ for his Master, rises not up against him when he smites him;
 he’s grateful, he flatters not, and to your shame, has more
 Compassion; for with his Tongue he’ll heal the Wound of
 the Oppressed. Ye Rationals, learn of Brutes; and teach
-me to abhor Mankind.      [<i>Exit.</i>
+me to abhor Mankind.
+
+.rj
+[<i>Exit.</i>
 
 .ce
 <i>Enter</i> Theorbeo <i>and</i> Dologodelmo.
@@ -1128,7 +1149,10 @@ fly to their Dens for shelter.
 <i>King.</i> See that Draughts are made out of my Troops,
 .pm new-page 024
 20,000 of the most proper Men. This moment I’ll review
-my Army.       [<i>Ex.</i> King <i>and</i> Theor.
+my Army.
+
+.rj
+[<i>Ex.</i> King <i>and</i> Theor.
 
 .ce
 <i>Enter</i> Hurlothrumbo, <i>out of Breath</i>.
@@ -1176,10 +1200,15 @@ let me not think, for if I think, Divinity will make me like
 a Lamb, and then persuade me to be a Coward; no, I’ll
 go and recommend
 
-/*
+.in +6
+.nf l
 My <i>Cademore</i>’s Charms to happy Fate that sent her,
-Then fly to War’s Alarms, and both my Lives will venture.      [<i>Ex.</i> King.
-*/
+Then fly to War’s Alarms, and both my Lives will venture.
+.nf-
+.in
+
+.rj
+[<i>Ex.</i> King.
 
 .ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
@@ -1207,7 +1236,10 @@ when I sleep by the Man I love, no Wind can come to me.
 
 <i>Flam.</i> I’ll fly from the War, Love and War always jar;
 there is no Calm in Love and War; let my <i>Seringo</i> live
-with me, then farewel Honour, farewel Care.       [<i>Exit.</i>
+with me, then farewel Honour, farewel Care.
+
+.rj
+[<i>Exit.</i>
 
 .pm section-break
 
@@ -1235,7 +1267,10 @@ for the King?
 
 <i>Dolo.</i> No; the Princess <i>Cademore</i> will not hear of his
 going to the Wars; at the Sound of the Word, she faints,
-sinks and dies away.       [<i>Exit</i> Dolo.
+sinks and dies away.
+
+.rj
+[<i>Exit</i> Dolo.
 
 .ce
 <i>Enter</i> Servant <i>with a Letter, delivers it, and Exit</i>.
@@ -1249,7 +1284,10 @@ he not ask me to murder my dearest Friend, curse the Deity,
 or debauch a Man’s Wife, and separate their Souls eternal?
 <i>It will preserve a great deal of Blood</i>, that’s true. <i>So
 long as</i> Theorbeo <i>stays, thy Honour wears like a Garment</i>:
-may be so; I’ll consider of this.       [<i>Exit</i> Hurlo.
+may be so; I’ll consider of this.
+
+.rj
+[<i>Exit</i> Hurlo.
 .pm new-page 026
 
 .ce
@@ -1323,7 +1361,10 @@ fall back, he comes.
 
 <i>Daro.</i> I’ll go head the Mob, break open the King’s Treasury,
 and satisfy their Thirst with Gold; then will I take
-possession of his Person, and his Crown.      [<i>Exeunt.</i>
+possession of his Person, and his Crown.
+
+.rj
+[<i>Exeunt.</i>
 
 .ce
 <i>Enter</i> Puny.
@@ -1373,7 +1414,10 @@ that are in Intellect but three Inches high.
 
 <i>Urlan.</i> No, your Upstarts are huge, and tall, converse
 with a Prince of the Air, and their Nostrils are full of the
-Devil.      [<i>Ex.</i> Pun. <i>and</i> Tem.
+Devil.
+
+.rj
+[<i>Ex.</i> Pun. <i>and</i> Tem.
 
 .ce
 <i>Drums beat. Enter</i> Darony.
@@ -1542,9 +1586,12 @@ then we’ll fly away together from all Adversity.
 .in +6
 .nf l
 Oh my Soul stealeth from me.
-Clippeth and hangeth upon thee.      [<i>King lies down.</i>
+Clippeth and hangeth upon thee.
 .nf-
 .in
+
+.rj
+[<i>King lies down.</i>
 
 .ce
 <i>Enter</i> Theorbeo. <i>The King rises.</i>
@@ -1577,7 +1624,10 @@ to fly to Sin for Refuge, or to Heaven for Relief.
 <i>King.</i> My Lord I’ll haste away, and in one Hour expect
 to see you again.
 
-<i>Theor.</i> When I think you’re safe, I’ll follow.      [<i>Ex. King.</i>
+<i>Theor.</i> When I think you’re safe, I’ll follow.
+
+.rj
+[<i>Ex. King.</i>
 .pm new-page 032
 
 .ce
@@ -1608,7 +1658,10 @@ his Soul.
 <i>Theor.</i> <i>Godelmo</i>, let thy Passion cease.
 
 <i>Dolo.</i> O pardon me, I must be alone, and burst my Heart
-with sighing.      [<i>Ex.</i> Dolo.
+with sighing.
+
+.rj
+[<i>Ex.</i> Dolo.
 
 <i>Theor.</i> O that Heaven would erect an Altar where Man
 might sacrifice himself an Offering; then surely the Blood
@@ -1672,8 +1725,11 @@ It is to fall within the fair Enchantress Arms asleep;
 But if I chance to wake you with my Bell,
 Be sure you let my Mistress know you’re well;
 And if you please her, as you ought to do,
-She’ll thank you, Master, and the Bellman too.      [<i>Exit.</i>
+She’ll thank you, Master, and the Bellman too.
 .nf-
+
+.rj
+[<i>Exit.</i>
 
 .ce
 <i>Enter</i> Sementory <i>and</i> Seringo.
@@ -1833,7 +1889,10 @@ could not escape your Armour.
 
 <i>Dar.</i> Then I’m at peace within; yet <i>Cademore</i> still runs
 in my Mind: let us haste to her Apartment, and if she
-will not consent to marry, I’ll force her.      [<i>Exeunt.</i>
+will not consent to marry, I’ll force her.
+
+.rj
+[<i>Exeunt.</i>
 .pm new-page 037
 
 .pm section-break
@@ -1928,7 +1987,10 @@ your own Virtue, not from my Merit; for if the Work
 of this Life, makes a Garment for the Soul, mine will be
 stain’d with Avarice, Debauchery and Revenge; you are
 Innocent: O Innocence! thou only Traveller to Heaven,
-farewell for ever.      [<i>Ex.</i>
+farewell for ever.
+
+.rj
+[<i>Ex.</i>
 .pm new-page 039
 
 .pm section-break
@@ -1945,9 +2007,8 @@ in Thunder, Lightning, and Hail; the Air’s in a Flame; I
 think my self in the Sun, expecting every Moment to be
 dissolv’d, and Conscience smiles.
 
-/*
+.rj
 [<i>Ex.</i> King.
-*/
 
 .ce 2
 <i>A</i> Genius <i>descends in a Cloud, and</i> Death <i>enters upon a
@@ -1986,7 +2047,10 @@ the rocky Mountains, and hurling Kingdoms to the
 Sky; Cataracts of Fire, and purple Storms shall rage, and
 hurricane thy infernal Soul.
 
-<i>Death.</i> Discord horrid!      [<i>Ex.</i> Death.
+<i>Death.</i> Discord horrid!
+
+.rj
+[<i>Ex.</i> Death.
 
 .ce
 <i>Enter</i> King.
@@ -2043,7 +2107,10 @@ eccho in my Soul.
 Possession of all, and is now crown’d, and the People
 greatly rejoice: <i>Lomporhomock</i> and <i>Hurlothrumbo</i> are come
 down with an Army of 60000 Men, and threaten in a Moment
-to destroy you and your Troops.      [<i>Ex.</i> Officer.
+to destroy you and your Troops.
+
+.rj
+[<i>Ex.</i> Officer.
 
 <i>King.</i> The excessive Storm blows up the Fire of my Soul,
 and makes me long to fight; every String of my Heart is
@@ -2058,7 +2125,10 @@ Freedom of my Friends.
 <i>Offic. Theorbeo</i> is at the Place of Execution; he desires to
 be interr’d under his Statue in the Grove, that if you ever
 come to your Kingdom, you may sometimes walk and
-think of him.      [<i>Exit</i> Officer.
+think of him.
+
+.rj
+[<i>Exit</i> Officer.
 
 <i>King.</i> Oh when shall this Dramatick World be done!
 but yet with me indeed it is. Oh when shall the End of
@@ -2081,7 +2151,10 @@ am!
 will fight and die with my Army.
 
 <i>Offic.</i> The Princess <i>Cademore</i> is now forc’d in Marriage to
-<i>Darony</i>.      [<i>Exit</i> Officer.
+<i>Darony</i>.
+
+.rj
+[<i>Exit</i> Officer.
 
 <i>King.</i> O there is the Sting! Have I lost, for ever lost,
 every thing that’s dear to me in Life, my Crown, my Mistress,
@@ -2098,7 +2171,7 @@ Eye in tender Pity gaze upon me!
 <i>Offic.</i> The Enemies assaults us in our Trenches, we must
 either fight or die, and only wait for your Majesty’s Commands.
 
-<i>King.</i> Depart, I’ll instantly be with you.      [<i>Exit</i> Officer.]
+<i>King.</i> Depart, I’ll instantly be with you. [<i>Exit</i> Officer.]
 Yet hold, 20000 to engage with 60000, there must be great
 Courage or Contrivance, tho’ I have known brave Men naked
 have beaten Cowards in Armour; I have also heard of
@@ -2199,7 +2272,10 @@ ask for more?
         Knock down all the Centrys of the Soul.
 .nf-
 
-Sir, perform your Office.      [<i>Speaking to the</i> Parson.
+Sir, perform your Office.
+
+.rj
+[<i>Speaking to the</i> Parson.
 
 <i>Par.</i> Madam, are you willing to be married?
 
@@ -2292,7 +2368,10 @@ flying through Clouds of Gun-powder Smoak.
 <i>Enter</i> Servant.
 
 <i>Serv.</i> <i>Hurlothrumbo</i> is taken Prisoner, and the <i>Dutch</i>
-Horse begin to fly.      [<i>Exit</i> Servant.
+Horse begin to fly.
+
+.rj
+[<i>Exit</i> Servant.
 
 .ce
 <i>Enter</i> Flame.
@@ -2397,9 +2476,12 @@ And all his Passion backward flies, and flames into the Air,
 Then from his Jaws did Foam descend, as tho’ he fear’d no Evil;
 The Tail, the Tusks, the Bristles stood an end, as if he’d fight the Devil;
 But when with Spear, the Foe drew near, to shout for happy Day,
-His Ears let fall, and drooping all, cry’d <i>Boh!</i> and run away.      [<i>Exit</i> Lomp.
+His Ears let fall, and drooping all, cry’d <i>Boh!</i> and run away.
 .nf-
 .in
+
+.rj
+[<i>Exit</i> Lomp.
 
 .ce
 <i>Enter</i> Primo.
@@ -2477,7 +2559,10 @@ Nerves creep, and your Veins shiver?
 <i>Primo.</i> Then you’ll enter into the Shades like a Cow in
 an Opera, terrify’d with Delights; she lows and interrupts;
 she gallops to those Climes, where is most Grass, and a
-Bull.      [<i>Ex.</i> Primo.
+Bull.
+
+.rj
+[<i>Ex.</i> Primo.
 
 <i>Hurlo.</i> May be live in my Dream, upon the Desarts of
 <i>Arabia</i>, hurl’d about with stormy Tempest, in Thunder,
@@ -2630,8 +2715,11 @@ up a Rit-a-te; every Faculty is trickling down with Transports.
 
 .nf l
 <i>Sings.</i> I gaze in Transport charm’d,
-         My Soul’s with Love alarm’d.      [<i>Ex.</i>
+         My Soul’s with Love alarm’d.
 .nf-
+
+.rj
+[<i>Ex.</i>
 
 .ce
 <g><i>A SONG.</i></g>
@@ -2652,7 +2740,10 @@ coming.
 
 <i>Dolo.</i> I have inform’d the King that you have a Petition
 to his Majesty; he’ll instantly pass by, and speak to you;
-see where he comes!      [<i>Ex.</i> Dolo.
+see where he comes!
+
+.rj
+[<i>Ex.</i> Dolo.
 
 .ce
 <i>Enter</i> King.
@@ -2800,7 +2891,10 @@ is at Wars within, and knocks down Avarice, Cruelty
 and Pride in me, I am in love with your Greatness, and
 .pm new-page 056
 hate myself; I myself will punish your Offender, [<i>stabs
-himself</i>] Oh! loose me, ’tis not finished.      [Dol. <i>holds him</i>.
+himself</i>] Oh! loose me, ’tis not finished.
+
+.rj
+[Dol. <i>holds him</i>.
 
 <i>King.</i> See, is the Wound mortal?
 
@@ -2824,7 +2918,10 @@ stand, for thy exceeding Glory will eclipse their Sight: Fear
 and Trembling on their vital Hearts will seize, they’ll drop
 to the Earth as Leaves in Autumn fall; the mortal Stars will
 not presume to gaze, but in thy Presence veil their Faces
-all.      [<i>Exeunt.</i>
+all.
+
+.rj
+[<i>Exeunt.</i>
 
 .pm section-break
 
