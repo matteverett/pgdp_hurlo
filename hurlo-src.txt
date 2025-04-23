@@ -57,15 +57,24 @@
 .nr psi 0.75em
 .nr tag-g ""
 
+.if t
+.ce
+Transcriber’s Notes
+.ul
+.it Missing or obscured punctuation was silently corrected.
+.it Typographical errors were silently corrected.
+.it Inconsistent spelling and hyphenation were made consistent only when a\
+predominant form was found in this book.
+.it Text in italics is enclosed by underscores (<i>italics</i>).
+.ul-
+.pb
+.pm chapter-break
+.if-
+
 .bn 001.png
 .pn 1
 
-
-
-
-
-
-.h1 title='blah'
+.h1
 <i>HURLOTHRUMBO</i>:|\
 |\
 OR: THE|\
@@ -338,9 +347,8 @@ OR, THE
 
 .pm chapter-break
 
-.h2 title='ACT I.' nobreak
+.h2 nobreak
 ACT I. SCENE I.
-.h3 title='SCENE I.' nobreak
 
 .ce
 <i>Enter</i> Dologodelmo <i>and</i> Hurlothrumbo <i>meeting</i>.
@@ -475,7 +483,7 @@ are catch’d away by Angels, so was my Spirit in transport
 charm’d by the Image I most admire; she retreated,
 and at a distance gaz’d and lov’d, then eagerly flying to my
 Arms, she stifled me with Kisses; but like to Sin you call’d
-me away from Heaven. Oh! my <i>Cadamore</i>, that I might
+me away from Heaven. Oh! my <i>Cademore</i>, that I might
 die always thus to live with thee; for when the Fetters of
 Slumber have link’d these Limbs and the Ground together,
 when the Chains of Sleep have bound this Body to the
@@ -691,7 +699,7 @@ together plunge in over Head and Ears most horrid.
 <i>Urlan.</i> Pray what new Adventures at Court?
 
 <i>Dar.</i> A poor King is arrived at Court, and <i>Dologodelmo</i>
-Oratorys high Encomiums upon the mighty <i>Soaretherial</i>,
+Oratorys high Encomiums upon the mighty <i>Soarethereal</i>,
 declares he’s like the glorious Sun, extends his Beams to
 all and every part of the World; and as he rides along
 the <i>Meridian</i> Course, every feeble Plant beneath him is
@@ -702,7 +710,7 @@ the Plants that reside far off, but those that grow under
 him are burn’d, and scorch’d to Ashes. ’Tis plain, Foreigners
 are most encourag’d, and we that pay the Taxes receive
 .pm new-page 016
-not the Benefit of Office; <i>Soaretherial</i> declares all
+not the Benefit of Office; <i>Soarethereal</i> declares all
 the World are his Country-men, and he that has the greatest
 Soul, to him is the nearest a-kin: but to the Purpose,
 what’s to be done? The Mob of this City must be highly
@@ -1463,7 +1471,7 @@ limited Revenge.
 <i>Enter</i> Lomperhomock.
 
 <i>Lomp.</i> Pardon me, oh King, I am come to inform you,
-at Six a Clock this Morning is your appointed Time to die.
+at Six a-Clock this Morning is your appointed Time to die.
 
 .rj
 [<i>Ex. King.</i>
@@ -2202,10 +2210,10 @@ I’ll prick him on with speary Tail.
 
 .pm section-break
 
-<g>SCENE</g>, <i>Cadmore</i>’s Apartment.
+<g>SCENE</g>, <i>Cademore</i>’s Apartment.
 
 .ce
-<i>Enter</i> Cadmore <i>and</i> Seringo.
+<i>Enter</i> Cademore <i>and</i> Seringo.
 
 <i>Cad.</i> See who comes here?
 
@@ -2645,7 +2653,7 @@ stay, till thy Breath of eternal Raptures, shall descend from
 Heaven in Harmony; when thy bright Spirit, like the Sun,
 shall glance from the Sphere, I’ll leap up in Extasy, and
 meet thee in the Air; when we descend, I’ll stand to pause,
-to gaze, admire, rejoyce and weep; I’ll parry thy Beams,
+to gaze, admire, rejoice and weep; I’ll parry thy Beams,
 run into thy Rays, and clasp thee in my Arms; if I become
 blind; but now sleepy Nature calls to rest, and as
 our Bodies slumbering sympathize, may our Souls in extatick

@@ -66,9 +66,12 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 ### Transcriber's notes ###
 * Superscript notation
   
+* 003 | to Sin you call’d me away from Heaven. Oh! my Cad[a/e]more, that I | Replaced.
 * 006 | tho' I have nothi[n]g to boast of in my | Added.
 * 006 | Play, but the Characte[r] of Soarethereal, yet | Added.
 * 006 | SAM. JOHNSON[;/.] | Replaced.
+* 007 | Soarether[i/e]al, declares he’s like the glorious Sun, extends his | Replaced.
+* 008 | Office; Soarether[i/e]al | Replaced.
 * 008 | MEN[.] | Added.
 * 009 | <i>Dolo.</i> No Storms, no Rebellions, I hope[,/.] | Replaced.
 * 010 | not, he's King and he's no King; his high-born Soul is [a] | Deleted.
@@ -91,6 +94,7 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 018 | he[']ll extend his Army to the <i>North</i> and to the <i>South</i>; then, | Added.
 * 019 | <i>Sem[.]</i> I'm weary of Dress, pall'd with Pleasure, sick of | Added.
 * 019 | Ser[e/i]n. How gay, how free, how merry is he! | Replaced.
+* 020 | <i>Lomp.</i> Pardon me, oh King, I am come to inform you, at Six a[-]Clock | Added.
 * 022 | [<i>Ex.</i> Theorbeo, Hurlo[./,] <i>and</i> Servant. | Replaced.
 * 023 | beautiful [OE/Œ]conomy of the Universe, listen to the Linnets, } Replaced.
 * 025 | ACT III[,/.] | Replaced.
@@ -110,12 +114,15 @@ Please also make sure you **remove** the [catch-words](https://www.pgdp.net/wiki
 * 033 | And if you please her, as you o[n/u]ght to do, | Replaced.
 * 034 | all the Pile of Building in the other World was tumbl[;/i]ng | Replaced.
 * 036 | [he] could not escape your Armour. | Deleted.
+* 039 | SCENE, Cad[e]more’s Apartment. | Added.
+* 039 | Enter Cad[e]more and Seringo. | Added.
 * 039 | Fiend to fight ag[o/a]inst him: remember thou Toad of Hell, | Replaced.
 * 042 | the Anguish and Bitterness of my Soul, I'll [f/s]lash it through | Replaced.
 * 044 | <i>Enter</i> Flame, <i>with Pistols[./,] and a drawn Sword</i>. | Replaced.
 * 045 | the Beast pulls, is pamp[a/e]red with too many Beans and Oats, | Replaced.
 * 045 | flying through Clouds of Gun-po[u/w]der Smoak. | Replaced.
 * 046 | [<i>Exeunt.</i> | Italicized.
+* 047 | descend, I’ll stand to pause, to gaze, admire, rejo[y/i]ce and weep; I’ll | Replaced.
 * 050 | Mind; raise to the highest [Oe/Œ]conomy of the Universe, and | Replaced.
 * 053 | [ (/[ ]<i>Ex.</i> Dolo. | Replaced.
 * 053 | [ (/[ ]<i>Exit.</i> | Replaced.

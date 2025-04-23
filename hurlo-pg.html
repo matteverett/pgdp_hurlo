@@ -95,27 +95,19 @@
       width: 100%;
     }
 
-    .ebook__hr--narrow {
-      width: 30%;
-      margin-left: 35%;
-      margin-right: 35%;
-    }
-
     .ebook__hr--medium {
       width: 50%;
       margin-left: 25%;
       margin-right: 25%;
     }
 
-    .ebook__hr--wide {
-      width: 70%;
-      margin-left: 15%;
-      margin-right: 15%;
-    }
-
     .ebook__hr--chapter {
       margin-top: 4em;
       margin-bottom: 4em;
+    }
+
+    .x-ebookmaker hr.ebook__hr--chapter {
+      display: none;
     }
 
     /* #endregion */
@@ -126,16 +118,12 @@
       padding-bottom: 1em;
     }
 
-    .ebook__space--chapter {
-      padding-top: 2em;
-      padding-bottom: 2em;
-    }
-
     /* #region title */
 
     .ebook__title {
       display: block;
       text-align: center;
+      page-break-before: auto;
     }
 
     .verse {
@@ -143,7 +131,7 @@
       display: inline-block;
     }
 
-    .verse span {
+    .verse>span {
       display: block;
     }
 
@@ -189,28 +177,6 @@
       max-height: 300px;
     }
 
-    .brace-container {
-      display: inline-block;
-      position: relative;
-      padding-right: 5em;
-      text-align: left;
-    }
-
-    .brace {
-      position: absolute;
-      width: 1.5em;
-      top: 5%;
-      bottom: 5%;
-      right: 0;
-      margin: 0;
-    }
-
-    .brace img {
-      width: 0.5em;
-      height: 100%;
-      max-height: 300px;
-    }
-
     /* #endregion */
     /* #endregion */
     /* #region sections */
@@ -221,18 +187,6 @@
 
     /* #endregion */
     /* #region utility */
-
-    .text-xxs {
-      font-size: 0.55em;
-    }
-
-    .text-xs {
-      font-size: 0.7em;
-    }
-
-    .text-s {
-      font-size: 0.85em;
-    }
 
     .text-l {
       font-size: 1.2em;
@@ -263,52 +217,48 @@
       text-align: right;
     }
 
-    .justify {
-      text-align: justify;
-    }
-
     .m0 {
       margin: 0;
     }
 
-    .mt-none {
-      margin-top: 0;
+    .mt-1em {
+      margin-top: 1em;
     }
 
-    .mt-1rem {
-      margin-top: 16px;
+    .mt-2em {
+      margin-top: 2em;
     }
 
-    .mt-2rem {
-      margin-top: 32px;
+    .mt-l-1rem {
+      margin-top: 0.8em;
     }
 
-    .mt-3rem {
-      margin-top: 48px;
+    .mt-l-2rem {
+      margin-top: 1.6em;
     }
 
-    .mt-4rem {
-      margin-top: 64px;
+    .mt-l-4rem {
+      margin-top: 3.2em;
     }
 
-    .mb-none {
-      margin-bottom: 0;
+    .mt-xl-1rem {
+      margin-top: 0.7em;
     }
 
-    .mb-1rem {
-      margin-bottom: 16px;
+    .mt-xl-2rem {
+      margin-top: 1.4em;
     }
 
-    .mb-2rem {
-      margin-bottom: 32px;
+    .mt-xxl-1rem {
+      margin-top: 0.55em;
     }
 
-    .mb-3rem {
-      margin-bottom: 48px;
+    .mt-xxl-4rem {
+      margin-top: 2.2em;
     }
 
-    .mb-4rem {
-      margin-bottom: 64px;
+    .mb-xl-2rem {
+      margin-bottom: 1.4em;
     }
 
     .ml-1em {
@@ -331,24 +281,8 @@
       margin-left: 6em;
     }
 
-    .mr-1em {
-      margin-right: 1em;
-    }
-
-    .mr-2em {
-      margin-right: 2em;
-    }
-
     .mr-3em {
       margin-right: 3em;
-    }
-
-    .mr-4em {
-      margin-right: 4em;
-    }
-
-    .mr-5em {
-      margin-right: 5em;
     }
 
     .mr-6em {
@@ -360,22 +294,13 @@
       width: 100%;
     }
 
-    .fig-s {
-      max-width: 400px;
-      width: 85%;
-    }
-
-    .fig-xs {
-      max-width: 350px;
-      width: 70%;
-    }
-
     .fig-xxs {
       max-width: 250px;
       width: 55%;
     }
 
     .fig-ce {
+      clear: both;
       display: block;
       margin-left: auto;
       margin-right: auto;
@@ -390,89 +315,6 @@
     /* #endregion */
     /* #region ppgen */
 
-    .lg-container-b {
-      text-align: center;
-    }
-
-    .x-ebookmaker .lg-container-b {
-      clear: both;
-    }
-
-    .lg-container-l {
-      text-align: left;
-    }
-
-    .x-ebookmaker .lg-container-l {
-      clear: both;
-    }
-
-    .lg-container-r {
-      text-align: right;
-    }
-
-    .x-ebookmaker .lg-container-r {
-      clear: both;
-    }
-
-    .linegroup {
-      display: inline-block;
-      text-align: left;
-    }
-
-    .x-ebookmaker .linegroup {
-      display: block;
-      margin-left: 1.5em;
-    }
-
-    .linegroup .group {
-      margin: 1em auto;
-    }
-
-    .linegroup .line {
-      text-indent: -3em;
-      padding-left: 3em;
-    }
-
-    div.linegroup> :first-child {
-      margin-top: 0;
-    }
-
-    .linegroup .in17 {
-      padding-left: 11.5em;
-    }
-
-    .linegroup .in19 {
-      padding-left: 12.5em;
-    }
-
-    .linegroup .in2 {
-      padding-left: 4em;
-    }
-
-    .linegroup .in4 {
-      padding-left: 5em;
-    }
-
-    .linegroup .in5 {
-      padding-left: 5.5em;
-    }
-
-    .linegroup .in6 {
-      padding-left: 6em;
-    }
-
-    .linegroup .in7 {
-      padding-left: 6.5em;
-    }
-
-    .linegroup .in8 {
-      padding-left: 7em;
-    }
-
-    .linegroup .in9 {
-      padding-left: 7.5em;
-    }
-
     em.gesperrt {
       font-style: normal;
       letter-spacing: 0.2em;
@@ -485,151 +327,9 @@
       margin-right: 0;
     }
 
-    div.pbb {
-      page-break-before: always;
-    }
-
-    hr.pb {
-      border: none;
-      border-bottom: thin solid;
-      margin-bottom: 1em;
-    }
-
-    .x-ebookmaker hr.pb {
-      display: none;
-    }
-
-    .chapter {
+    .ch {
       clear: both;
       page-break-before: always;
-    }
-
-    .table0 {
-      margin: auto;
-      margin-top: 2em;
-      margin-left: 5%;
-      margin-right: 5%;
-      width: 90%;
-    }
-
-    .colwidth3 {
-      width: 3%;
-    }
-
-    .colwidth96 {
-      width: 96%;
-    }
-
-    .nf-center {
-      text-align: center;
-    }
-
-    .nf-center-c0 {
-      text-align: left;
-      margin: 0.5em 0;
-    }
-
-    .c000 {
-      page-break-before: always;
-      margin-top: 1em;
-    }
-
-    .c001 {
-      margin-top: 1em;
-    }
-
-    .c002 {
-      border: none;
-      border-bottom: thin solid;
-      margin-top: 1em;
-      margin-bottom: 1em;
-      margin-left: 15%;
-      width: 70%;
-      margin-right: 15%;
-    }
-
-    .c003 {
-      margin-top: 4em;
-    }
-
-    .c004 {
-      margin-top: 4em;
-      text-indent: 1em;
-      margin-bottom: 0.37em;
-    }
-
-    .c005 {
-      page-break-before: auto;
-      margin-top: 4em;
-    }
-
-    .c006 {
-      margin-left: 2.78%;
-      margin-top: 2em;
-      text-indent: 1em;
-      margin-bottom: 0.37em;
-    }
-
-    .c007 {
-      text-indent: 1em;
-      margin-top: 0.37em;
-      margin-bottom: 0.37em;
-    }
-
-    .c008 {
-      border: none;
-      border-bottom: thin solid;
-      margin-top: 1em;
-      margin-bottom: 1em;
-      margin-left: 15%;
-      width: 70%;
-      margin-right: 15%;
-      margin-top: 2em;
-    }
-
-    .c009 {
-      vertical-align: top;
-      text-align: left;
-      padding-right: 1em;
-    }
-
-    .c010 {
-      vertical-align: top;
-      text-align: left;
-    }
-
-    .c011 {
-      margin-top: 2em;
-    }
-
-    .c012 {
-      page-break-before: auto;
-      margin-top: 2em;
-    }
-
-    .c013 {
-      text-align: right;
-    }
-
-    .c014 {
-      margin-left: 5.56%;
-    }
-
-    .c015 {
-      margin-left: 5.56%;
-      text-indent: -5.56%;
-      margin-top: 0.37em;
-      margin-bottom: 0.37em;
-    }
-
-    .c016 {
-      margin-left: 8.33%;
-    }
-
-    .c017 {
-      margin-top: 2em;
-      text-indent: 1em;
-      margin-bottom: 0.37em;
     }
 
     .tnbox {
@@ -647,15 +347,15 @@
     <span class='pageno' id='Page_i'>i</span>
 
     <h1 class='ebook__title'>
-      <span class='text-xxl mt-1rem'><i>HURLOTHRUMBO</i>:</span>
-      <span class='text-l mt-1rem'>OR: THE</span>
-      <span class='text-xxl mt-1rem sc'>Super-Natural</span>
+      <span class='text-xxl mt-xxl-1rem'><i>HURLOTHRUMBO</i>:</span>
+      <span class='text-l mt-l-1rem'>OR: THE</span>
+      <span class='text-xxl mt-xxl-1rem sc'>Super-Natural</span>
     </h1>
 
-    <div class='text-l mt-1rem'>As it is Acted at the</div>
-    <div class='text-xxl mt-1rem'>NEW-THEATRE,</div>
-    <div class='mt-1rem'>IN THE</div>
-    <div class='text-xxl mt-1rem'>HAY-MARKET.</div>
+    <div class='text-l mt-l-1rem'>As it is Acted at the</div>
+    <div class='text-xxl mt-xxl-1rem'>NEW-THEATRE,</div>
+    <div class='mt-1em'>IN THE</div>
+    <div class='text-xxl mt-xxl-1rem'>HAY-MARKET.</div>
 
     <div class='ebook__space--section'></div>
 
@@ -679,11 +379,11 @@
 
     <hr class='ebook__hr ebook__hr--medium'>
 
-    <div class='mt-2rem'><i>LONDON</i>:</div>
+    <div class='mt-2em'><i>LONDON</i>:</div>
 
-    <div class='mt-1rem'>Printed for the AUTHOR And,</div>
+    <div class='mt-1em'>Printed for the AUTHOR And,</div>
 
-    <div class='nofill mt-1rem'>
+    <div class='nofill mt-1em'>
       <div>
         <i>Dublin</i>: Re-Printed by <span class='sc'>James Hoey</span>,
         and <span class='sc'>George</span>
@@ -700,16 +400,16 @@
 
   <hr class='ebook__hr ebook__hr--chapter'>
 
-  <div class='chapter'>
+  <div class='ch'>
     <span class='pageno' id='Page_iii'>iii</span>
     <img class='fig-m fig-ce' src='images/i003.png' alt=''>
-    <h2 class='ebook__title mt-1rem'>
+    <h2 class='ebook__title mt-1em'>
       <span>TO</span>
-      <span class='mt-1rem text-xl'>The Honourable the</span>
-      <span class='mt-1rem text-xxl'>Lady <i>DELVES</i>.</span>
+      <span class='mt-l-1rem text-xl'>The Honourable the</span>
+      <span class='mt-xxl-1rem text-xxl'>Lady <i>DELVES</i>.</span>
     </h2>
 
-    <p class='mt-2rem ml-2em'>MADAM,</p>
+    <p class='mt-2em ml-2em'>MADAM,</p>
 
     <p class='drop-cap noindent'>
       When I think of your Goodness, it gives me Encouragement to put my
@@ -731,28 +431,28 @@
       Subject. I hope your eternal Unisons in Heaven will always sing to
       keep up the Harmony in your Soul, that is Musical as Mrs.
       <i>Leigh</i>, and never ceases to delight; raises us in Raptures like
-      <i>Amante Sposa</i>, Lord <i>Essex</i>, or the Sun. If every Pore in
+      <i lang='it'>Amante Sposa</i>, Lord <i>Essex</i>, or the Sun. If every Pore in
       every Body in <i>Cheshire</i> was a Mouth they would all cry out
       aloud, <i>God save the Lady</i> DELVES! that illuminates the Minds, of
       Mortals, inspires with Musick and Poetry especially,
     </p>
 
-    <div class='rj mt-4rem mr-3em text-l'><i>Your most Humble Servant</i>,</div>
-    <div class='rj mt-4rem text-xxl'>Lord <i>FLAME</i>.</div>
+    <div class='rj mt-l-4rem mr-3em text-l'><i>Your most Humble Servant</i>,</div>
+    <div class='rj mt-xxl-4rem text-xxl'>Lord <i>FLAME</i>.</div>
   </div>
 
   <hr class='ebook__hr ebook__hr--chapter'>
 
-  <div class='chapter'>
+  <div class='ch'>
     <span class='pageno' id='Page_v'>v</span>
     <img class='fig-m fig-ce' src='images/i005.png' alt=''>
-    <h2 class='ebook__title mt-1rem'>
+    <h2 class='ebook__title mt-1em'>
       <span>TO</span>
-      <span class='mt-1rem text-xl'>The Right Hon<sup>ble</sup> the</span>
-      <span class='mt-1rem text-xxl'>Lord <i>WALPOLE</i>.</span>
+      <span class='mt-l-1rem text-xl'>The Right Hon<sup>ble</sup> the</span>
+      <span class='mt-xxl-1rem text-xxl'>Lord <i>WALPOLE</i>.</span>
     </h2>
 
-    <p class='mt-2rem ml-2em'><i>My Good Lord</i>,</p>
+    <p class='mt-2em ml-2em'><i>My Good Lord</i>,</p>
     <p class='drop-cap noindent'>
       I Return Thanks to Heaven, which is in you, I mean your Taste, that
       would not continue, except it was cherish’d with Vertue, that Parent
@@ -771,22 +471,22 @@
       thankful than
     </p>
 
-    <div class='rj mt-4rem mr-6em text-l'><i>Your</i> LORDSHIP’S</div>
+    <div class='rj mt-l-4rem mr-6em text-l'><i>Your</i> LORDSHIP’S</div>
 
     <div class='rj'>
       <div class='nofill'>
-        <div class='lj mt-4rem text-l'><i>very humble Servant</i>,</div>
-        <div class='lj mt-4rem text-xxl'>SAM. JOHNSON.</div>
+        <div class='lj mt-l-4rem text-l'><i>very humble Servant</i>,</div>
+        <div class='lj mt-xxl-4rem text-xxl'>SAM. JOHNSON.</div>
       </div>
     </div>
   </div>
 
   <hr class='ebook__hr ebook__hr--chapter'>
 
-  <div class='chapter'>
+  <div class='ch'>
     <span class='pageno' id='Page_vii'>vii</span>
 
-    <h2 class='ce text-xxl'>PROLOGUE.</h2>
+    <h2 class='ebook__title text-xxl'>PROLOGUE.</h2>
 
     <hr class='ebook__hr ebook__hr--medium'>
 
@@ -894,16 +594,16 @@
     </div>
   </div>
 
-  <hr class='ebook__hr--chapter'>
+  <hr class='ebook__hr ebook__hr--chapter'>
 
-  <div class='chapter'>
+  <div class='ch'>
     <div class='ce'>
       <div class='nofill'>
         <span class='pageno' id='Page_viii'>viii</span>
         <h2 class='ebook__title text-xxl'>Persons of the Drama.</h2>
 
-        <div class='ce text-xl mt-1rem'>MEN.</div>
-        <div class='mt-1rem'>Soarethereal.</div>
+        <div class='ce text-xl mt-xl-1rem'>MEN.</div>
+        <div class='mt-1em'>Soarethereal.</div>
         <div>Hurlothrumbo.</div>
         <div>Dologodelmo.</div>
         <div>Darony.</div>
@@ -920,8 +620,8 @@
         <div>Death.</div>
         <div><i>Lord</i> Flame.</div>
 
-        <div class='ce text-xl mt-1rem'>WOMEN.</div>
-        <div class='mt-1rem'>Cademore.</div>
+        <div class='ce text-xl mt-xl-1rem'>WOMEN.</div>
+        <div class='mt-1em'>Cademore.</div>
         <div>Sermentory.</div>
         <div>Seringo.</div>
         <div>Lusingo.</div>
@@ -930,24 +630,22 @@
     </div>
   </div>
 
-  <hr class='ebook__hr--chapter'>
+  <hr class='ebook__hr ebook__hr--chapter'>
 
-  <div class='chapter'>
+  <div class='ch'>
     <span class='pageno' id='Page_1'>1</span>
 
     <img class='fig-m fig-ce' src='images/i009.png' alt=''>
 
-    <div class='ce mt-1rem'>
+    <div class='ce mt-2em'>
       <div class='text-xxl'><i>HURLOTHRUMBO</i>:</div>
       <div>OR, THE</div>
       <div class='text-xxl'><span class='sc'>Super-Natural</span>.</div>
     </div>
 
-    <div class='ebook__space--chapter'></div>
+    <h2 class='ebook__title text-xxl mt-xxl-4rem'>ACT I. SCENE I.</h2>
 
-    <h2 class='ce text-xxl'>ACT I. SCENE I.</h2>
-
-    <p class='mt-2rem ce'>
+    <p class='mt-2em ce'>
       <i>Enter</i> Dologodelmo <i>and</i> Hurlothrumbo <i>meeting</i>.
     </p>
     <p><i>Dolo.</i> <i>Hurlothrumbo</i>, how goes the Muse?</p>
@@ -1074,7 +772,7 @@
       catch’d away by Angels, so was my Spirit in transport charm’d by the
       Image I most admire; she retreated, and at a distance gaz’d and lov’d,
       then eagerly flying to my Arms, she stifled me with Kisses; but like
-      to Sin you call’d me away from Heaven. Oh! my <i>Cadamore</i>, that I
+      to Sin you call’d me away from Heaven. Oh! my <i>Cademore</i>, that I
       might die always thus to live with thee; for when the Fetters of
       Slumber have link’d these Limbs and the Ground together, when the
       Chains of Sleep have bound this Body to the Earth; when these Eyes,
@@ -1271,7 +969,7 @@
     <p>
       <i>Dar.</i> A poor King is arrived at Court, and
       <i>Dologodelmo</i> Oratorys high Encomiums upon the mighty
-      <i>Soaretherial</i>, declares he’s like the glorious Sun, extends his
+      <i>Soarethereal</i>, declares he’s like the glorious Sun, extends his
       Beams to all and every part of the World; and as he rides along the
       <i>Meridian</i> Course, every feeble Plant beneath him is cherished,
       and rises up revived.
@@ -1282,7 +980,7 @@
       scorch’d to Ashes. ’Tis plain, Foreigners are most encourag’d, and we
       that pay the Taxes receive
       <span class='pageno' id='Page_8'>8</span>not the Benefit of
-      Office; <i>Soaretherial</i>
+      Office; <i>Soarethereal</i>
       declares all the World are his Country-men, and he that has the
       greatest Soul, to him is the nearest a-kin: but to the Purpose, what’s
       to be done? The Mob of this City must be highly prejudic’d in our
@@ -1297,8 +995,8 @@
       [<i>Ex.</i> Darony, Urlandenny, <i>and</i> Darno.
     </p>
 
-    <div class='scene'>
-      <h3 class='ce text-xl mt-2rem'>
+    <div>
+      <h3 class='ce text-xl mt-xl-2rem'>
         <span class='gesperrt'>SCENE</span>, <i>Cademore</i>’s Apartment.
       </h3>
       <p class='ce'><i>Enter</i> Cademore <i>and</i> Lusingo.</p>
@@ -1358,7 +1056,7 @@
         <i>Hurlo.</i> A Man’s Heart and his Bladder changes Places.
       </p>
       <p><i>King.</i> And what is Honour?</p>
-      <p class='c015'>
+      <p class='hanging-3em'>
         <i>Hurlo.</i> Honour is, and it is not; yet Honour is to be found.
       </p>
       <p>
@@ -1410,17 +1108,17 @@
           <span class='ml-2em hanging-1em'><i>Which much reviv’d the jealous Fair.</i></span>
         </p>
       </div>
-      <p class='ce mt-2rem'><i>The End of the First Act.</i></p>
+      <p class='ce mt-2em'><i>The End of the First Act.</i></p>
     </div>
   </div>
 
   <hr class='ebook__hr ebook__hr--chapter'>
 
-  <div class='chapter'>
+  <div class='ch'>
     <img class='fig-m fig-ce' src='images/i018.png' alt=''>
-    <h2 class='ce text-xxl mt-1rem'>ACT II.</h2>
-    <p class='ce mt-2rem'><i>Enter</i> Urlandenny <i>and</i> Darony.</p>
-    <p class='mt-1rem drop-cap-xl noindent'>
+    <h2 class='ebook__title text-xxl mt-xxl-1rem'>ACT II.</h2>
+    <p class='ce mt-2em'><i>Enter</i> Urlandenny <i>and</i> Darony.</p>
+    <p class='mt-1em drop-cap-xl noindent'>
       <span class='float-left'><i>Daro.</i></span> What News, my Lord?
     </p>
     <p>
@@ -1529,7 +1227,7 @@
     <p>
       <i>Hurlo.</i> A Parson is——I beg pardon, the King comes.
     </p>
-    <div class='c013'>[<i>Ex.</i> Hurlothrumbo.</div>
+    <div class='rj'>[<i>Ex.</i> Hurlothrumbo.</div>
     <p>
       <i>Theo.</i> <i>Adam</i> before <i>Eve</i> was made, longed for
       something he knew not what; I long for something more than <i>Eve</i>,
@@ -1776,16 +1474,17 @@
       farewel Honour, farewel Care.
     </p>
     <p class='rj'>[<i>Exit.</i></p>
-    <p class='ce mt-2rem'>
+    <p class='ce mt-2em'>
       <i>The End of the Second</i> <em class='gesperrt'>ACT</em>
     </p>
   </div>
 
   <hr class='ebook__hr ebook__hr--chapter'>
-  <div class='chapter'>
-    <h2 class='ce text-xxl'>ACT III.</h2>
-    <p class='ce text-xl mt-2rem'><i>Enter</i> Hurlothrumbo <i>and</i> Dologodelmo.</p>
-    <p class='mt-1rem drop-cap-xl noindent'>
+
+  <div class='ch'>
+    <h2 class='ebook__title text-xxl'>ACT III.</h2>
+    <p class='ce text-xl mt-xl-2rem'><i>Enter</i> Hurlothrumbo <i>and</i> Dologodelmo.</p>
+    <p class='mt-1em drop-cap-xl noindent'>
       <span class='float-left'><i>Dolo.</i></span> H<i>urlothrumbo</i>, are you ready to mount?
     </p>
     <p>
@@ -1965,8 +1664,8 @@
     </p>
     <p class='ce'><i>Enter</i> Lomperhomock.</p>
     <p>
-      <i>Lomp.</i> Pardon me, oh King, I am come to inform you, at Six a
-      Clock this Morning is your appointed Time to die.
+      <i>Lomp.</i> Pardon me, oh King, I am come to inform you, at Six a-Clock
+      this Morning is your appointed Time to die.
     </p>
     <p class='rj'>[<i>Ex. King.</i></p>
     <p>
@@ -2180,10 +1879,12 @@
       </p>
     </div>
   </div>
+
   <hr class='ebook__hr ebook__hr--chapter'>
-  <div class='chapter'>
-    <h2 class='ce text-xxl'>ACT IV.</h2>
-    <p class='ce mt-2rem text-xl'><i>Enter</i> Bellman <i>and Sings</i>.</p>
+
+  <div class='ch'>
+    <h2 class='ebook__title text-xxl'>ACT IV.</h2>
+    <p class='ce mt-xl-2rem text-xl'><i>Enter</i> Bellman <i>and Sings</i>.</p>
     <div>
       <p class='verse drop-cap'>
         <span class='noindent'>Good Morn, good Morn, my Masters all good Morn!</span>
@@ -2325,7 +2026,7 @@
     <p><i>Primo.</i> Then he must not live.</p>
     <p><i>Dar.</i> No, he shall not live.</p>
     <p><i>Primo.</i> Oh how Men condemn themselves!</p>
-    <div class='c013'>[<i>Ex.</i> Primo.</div>
+    <div class='rj'>[<i>Ex.</i> Primo.</div>
     <p>
       <i>Dar.</i> Compassion is a Weakness in Man, it may become a Woman;
       not but I feel the Failing in myself, tho’ I conquer it and keep it
@@ -2348,9 +2049,9 @@
       to marry, I’ll force her.
     </p>
     <p class='rj'>[<i>Exeunt.</i></p>
-    <div class='scene'>
+    <div>
       <span class='pageno' id='Page_33'>33</span>
-      <h3 class='text-xl ce mt-2rem'>
+      <h3 class='text-xl ce mt-xl-2rem'>
         <span class='gesperrt'>SCENE</span>, <i>a Prison</i>.
       </h3>
       <p class='ce'>
@@ -2433,9 +2134,9 @@
       </p>
       <p class='rj'>[<i>Ex.</i></p>
     </div>
-    <div class='scene'>
+    <div>
       <span class='pageno' id='Page_35'>35</span>
-      <h3 class='ce text-xl mt-2rem'><em class='gesperrt'>SCENE</em>, <i>a Wood</i>.</h3>
+      <h3 class='ce text-xl mt-xl-2rem'><em class='gesperrt'>SCENE</em>, <i>a Wood</i>.</h3>
       <p class='ce'><i>Thunder and Lightning. Enter</i> King.</p>
       <p>
         <i>King.</i> What a Smell of Sulphur is here? Was ever Day like this?
@@ -2614,10 +2315,10 @@
         </p>
       </div>
     </div>
-    <div class='scene'>
+    <div>
       <span class='pageno' id='Page_39'>39</span>
-      <h3 class='ce mt-2rem text-xl'><span class='gesperrt'>SCENE</span>, <i>Cadmore</i>’s Apartment.</h3>
-      <p class='ce'><i>Enter</i> Cadmore <i>and</i> Seringo.</p>
+      <h3 class='ce mt-xl-2rem text-xl'><span class='gesperrt'>SCENE</span>, <i>Cademore</i>’s Apartment.</h3>
+      <p class='ce'><i>Enter</i> Cademore <i>and</i> Seringo.</p>
       <p><i>Cad.</i> See who comes here?</p>
       <p><i>Serin.</i> ’Tis the Lord <i>Flame</i>.</p>
       <p class='ce'><i>Enter</i> Flame.</p>
@@ -2682,7 +2383,7 @@
         </p>
       </div>
       <p>Sir, perform your Office.</p>
-      <div class='c013'>[<i>Speaking to the</i> Parson.</div>
+      <div class='rj'>[<i>Speaking to the</i> Parson.</div>
       <p><i>Par.</i> Madam, are you willing to be married?</p>
       <p><i>Cad.</i> I am not.</p>
       <p><i>Hurlo.</i> Never mind that.</p>
@@ -2800,15 +2501,17 @@
         </p>
       </div>
       <p class='rj'>[<i>Exeunt.</i></p>
-      <p class='ce mt-2rem'><i>The End of the Fourth Act.</i></p>
+      <p class='ce mt-2em'><i>The End of the Fourth Act.</i></p>
     </div>
   </div>
+
   <hr class='ebook__hr ebook__hr--chapter'>
-  <div class='chapter'>
+
+  <div class='ch'>
     <span class='pageno' id='Page_43'>43</span>
     <img class='fig-m fig-ce' src='images/i047.png' alt=''>
-    <h2 class='ce text-xxl'>ACT V.</h2>
-    <p class='ce mt-2rem'><i>Enter</i> Hurlothrumbo, <i>in Prison guarded</i>.</p>
+    <h2 class='ebook__title text-xxl'>ACT V.</h2>
+    <p class='ce mt-2em'><i>Enter</i> Hurlothrumbo, <i>in Prison guarded</i>.</p>
     <p>
       <i>Hurlo.</i> Leave me alone, let me vent, let me pour out the
       inveterate Anguish of my Soul; I see there is nothing impossible; no,
@@ -2966,7 +2669,7 @@
         <span class='ml-1em hanging-1em'>She leads the midnight Traveller astray,</span>
         <span class='ml-1em hanging-1em'>Forsaken by the Light, the Sun and Day;</span>
         <span class='ml-1em hanging-1em'>Thro’ Brambles, Briers, Hedges, Ditches,</span>
-        <span class='ml-1em hanging-1em'>The <i>Ignis fatuus</i> the Fool bewitches.</span>
+        <span class='ml-1em hanging-1em'>The <i lang='la'>Ignis fatuus</i> the Fool bewitches.</span>
         <span class='ml-1em hanging-1em'>Thus stimulated, the glimmering Light deceives him,</span>
         <span class='ml-1em hanging-1em'>Leads him to a miry Bog, then vanishes and leaves him:</span>
         <span class='ml-1em hanging-1em'>Thus I do roul and wallow in the Mire of the Mind,</span>
@@ -3019,7 +2722,7 @@
       till thy Breath of eternal Raptures, shall descend from Heaven in
       Harmony; when thy bright Spirit, like the Sun, shall glance from the
       Sphere, I’ll leap up in Extasy, and meet thee in the Air; when we
-      descend, I’ll stand to pause, to gaze, admire, rejoyce and weep; I’ll
+      descend, I’ll stand to pause, to gaze, admire, rejoice and weep; I’ll
       parry thy Beams, run into thy Rays, and clasp thee in my Arms; if I
       become blind; but now sleepy Nature calls to rest, and as our Bodies
       slumbering sympathize, may our Souls in extatick Visions meet.
@@ -3083,7 +2786,7 @@
     </p>
     <p><i>Sings.</i> I gaze in Transport charm’d,</p>
     <p class='ml-3em hanging-1em'>My Soul’s with Love alarm’d.</p>
-    <div class='c013'>[<i>Ex.</i></div>
+    <div class='rj'>[<i>Ex.</i></div>
     <p class='ce'>
       <span class='gesperrt'><i>A SONG.</i></span>
     </p>
@@ -3265,22 +2968,24 @@
       but in thy Presence veil their Faces all.
     </p>
     <p class='rj'>[<i>Exeunt.</i></p>
-    <hr class='ebook__hr ebook__hr--medium mt-2rem'>
-    <p class='ce mt-2rem mb-2rem text-xl'><i>FINIS.</i></p>
+    <hr class='ebook__hr ebook__hr--medium mt-2em'>
+    <p class='ce mt-xl-2rem mb-xl-2rem text-xl'><i>FINIS.</i></p>
     <hr class='ebook__hr ebook__hr--medium'>
   </div>
+
   <hr class='ebook__hr ebook__hr--chapter'>
-  <div class='chapter'>
+
+  <div class='ch'>
     <span class='pageno' id='Page_53'>53</span>
     <img class='fig-m fig-ce' src='images/i057.png' alt=''>
-    <h2 class='ebook__title mt-1rem'>
+    <h2 class='ebook__title mt-1em'>
       <span class='text-xxl ce'>EPILOGUE,</span>
-      <span class='text-xl ce mt-2rem'>BY</span>
-      <span class='text-xl ce mt-2rem'>
+      <span class='text-xl ce mt-xl-2rem'>BY</span>
+      <span class='text-xl ce mt-xl-2rem'>
         Mr. <i><span class='gesperrt'>BYROM</span></i>.
       </span>
     </h2>
-    <p class='ce text-l mt-2rem'>Enter <i>Hurlothrumbo</i>.</p>
+    <p class='ce text-l mt-l-2rem'>Enter <i>Hurlothrumbo</i>.</p>
     <div>
       <p class='verse drop-cap'>
         <span class='noindent'><i>Ladies and Gentlemen, my Lord of</i> Flame</span>
@@ -3402,123 +3107,139 @@
         </span>
       </p>
     </div>
-    <p class='group'>
-      <span class='line'>
-        Cr. <i>Play, Farce, or Opera is’t?</i> Au.
-        <i>No matter whether,</i>
-      </span>
-      <span class='line'>
-        <i>’Tis a</i> <span class='sc'>Rehearsal</span>
-        <i>of ’em all together.</i>
-      </span>
-      <span class='line'>
-        <i>But come Sir, come, troop off, old Blundermonger,</i>
-      </span>
-      <span class='line'>
-        <i>And interrupt the</i> Epilogue <i>no longer.</i>
-      </span>
-    </p>
-    <p class='c013'>
-      [<i>Author</i> drives the <i>Critick</i> off the Stage.
-    </p>
     <div>
       <p class='verse'>
         <span class='noindent hanging-3em'>
-          Hurlo <i>proceed</i>——
-        </span>
-        <span class='ml-6em hanging-1em'>
-          Hurlo. <i>Troth! he says true enough,</i>
+          Cr. <i>Play, Farce, or Opera is’t?</i> Au.
+          <i>No matter whether,</i>
         </span>
         <span class='noindent hanging-3em'>
-          <i>The Stage has given rise to wretched Stuff:</i>
+          <i>’Tis a</i> <span class='sc'>Rehearsal</span>
+          <i>of ’em all together.</i>
         </span>
         <span class='noindent hanging-3em'>
-          <i>Critick, or Player; a</i> Dennis, <i>or a</i> Cibber,
+          <i>But come Sir, come, troop off, old Blundermonger,</i>
         </span>
         <span class='noindent hanging-3em'>
-          <i>Vie only which shall make it go down glibber;</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>A thousand murd’rous ways they cast about</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>To stifle it——but Murder-like——’twill out.</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>Our Author fairly, without so much Fuss</i>
-        </span>
-        <span class='noindent hanging-3em'><i>Shews it—in</i> puris Naturalibus;</span>
-        <span class='pageno' id='Page_55'>55</span>
-        <span class='brace-container'>
-          <span>
-            <span class='noindent hanging-3em'>
-              <i>Pursues the Point beyond its highest Height,</i>
-            </span>
-            <span class='noindent hanging-3em'>
-              <i>Then bids his Men of Fire, and Ladies bright,</i>
-            </span>
-            <span class='noindent hanging-3em'>
-              <i>Mark, how it looks!——When it is out of Sight.</i>
-            </span>
-          </span>
-          <span class='brace'>
-            <img src='images/right-brace.png' alt=''>
-          </span>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>So true a</i> Stage, <i>so fair a Play for Laughter,</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>There never was before, nor ever will come after:</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>Never, no never; not while vital Breath,</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>Defends ye from that</i> long-liv’d Mortal <i>Death.</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>Death!——something hangs on my prophetick Tongue,</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>I’ll give it utterance——be it right or wrong</i>:
-        </span>
-        <span class='noindent hanging-3em'>
-          Handel <i>himself shall yield to</i> Hurlothrumbo,
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>And</i> Bononcini <i>too shall cry</i>——Succumbo.
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>That’s if the Ladies condescend to smile:</i>
-        </span>
-        <span class='noindent hanging-3em'>
-          <i>Their Looks make Sense, or Nonsense, in our Isle.</i>
+          <i>And interrupt the</i> Epilogue <i>no longer.</i>
         </span>
       </p>
     </div>
+    <p class='rj'>
+      [<i>Author</i> drives the <i>Critick</i> off the Stage.
+    </p>
+    <table class='ebook__table--nopad'>
+      <tbody>
+        <tr>
+          <td>
+            <p class='noindent m0 hanging-3em'>
+              Hurlo <i>proceed</i>——
+            </p>
+            <p class='ml-6em m0 hanging-1em'>
+              Hurlo. <i>Troth! he says true enough,</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>The Stage has given rise to wretched Stuff:</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Critick, or Player; a</i> Dennis, <i>or a</i> Cibber,
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Vie only which shall make it go down glibber;</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>A thousand murd’rous ways they cast about</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>To stifle it——but Murder-like——’twill out.</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Our Author fairly, without so much Fuss</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Shews it—in</i> <span lang='la'>puris Naturalibus</span>;
+            </p>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>
+            <p class='noindent m0 hanging-3em'>
+              <span class='pageno' id='Page_55'>55</span>
+              <i>Pursues the Point beyond its highest Height,</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Then bids his Men of Fire, and Ladies bright,</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Mark, how it looks!——When it is out of Sight.</i>
+            </p>
+          </td>
+          <td class='ebook__brace'><img src='images/right-brace.png' alt=''></td>
+        </tr>
+        <tr>
+          <td>
+            <p class='noindent m0 hanging-3em'>
+              <i>So true a</i> Stage, <i>so fair a Play for Laughter,</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>There never was before, nor ever will come after:</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Never, no never; not while vital Breath,</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Defends ye from that</i> long-liv’d Mortal <i>Death.</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Death!——something hangs on my prophetick Tongue,</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>I’ll give it utterance——be it right or wrong</i>:
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              Handel <i>himself shall yield to</i> Hurlothrumbo,
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>And</i> Bononcini <i>too shall cry</i>——Succumbo.
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>That’s if the Ladies condescend to smile:</i>
+            </p>
+            <p class='noindent m0 hanging-3em'>
+              <i>Their Looks make Sense, or Nonsense, in our Isle.</i>
+            </p>
+          </td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
     <img class='fig-xxs fig-ce' src='images/i059.png' alt=''>
   </div>
+
   <hr class='ebook__hr ebook__hr--chapter'>
-  <div class='tnbox'>
 
-    <div class='ce'>
-      <b>Transcriber’s Notes</b>
+  <div class='ch'>
+    <div class='tnbox'>
+
+      <div class='ce'>
+        <b>Transcriber’s Notes</b>
+      </div>
+
+      <ul>
+        <li>
+          Missing or obscured punctuation was silently corrected.
+        </li>
+        <li>
+          Typographical errors were silently corrected.
+        </li>
+        <li>
+          Inconsistent spelling and hyphenation were made consistent only when a predominant
+          form was found in this book.
+        </li>
+      </ul>
     </div>
-
-    <ul  class='ul_1'>
-      <li>
-        Missing or obscured punctuation was silently corrected.
-      </li>
-      <li>
-        Typographical errors were silently corrected.
-      </li>
-      <li>
-        Inconsistent spelling and hyphenation were made consistent only when a predominant 
-        form was found in this book.
-      </li>
-    </ul>
-  
 
   </div>
 </body>
