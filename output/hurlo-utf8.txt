@@ -1,0 +1,2438 @@
+
+                          Transcriber’s Notes
+
+ • Missing or obscured punctuation was silently corrected.
+ • Typographical errors were silently corrected.
+ • Inconsistent spelling and hyphenation were made consistent only when
+   a predominant form was found in this book.
+ • Text in italics is enclosed by underscores (_italics_).
+ • Superscripts are written using a caret (^) followed by the text
+   enclosed in braces (^{superscript}).
+
+------------------------------------------------------------------------
+
+
+
+
+                            _HURLOTHRUMBO_:
+
+                                OR: THE
+
+                             SUPER-NATURAL.
+
+                         As it is Acted at the
+
+                              NEW-THEATRE,
+
+                                 IN THE
+
+                              HAY-MARKET.
+
+           --------------------------------------------------
+
+             Written by Mr. SAMUEL JOHNSON, of _Cheshire_.
+
+           --------------------------------------------------
+
+                _Ye Sons of Fire, read my_ HURLOTHRUMBO,
+             _Turn it betwixt your Finger and your Thumbo,
+            And being quite outdone, be quite struck dumbo._
+
+           --------------------------------------------------
+
+                               _LONDON_:
+
+                      Printed for the AUTHOR And,
+
+          _Dublin_: Re-Printed by JAMES HOEY, and GEORGE
+            FAULKNER, at the _Pamphlet-Shop_ in _Skinner-Row_
+            opposite to the _Tholsel_, MDCCXXIX.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+[Illustration]
+
+                                   TO
+
+                           The Honourable the
+
+                             Lady _DELVES_.
+
+
+  MADAM,
+
+When I think of your Goodness, it gives me Encouragement to put my Play
+under your grand Protection; and if you can find any thing in it worthy
+of your Praise, I am sure the _Super-Naturals_ will like it. I do not
+flatter when I say, your Taste is universal, Great as an Empress, Sweet
+and Refin’d as Lady _Malpas_, Sublime as Lady _Sarah Cowper_, Learned
+and Compleat as Lady _Conway_, Distinguishing and Clear as Mrs. _Madin_,
+Gay, Good and Innocent as Lady _Bland_. I have often thought that you
+are a Compound of the World’s Favourites, that all meet and rejoice
+together in one; the Taste of _Montagu_, _Wharton_, or _Meredith_,
+_Stanhope_, _Sneid_, or _Byrom_; the Integrity and Hospitality of _Legh_
+of _Lime_, the Wit and Fire of _Bunbury_, the Sense of an _Egerton_,
+fervent to serve as _Beresford_ or _Mildmay_, belov’d like _Gower_. If
+you was his Rival, you’d weaken the Strength of that most powerful
+Subject. I hope your eternal Unisons in Heaven will always sing to keep
+up the Harmony in your Soul, that is Musical as Mrs. _Leigh_, and never
+ceases to delight; raises us in Raptures like _Amante Sposa_, Lord
+_Essex_, or the Sun. If every Pore in every Body in _Cheshire_ was a
+Mouth they would all cry out aloud, _God save the Lady_ DELVES! that
+illuminates the Minds, of Mortals, inspires with Musick and Poetry
+especially,
+
+                                          _Your most Humble Servant_,
+
+                                                           Lord _FLAME_.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+[Illustration]
+
+                                   TO
+
+                        The Right Hon^{ble} the
+
+                            Lord _WALPOLE_.
+
+
+  _My Good Lord_,
+
+I Return Thanks to Heaven, which is in you, I mean your Taste, that
+would not continue, except it was cherish’d with Vertue, that Parent of
+Eternal Love; ’tis all Palate hungers after, intellectual Food,
+Generosity, Harmony; the lofty Lines of a sublime Pen: and these
+beautiful Perfections in you, have been the Chief Support of my Play. At
+this Time there are as many fine Poets in _England_ as ever there were;
+but they will not write, because they say there is nothing encourag’d
+but Noise and Nonsense. But I believe those Bards are mistaken; for so
+long as the Lord Duke of _Montagu_, Yourself, and Mr. _Charles Stanhope_
+live, fine Poetry will not want Encouragement: tho’ I have nothing to
+boast of in my Play, but the Character of _Soarethereal_, yet you great
+Men, that shine among the Angels, did condescend to support me; and no
+one is more thankful than
+
+                                            _Your_ LORDSHIP’S
+
+                                                  _very humble Servant_,
+
+                                                  SAM. JOHNSON.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               PROLOGUE.
+
+           --------------------------------------------------
+
+                         By AMOS MEREDITH, Esq;
+
+           --------------------------------------------------
+
+                Near is my Shirt, but nearer is my Skin.
+
+           --------------------------------------------------
+
+
+        _Rules were by Coxcombs made to cramp the Mind       }
+        By Nature free, unfetter’d, unconfin’d,              }
+        She mounts a Flame, and flies, astride the Wind.     }
+        Through boundless space wings her Celestial Way,     }
+        And Eagle-ey’d confronts the Source of Day;          }
+        Criticks begone, avant ye Sons of Clay!              }
+        To every Star its Name and Course assign,            }
+        In narrow Bounds the swelling Tides confine,         }
+        And teach the Ruler of the Day to shine.             }
+        Sluggish the servile Mule sustains the Weight;       }
+        Wolves bait the Moon because she shines so bright;   }
+        And Owls are blinded with Excess of Light.           }
+        Unchain’d by Art with true Poetick Rage,             }
+        In Buskins highly rais’d, we tread the Stage;        }
+        With Fire from Heaven, to thaw the frozen Age.       }
+        The God of Number and melodious Strains,             }
+        Triumphant drives through Empyrean Plains,           }
+        Impetuous bound the Steeds nor hear the Reins        }
+        If Soar-æthereal’s Characters too high,              }
+        For mean Conception shocks the vulgar Eye,           }
+        Let filthy Mire accuse the Azure Sky.                }
+        Diamonds to Swine are despicable Things,             }
+        Lost to the Mole the Vernal Verdure Springs,         }
+        And Adders hiss tho’_ Senesino _sings.               }
+        The Priestess speaks of him that gilds the Skies;    }
+        Behold he comes, behold the God she cries:           }
+        And swells, and foams, and rolls her frantick Eyes.  }
+        Hark to the Noise a hundred Doors around,            }
+        Spontaneous jarr, the vaulted Roofs rebound,         }
+        And Words burst forth with more than mortal Sound._  }
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                         Persons of the Drama.
+
+
+                           MEN.
+
+                           Soarethereal.
+                           Hurlothrumbo.
+                           Dologodelmo.
+                           Darony.
+                           Urlandenny.
+                           Theorbeo.
+                           Lomperhomock.
+                           Darno.
+                           Primo.
+                           Puny.
+                           Temo.
+                           Col. Countermine.
+                           Genius.
+                           Spirit.
+                           Death.
+                           _Lord_ Flame.
+
+
+                           WOMEN.
+
+                           Cademore.
+                           Sermentory.
+                           Seringo.
+                           Lusingo.
+                           Cuzzonida.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+[Illustration]
+
+
+                            _HURLOTHRUMBO_:
+
+                                OR, THE
+
+                             SUPER-NATURAL.
+
+
+
+
+                            ACT I. SCENE I.
+
+           _Enter_ Dologodelmo _and_ Hurlothrumbo _meeting_.
+
+_Dolo._ _Hurlothrumbo_, how goes the Muse?
+
+_Hurlo._ _Dologodelmo_, have you heard the News?
+
+_Dolo._ What News?
+
+_Hurlo._ _Darno_, _Urlandenny_, and _Darony_, have coin’d their Estates
+into Money.
+
+_Dolo._ But for what reason?
+
+_Hurlo._ Certainly Treason.
+
+_Dolo._ Pray describe yourself in Prose.
+
+_Hurlo._ It will be describ’d in Blows.
+         There’s more in the Wind
+         Than the wise Philosophers can find.
+
+_Dolo._ No Storms, no Rebellions, I hope.
+
+_Hurlo._ Nothing less, ’tis Pride, curs’d Pride, but let them climb to
+fall.
+
+_Dolo._ Pride, Pride is the Serpent’s Egg laid in the Hearts of all; but
+hatch’d by none but Fools! Pray what says the King to these Adventures?
+
+_Hurlo._ Say! he says and he says not, cares and he cares not, he’s King
+and he’s no King; his high-born Soul is above the Sublunary World, he
+reigns, he rides in the Clouds, and keeps his Court in the Horizon; He’s
+Emperor of the superlative Heights, and lives in Pleasure among the
+Gods; he plays at Bowls with the Stars, and makes a Foot-ball of the
+Globe; he makes that to fly far, far out of the reach of Thought.
+
+_Dolo._ But if he despises this World, and resides in the Climes above,
+how must we fill our empty Troops below?
+
+_Hurlo._ Oh take no thought for that, for when the least Spark of the
+stifled Fire appears, then _Jupiter_, _Mars_, the King, will rise with
+all the Gods to keep the Rebels under: They’ll make Drums of the
+Elements and Skies, and beat up for Volunteers in Thunder.
+
+                    _Enter_ Sementory _and_ Seringo.
+
+_Ser._ Can you guess at the Cause of the King’s excessive Melancholy?
+
+_Sem._ ’Tis Love, all Love; in his Travels he came to the Court of
+_Spain_, where he fell in Love with _Cademore_, the King’s most
+beautiful Daughter; and _Theorbeo_, her elder Brother, is link’d in
+Friendship with _Soarethereal_. The King of _Spain_ has promis’d his
+Daughter _Cademore_ in Marriage to the King of _France_; but
+_Theorbeo_’s Passion for our Soveraign, was the Cause of his helping his
+Sister in the Escape from the Arbitrary Power of a Father, and is daily
+expected to arrive in this City: So ’tis Fear, Hope, Love is the Cause
+of his Distress.
+
+_Ser._ See, see, what frantick Man is this?
+
+_Sem._ It is my Lord _Flame_, distracted in Love with you: Fall back,
+let us hear his Soliloquy.
+
+      _Enter_ Flame, _with a drawn Sword in his Hand, throws it on
+                              the Ground_.
+
+_Fla._ Thou Key of my Soul, unlock me not, I will not die and leave her
+behind amongst corporeal Rivals; that she was dead, alive, amongst the
+purest Spirits: Oh that this too, oh too, too dear, tender fond Heart
+could yearn, and sigh no more! Constancy destroys me, Love makes me
+Heavenly, and Tears refine the Soul: as a Pilgrim I will travel till a
+Hermitage I find; I’ll mourn, I’ll wander to _Ovid_’s solitary Tomb;
+I’ll pity that poor unfortunate Man; I’ll think of her I love the most,
+and pour out my Tears upon him; there will I prostrate myself, and may I
+slumber till the heavenly Harmony wakes the sleepy dead.
+
+                                       [_Enter_ Sementory _and_ Seringo.
+
+                   Oh! the deluding Creature,
+                   Stings me from every Feature;
+                   When you strive to gain me,
+                   You only mean to pain me;
+                   Cruel Deceiver, Heaven leave her,
+                   Let her not come above,
+                   To taste the Sweets of constant Love.
+
+                                                                [_Exit._
+
+_Sem._ Oh _Seringo_, entice not a Man to Love, except you design to
+marry: If a radiant Beam dart from the Fire of the Eye, ’twill touch his
+Inclination like Nitrous Powder, and flash through all his Veins,
+discompose his Faculties, and infect his Soul: I am sorry for this poor
+Man, ’tis dangerous to continue here, let us leave the place.
+
+                                                                [_Exit._
+
+    [_Scene changes, and discovers the King Sleeping upon a Couch._
+
+                      _Enter to him_ Dologodelmo.
+
+_King._ Oh _Godelmo_, why hast thou call’d me home to myself?
+
+_Dolo._ I came according to your Majesty’s Commands.
+
+_King._ As in Dreams the Souls of Hermits in secret Extasies are catch’d
+away by Angels, so was my Spirit in transport charm’d by the Image I
+most admire; she retreated, and at a distance gaz’d and lov’d, then
+eagerly flying to my Arms, she stifled me with Kisses; but like to Sin
+you call’d me away from Heaven. Oh! my _Cademore_, that I might die
+always thus to live with thee; for when the Fetters of Slumber have
+link’d these Limbs and the Ground together, when the Chains of Sleep
+have bound this Body to the Earth; when these Eyes, these Ears are
+insensible, I have other Eyes that see, other Ears that hear, and myself
+rejoices when myself is dead.
+
+                           [_The King sits down and pauses, then rises._
+
+_Dolo._ The Solitarys wait without, and humbly desire admittance.
+
+_King._ Do you know their Business?
+
+_Dolo._ They come with sublime Tidings from the cœlestial World, and
+will yield your Majesty pleasure through their own Simplicities.
+
+_King._ Let them appear. [_Exit_ Dolo.] These Men despise the Company of
+Mortals, and say they delight more in the Shadow of something, than to
+converse with a Nothing in Substance.
+
+                   _Enter_ Dolo. _and six Solitarys_.
+
+_Primo._ My Sovereign Lord, we think ourselves in Duty bound to inform
+you of all the Ills that threaten both your Person and your Crown, that
+seems to be surrounded by many Adversaries.
+
+_King._ How are you inform’d of this?
+
+_Primo._ In Parable Visionary, deliver’d down and explain’d in
+Hieroglyphicks.
+
+_King._ But after what manner?
+
+_Primo._ We all in one Night had the fame Vision; gazing stedfastly upon
+your Dominions, the Hills sunk down to Vales, and the Valleys rose up to
+Mountains, upon which a Giant stood, swelling huge with arroganting
+Poison; his horrid Visage reach’d the Skies, grasping a Sword in his
+Hand that flam’d from Earth to Heaven, glittering on high, and blaz’d in
+Elemental Fire, upon whose mighty Edge, Death rode triumphant: Then in
+Fury, as Lightning upon the Wing, slunk down, hissing through the Air,
+the Wind from which, blasted every Head of us, and this Head is you my
+Sovereign Lord.
+
+_King._ Did this appear to all?
+
+_Primo._ All, all, all.
+
+                                                           [_Ex. Solit._
+
+_King._ If Calamity be the Parent of Wisdom, why do the Afflicted depend
+on Dreams?
+
+_Dolo._ Your Majesty has no cause to fear.
+
+_King._ If _Hurlothrumbo_ is brave, there is no danger.
+
+_Dolo._ Was not his Courage truly try’d in _Rome_.
+
+_King._ But after what manner?
+
+_Dolo._ By the Emperor’s Imperial Command he was forc’d into the
+Amphitheatre, there to be devoured by the hungry Jaws of a Lion;
+disarm’d he enter’d, taking from his Heel his Ammunition Spur, he
+wrench’d it wide, and gripe’d it thus.
+
+                             _Enter_ Hurlo.
+
+_King._ _Hurlothrumbo_, give me a Description of the Combat.
+
+_Hurlo._ The Door of the Den was no sooner lifted up, but the Monster
+hugely rouz’d himself aloft, stalking gravely he enter’d, flinging from
+his Talons sedentary Pain, with Scarlet fiery Ogles ken’d all around;
+but when I saw the Beauty of _Greece_, my Heart was all Granade, I had
+an Army within, a Centry guarded every Pore, and this Compound of
+Elements thundred. The Lion came at me amain, with Jaws open, dreadful
+as the Mouth of Hell, he sprang aloft, I glanc’d, he mist me, then with
+rebound he turn’d, and by the Main I caught him as he flew, and over his
+Back I threw myself astride; then with my Knees I crush’d his Ribs and
+Heart together, and with my Right-hand Spur I cleft his Skull: I bruis’d
+the Pan of his Brain, till Flashes of Lightning flew swift from his
+Eyes; I stabb’d his Sight, he twisted, he grinn’d, he turn’d and loose
+he broke, bloodily blind as he was, in raging Storms, in circling
+Whirlwinds flew; his burning Heart, that swell’d with Anguish, Fury and
+Revenge; his Talons tore the Earth, rent the Flints, he gnaw’d the
+Ground, and Choler boiling over, churning Dust, Blood and Foam, he
+roar’d tremendous.
+
+_King._ ’Tis a furious Description; but how did you conquer him?
+
+_Hurlo._ My Coat I roll’d up thus, and hurl’d it to his Breast; then
+eagerly grasping the Prey, I march’d towards him, I spurn’d at his
+Heart; he reel’d, I retreated; he recover’d, I advanc’d; again I struck,
+then trembling, he disgorg’d a Flood of Gore, and stifling with the
+Stream, bolt upright he rose; I pursued my Strokes, he fainted, he sunk,
+he shiver’d, he died.
+
+_King._ _Hurlothrumbo_, ’tis bravely done; search out into all the
+World, pick the Universe, bring to me every thing that’s noble in the
+Mind, empty of Ambition and full of Greatness, that I may feast their
+Bodies and satisfy my own Soul; for when my Crown adorns the Head of a
+worthy Man, then I enjoy it, and wear it truly, in the inward Raptures
+of my Heart.
+
+_Hurlo._ ’Tis most certain the learned _Larmo_ is worthy of Honour.
+
+_King._ I know him well, he has a thousand Perfections, though in him I
+discern the Spark of Avarice, it seem’d to me like the infernal Eye of
+_Lucifer_, ’tis a Canker that encreases and infects the Mind, let no
+such Man be trusted; give me he that is like _Theorbeo_, that has
+ventur’d and lost his Crown for his Friend: Is he yet arrived?
+
+_Hurlo._ He is.
+
+_King._ Go tell him, I’ll come and rejoice in his Presence.
+
+                                                 [_Ex._ King _and_ Dolo.
+
+                    _Enter_ Urlandenny _and_ Darno.
+
+_Urlan._ _Darno_, a good Day to you, how prospers our Design?
+
+_Darn._ Far exceeding our Expectation, I’ve sold my Estate for a hundred
+thousand Pounds; it is to be return’d for the same Money, if I require
+it, in seven Years.
+
+_Urlan._ Mine is equally secured; this is a Defence against Ill, but now
+we’ll speak for thy self; I am inspir’d with a Thought that will
+overthrow the Government, that makes as strong as _Atlas_; I’ll make——
+
+                             _Enter_ Flame.
+
+_Fla._ The Flight takes me in the Head to give you a Description of the
+War of Angels, the black ones and the white ones; now you are of the
+dark kind, but they were conquer’d.
+
+_Urlan._ How Prophetick the Man talks, as if he knew our Designs? The
+Tongues of Children, Fools and Madmen have often fortold my Fate.
+
+_Darn._ You are superstitious.
+
+_Fla._ And as I was saying, Army in Array against Army, stood solemn,
+profound, before the Cloudy Van, Expectation stood in Horrour, and
+_Satan_, with vast and haughty Strides advanc’d, came touring, arm’d in
+Adamant and Gold.
+
+                            _Enter_ Darony.
+
+_Dar._ Who do you mimick, my Lord?
+
+_Fla._ The Devil, Sir.
+
+_Dar._ I resent it.
+
+_Fla._ Draw.
+
+_Urlan._ Hold, he is repeating a Passage in _Milton_; his Wit is
+borrow’d, he’s a Moon-light.
+
+_Dar._ I’ll excuse him as a Lunatick.
+
+_Urlan._ I recommend to thee a Miss, as a Specifick to assuage this
+mighty Fever in the Brain.
+
+_Fla._ I am unstain’d, not touch’d with any black Crime, above the
+World, upon a lofty Mountain, and next Neighbour to the Sun.
+
+_Urlan._ Now condescend the Woman lies two Yards below you, go down,
+tick, toy and play with her, ’twill cool your Blood, and sweeten your
+sour Juices.
+
+_Fla._ Then how shall I ascend again to my grand Original Height? ’tis
+up Hill; Woman pulls, Nature hangs heavy upon the feeble Soul, and
+Resolutions weak; no, Conscience is an intellectual Caul that covers the
+Heart, upon which all the Faculties sport in Terror, like Boys that
+dance upon the Ice, if one cracks, another breaks, then all together
+plunge in over Head and Ears most horrid.
+
+                                                           [_Ex._ Flame.
+
+_Urlan._ Pray what new Adventures at Court?
+
+_Dar._ A poor King is arrived at Court, and _Dologodelmo_ Oratorys high
+Encomiums upon the mighty _Soarethereal_, declares he’s like the
+glorious Sun, extends his Beams to all and every part of the World; and
+as he rides along the _Meridian_ Course, every feeble Plant beneath him
+is cherished, and rises up revived.
+
+_Urlan._ The Simile is not good: The Sun gives Life to the Plants that
+reside far off, but those that grow under him are burn’d, and scorch’d
+to Ashes. ’Tis plain, Foreigners are most encourag’d, and we that pay
+the Taxes receive not the Benefit of Office; _Soarethereal_ declares all
+the World are his Country-men, and he that has the greatest Soul, to him
+is the nearest a-kin: but to the Purpose, what’s to be done? The Mob of
+this City must be highly prejudic’d in our behalf.
+
+_Dar._ They are all secure to a Man; I have distributed amongst them a
+hundred thousand Pounds; let’s away to the Lord _Urme_, he will
+strengthen our Design.
+
+                                 [_Ex._ Darony, Urlandenny, _and_ Darno.
+
+
+                     SCENE, _Cademore_’s Apartment.
+
+                    _Enter_ Cademore _and_ Lusingo.
+
+_Lusin._ My good Lady prepare, the King comes.
+
+_Cade._ O _Lusingo_! I could longer taste the Sweets of Expectation
+dear, I’d view the beautiful œconomy of this Court, his Person at a
+distance, and Motion of his Soul, that moves and reigns in my Breast; we
+may enjoy the greatest Bliss too too soon. Was I to leave this World,
+and take my Flight to the celestial Heights, I’d first visit yon distant
+Moon; then tow’ring high I’d visit the brightest Situation of the Sun;
+then climb amazed up to the Stars; I’d taste the Sweets of every Orb,
+before I enter’d Heaven.
+
+                                                                  [_Ex._
+
+              _Enter_ King, Theorbeo, _and_ Hurlothrumbo.
+
+_King._ _Theorbeo_, thy constant Heart mourns for thy Mistress, not for
+the Loss of thy Crown; the Powers are jealous of Love like thine, and
+Heaven is only worthy of it, and only capable to make a return.
+
+_Theo._ Your Majesty talks like a separate Soul, not like one that is
+cloathed with Nature.
+
+_King._ I beg pardon, I touch your Sore; I long to attend thee to the
+Throne with a hundred thousand Men.
+
+_Theo._ I return your Majesty thanks; yet hope, that no one will venture
+his Life for me: the Life of a Friend is more than a Kingdom.
+
+_King._ Venture my Life! what is my Life? let me not pass through this
+World, the common Road to Eternity; fade away through the blasting Word
+from on high, that mingles with the Air, and makes all Men mortal; I had
+much rather surrender this Life up an offering, and die in the Service
+of some dear Friend; in Vehemency of Spirit, and Fervency of Friendship,
+I could plunge through a Flood of Fire to deliver a Friend from the Jaws
+of a Lion.
+
+_Theo._ I do believe ’tis in your Majesty’s Power to establish me upon
+my Throne; but all Nature in my Breast is chang’d; that which is Gall to
+another, is Honey to me: Life is bitter, and makes Death sweet. What is
+a Post of Honour to a Man who thinks he has enough, and has no Ambition?
+He that will be rich, must destroy Ambition; Ambition is a Monster not
+to be fed, never satisfied till he is starved out.
+
+_King._ ’Tis true, _Hurlo_; from whence proceeds Ambition?
+
+_Hurlo._ A Man’s Heart and his Bladder changes Places.
+
+_King._ And what is Honour?
+
+_Hurlo._ Honour is, and it is not; yet Honour is to be found.
+
+_Theo._ My Intellect has rang’d in pursuit of Honour throughout the
+Universe, nay, even to the Skies, but found it not.
+
+_Hurlo._ O it’s on t’other side, my Lord.
+
+_King._ O _Theorbeo_, I admire how a Man can so much despise Power?
+
+_Theo._ True Power lies in the Mind, or Strength that can sway the
+Faculties.
+
+_King._ I beg pardon for interrupting; I must beg leave to see the Lady
+your Sister.
+
+                                         [_Ex._ King, Theo. _and_ Hurlo.
+
+   [_Scene changes, and discovers_ Cademore, Seringo, _and_ Lusingo.
+
+                 _Enter_ King, _and salutes_ Cademore.
+
+_Cade._ Oh he’s here! O my Soul starts, and my Heartstrings shiver!
+
+_King._ O my _Cademore_, now I live: as that great Sun revives this
+lower World, and makes all Nature rejoice in his Presence; so you
+cherish and revive my Heart, all my Faculties rise up in Raptures: A
+thousand sublime Thoughts spring up in my Soul: Is there any thing in my
+Kingdom can yield you Pleasure.
+
+_Cad._ Every thing here is pleasing to me. _Seringo_, Let the King hear
+the musical Description of _Arsinoe_’s Dancing.
+
+Ser. _Brisk and Airy, tript with a_ Fairy _Air of Scorn,
+     Sink in the rising, all surprizing Charms adorn.
+     Swift and Gay in every Part,
+     And flies away with every Heart:
+     Return’d them back with cold Despair,
+     Which much reviv’d the jealous Fair._
+
+
+                      _The End of the First Act._
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+[Illustration]
+
+                                ACT II.
+
+
+                    _Enter_ Urlandenny _and_ Darony.
+
+_Daro._ What News, my Lord?
+
+_Urlan._ All things are in readiness according to your desire; _Darno_
+is raising an Army in the _North_, _Lomporhomock_ is now landing in the
+_South_ with 20000 Men, and when the Tidings reach the King’s Ears,
+he’ll extend his Army to the _North_ and to the _South_; then, when his
+Forces have left the City, the 500 Men which I have hired, for what
+Purpose they know not, but exactly at two a-Clock in the Morning, each
+Man is to fire a Gun upon the House-top; this repeated three times, will
+drive every wandering Soul home to his Body, and raise him from Sleep
+surprized.
+
+_Daro._ That’s true.
+
+_Urlan._ You and I with a small Body of Men, will march through the City
+with a Shout, saying, The City is surrounded with Foreigners, Fire and
+Sword, Fire and Sword! rise, rise quickly, rise to Arms.
+
+_Daro._ That’s good; then in a moment’s time we shall be at the Head of
+100,000 Men.
+
+_Urlan._ We’ll plunder Misers Houses, distribute their Bags, hurling the
+Coin among them, like Hounds besmear’d with the blood of Prey, mount
+Resolution upon the Heart, ride furiously, Whip and Spur, and with deep
+mouth’d Tones, full Cry, and in that Vehemence of Spirit, they will
+devour a savage Lion. We’ll prejudice them against the King, lead them
+to the Court, and take possession of all.
+
+_Daro._ So farewel, my Lord; remember two a-clock.
+
+                                                    [_Exeunt severally._
+
+                    _Enter_ Sementory _and_ Seringo.
+
+_Serin._ _Sementory_, to thy Tire.
+
+_Sem._ I’m weary of Dress, pall’d with Pleasure, sick of the event of
+vain Hopes: Some say that Marriage is made in Heaven; but ’tis my
+Opinion, if all the Harlots were sent to the Grand _Turk_, there would
+be more Weddings celebrated in Heaven than there are; I perceive the
+Fire of the Men is all out.
+
+_Serin._ Very true, _Sementory_.
+
+_Sem._ They gaze upon a Woman, as they do upon a Bill of Fare after
+Dinner.
+
+_Sem._ Oh _Seringo_! where shall I find a vertuous Man, like such a one
+that I have seen, chaste, and full of Rapture? Rapture is the Egg of
+Love, hatched by a radiant Eye, that brings to Life a _Cupid_ in his
+Breast. In thy Company he’s tasteless of Food and Wine, he’s restless,
+he’s empty of Words, and full of Sighs, is in a shivering Ague chill’d;
+then in a moment rais’d by the high Fever of Love, is in extatick
+Raptures, his Opticks are like two Balls of Fire, and look as fierce as
+if he took Gunpowder-Snuff; could you love such a one?
+
+_Serin._ How gay, how free, how merry is he!
+         How full of Charms to move!
+         His Soul is full of Love.
+
+                         _Enter_ Hurlothrumbo.
+
+_Sem._ What, not a Word? sure ’tis pain to speak?
+
+_Hurlo._ My Tongue is Thought’s Midwife, and has been a gossiping all
+Night with a very fine Lady, and is not able now to perform her Office.
+
+_Sem._ The rich _Molotto_ Lady, I presume?
+
+_Hurlo._ She is rich, do you not like her for that?
+
+_Sem._ But give me the Man that’s like the Bee,
+       That flies round and round the Field to see,
+       To taste of every Herb, to chuse the Sweet, to miss the Sour,
+       He hovers and sings, and sucks the true Vertue from the Flower:
+       But the mean Soul like yours that courts for Money,
+       Is like the Wasp, will settle upon a Nettle for a little Honey.
+
+                                         [_Ex._ Sementory _and_ Seringo.
+
+                           _Enter_ Theorbeo.
+
+_Hurlo._ The King will instantly wait upon your Majesty; but is now
+engaged in the Affairs of the Government.
+
+_Theo._ After what manner are you govern’d?
+
+_Hurlo._ Spiritually and Temporally, King, Lords, Commons, Parsons,
+Clergymen and Divines,
+
+_Theo._ What is a Parson?
+
+_Hurlo._ A Parson is——I beg pardon, the King comes.
+
+                                                    [_Ex._ Hurlothrumbo.
+
+_Theo._ _Adam_ before _Eve_ was made, longed for something he knew not
+what; I long for something more than _Eve_, I know not where.
+
+                             _Enter_ King.
+
+_King._ _Theorbo_, why meditate yon thus? that Soul of thine that came
+from Heaven, longs to leave me, to soar aloft and travel home; grieve
+not thus for a Woman, I myself am tender, yet bold; I often weep in a
+fine Lady’s Presence, but in a moment can conquer that Passion, and
+venture my Life with a Lion; can lay my Hand under the Foot of an humble
+Beggar, or take a lofty Emperor by the Nose.
+
+                         _Enter_ Hurlothrumbo.
+
+_King._ _Hurlothrumbo_, what Tidings from the World?
+
+_Hurlo._ Not any that will please your Majesty; here are some poor Men
+petitioning you for Charity.
+
+_King._ That will doubly please me; I relieve them as Men, and satisfy
+the Thirst of Compassion, at the same time, my Soul’s invested with
+sacred Pride, think I am highly honour’d, and entertain the Gods.
+
+_Hurlo._ Here is also a poor Prince sends to borrow Money.
+
+_King._ That will also please me; I receive the Borrower with more Joy
+than him that comes to pay a Debt.
+
+                             _Enter_ Flame.
+
+_Flame._ Beggars be gone, these Men sell Land upon the blue Plains; see
+what a Figure they cut, who’ll buy any? Oh you, I know you well,
+(_pointing to the King_) you are the most covetous Man in the Universe,
+you give what you have away to the Poor, that you may enjoy it all
+yourself; and when your time is to die, you’ll not leave a Farthing
+behind you to fling away. I return you thanks for the Post of Honour you
+offered me; but does your Majesty think a Soul like mine was born for
+Servitude? No; I’ll sooner be an _Alexander_ in my own Park-Pale: He
+that lives in Pleasure runs up a Score, and he that is afflicted, is
+paying Debts; this is Spirit; what has Flesh to do with that? A Coquet
+in the Soul, a Harlot for the Devil. I am a Man amazed in Love, Nature
+is hot and too much fudled with Fire; in the out-raging Jealousies of my
+Soul, I rent my Brain, and when my Rival was with her. I ran distracted
+to her Cheeks, I kiss’d, I curs’d, I bless’d, I wept, an Earthquake in
+my Breast, Thunder and Lightning in my Head, that storm’d down Tempest,
+and burst my Heart. Oh what is Woman! I am sadly in Love, I am not well;
+do kill me, O pity a Lover.
+
+                                                           [_Ex._ Flame.
+
+_King._ _Hurlothrumbo_, what is thy Opinion of this Man? my prophetick
+Soul loves him.
+
+_Hurlo._ I advise him to starve himself, from a Horse to a Man; for if
+he dies at this time, he’ll be metamorphos’d into a wild _Elysian_ Colt.
+
+      He’ll cock his Tail, he’ll praunce and stare,
+      Will gallop, snort, and snuff the Air;
+      And all his Thoughts will be of——
+
+_King._ Pray tell me how does Love affect thee?
+
+_Hurlo._ When I see a Lady with a full Chest, flat Back, falling
+Shoulders, a long Neck, and a languishing Air, every Pulse beats up a
+March vehemently towards her; I touch, I muse, I am in a Trance, a
+pleasing Stupidity, Astunment, my Faculties are on fire, a Smoak rises
+in the Eyes of the Mind, Reason is deaf, the Intellect blind, my Nerves
+creep, I shiver; charm’d in Terror, the Body trembles in the Bargain of
+buying Raptures with the Soul.
+
+_King._ ’Tis not Love, it’s Temptation.
+
+_Hurlo._ ’Tis a Description of a Combat, in which all Men are conquer’d.
+
+_King._ Not so, _Hurlo_, I will speak for myself: Ambition high rose up
+in the Mind, to fight with Vertue, in the beauteous Fair; and she a
+superlative _Venus_ of the World; I was Fire, and Faculties keen; she
+was Love with languishing Retreat, but when she surrendred all to my
+Will; I struck not the Vanquish’d, but conquer’d myself.
+
+_Hurlo._ ’Twas a noble Retreat, your Majesty bravely run away.
+
+                            _Enter_ Servant.
+
+_Serv._ The Lord _Dologodelmo_ waits without to speak to your Majesty.
+
+                                  [_Ex._ Theorbeo, Hurlo, _and_ Servant.
+
+_King._ I am at leisure——From whence this Distress in my Breast of late,
+restless Nights, horrid Visions, affluster’d Spirits fly around my
+Heart; my prophetick Soul, like _Argus_, discerns Destruction
+approaching.
+
+                            _Enter_ Dologo.
+
+_Dolo._ If it be a Crime to bear ill Tidings, your Majesty’s Goodness
+will oblige you to pardon.
+
+_King._ Speak, speak _Godelmo_, thou art my Friend.
+
+_Dolo._ Lord _Darno_ has sold his Effects at home, and is now raising an
+Army in the Northern Parts of your Majesty’s Dominions; _Darony_ and
+_Urlandenny_ are set out for the South, with the same Design.
+
+_King._ Go, _Dolo._ and bring _Theorbeo_ hither to me. [_Ex._ Dolo.] Oh,
+who shall deliver me from the Contagions of Mortals! that I had been
+born in humbler State: Ye rural Shepherds, ye Companions of Angels, I
+envy you: that I could be like to you, my Ambition only to reach the Top
+of a Mountain, to lean upon my Staff, there to admire the beautiful
+Œconomy of the Universe, listen to the Linnets, Larks, and Nightingales,
+that warble forth their Praise on high; to the Sun they offer up their
+Joy: these would teach me to be grateful. Of my Lambs, that innocently
+sport all around me; of them I will learn Humility, and despite your
+Arrogance: my Dog, that scouts upon the Plain, I’ll compare him with
+you, and blush for you: he loves more, and is constant, a fervent
+Friend, will fight till Death for his Master, rises not up against him
+when he smites him; he’s grateful, he flatters not, and to your shame,
+has more Compassion; for with his Tongue he’ll heal the Wound of the
+Oppressed. Ye Rationals, learn of Brutes; and teach me to abhor Mankind.
+
+                                                                [_Exit._
+
+                  _Enter_ Theorbeo _and_ Dologodelmo.
+
+_King._ _Theorbeo_, you say your desire is to exert yourself in the War,
+I had much rather you’d stay; what say you?
+
+_Theo._ ’Tis my desire, that my Spirits may rouze and shake off these
+heavy Elements; the shining of my Soul is over-whelm’d with Clouds, I
+long to discharge this heavy Hail-storm upon the Heads of all your
+Adversaries.
+
+_King._ _Godelmo_, is there any danger?
+
+_Dolo._ There is not; when the Enemy hear the King’s Trumpet sound, it
+will be as when the Lion roareth in the Forest, every Monster’s Heart
+will tremble, and in a moment fly to their Dens for shelter.
+
+_King._ See that Draughts are made out of my Troops, 20,000 of the most
+proper Men. This moment I’ll review my Army.
+
+                                                [_Ex._ King _and_ Theor.
+
+                 _Enter_ Hurlothrumbo, _out of Breath_.
+
+_Dolo._ What’s the matter now, my Lord, you seem to be out of Breath?
+
+_Hurlo._ Out of Breath! I may well be out of Breath, the Wind may well
+rise, the Conjurers are all at work, I have a Tempest in my Belly.
+
+_Dolo._ Pray let the Storms cease, and let me hear the Cause.
+
+                             _Enter_ King.
+
+_Hurlo._ Cause! Cause enough; one _Lomporhomock_, a _Dutch_ Officer, is
+just landed with 200,000 Men.
+
+_King._ Go this moment, and get my Troops in readiness, and I’ll give
+them the meeting myself.
+
+                                               [_Ex._ Hurlo. _and_ Dolo.
+
+I am rais’d above the common Height of Man, lifted up to the rattling
+Climes of Discord, where _Dologodelmo_ and _Hurlothrumbo_ rumble along
+the Sky, and says the Element begins to crack; but as the Lightning
+flies before the Thunder-clap, so shall _Darony_ fly before me, or Death
+shall swallow me up.
+
+      But yet, shall I in this tempestuous Season,
+      In furious headlong bid farewel to Reason?
+      No; in Storms all Fools are hurrican’d in Mind,
+      But Wisdom gently moves upon the swiftest Wind.
+
+To fight, and in the heat of Blood, in an Agony, drop into Eternity, and
+carry the Fire with me. O! let me not pause, let me not think, for if I
+think, Divinity will make me like a Lamb, and then persuade me to be a
+Coward; no, I’ll go and recommend
+
+      My _Cademore_’s Charms to happy Fate that sent her,
+      Then fly to War’s Alarms, and both my Lives will venture.
+
+                                                            [_Ex._ King.
+
+                    _Enter_ Sementory _and_ Seringo.
+
+_Serin._ I am all at War within.
+
+_Sem._ So much in Love with two Men! alas thy Combat will do you no
+harm; you admire _Darone_ for his Honour, and _Hurlothrumbo_’s Bravery.
+
+_Serin._ Oh advise me.
+
+_Sem._ Of all Happiness, that is the most sweet that is the nearest to
+us; Riches lie in the Purse, Love in the Heart: never marry for Honour,
+or Title; Fame is always at a distance; the Man I love is near. What is
+Fame? a Word; that Word is Wind, the humming of a Bee: but when I sleep
+by the Man I love, no Wind can come to me.
+
+                      _Enter_ Flame, _and sings_.
+
+_Sem._ So, my Lord, your Aid is required at the Wars.
+
+_Flam._ I’ll fly from the War, Love and War always jar; there is no Calm
+in Love and War; let my _Seringo_ live with me, then farewel Honour,
+farewel Care.
+
+                                                                [_Exit._
+
+
+                      _The End of the Second_ ACT
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                ACT III.
+
+
+                _Enter_ Hurlothrumbo _and_ Dologodelmo.
+
+_Dolo._ _Hurlothrumbo_, are you ready to mount?
+
+_Hurlo._ ’Tis confounded dark, must we not stay for the King?
+
+_Dolo._ No; the Princess _Cademore_ will not hear of his going to the
+Wars; at the Sound of the Word, she faints, sinks and dies away.
+
+                                                           [_Exit_ Dolo.
+
+        _Enter_ Servant _with a Letter, delivers it, and Exit_.
+
+                                                     [Hurlo. _reads it_.
+
+_Hurlo._ Oh ’tis from _Darony_! _Make me the next Man to the Crown, if I
+desert the King_; how can I do that? Why did he not ask me to murder my
+dearest Friend, curse the Deity, or debauch a Man’s Wife, and separate
+their Souls eternal? _It will preserve a great deal of Blood_, that’s
+true. _So long as_ Theorbeo _stays, thy Honour wears like a Garment_:
+may be so; I’ll consider of this.
+
+                                                          [_Exit_ Hurlo.
+
+                    _Enter_ Darony _and_ Urlandenny.
+
+                                             [_Guns fire at a distance._
+
+_Daro._ They’re punctual to the time.
+
+_Urlan._ True, my Lord.
+
+_Daro._ This is the Place we’ll fix our Standard; now the Guns are
+discharg’d, the Men from every end of the City with a Shout will come to
+this Place, and stir not you an Inch till _Lomporhomock_ enters the
+City. Who comes there?
+
+                             _Enter_ Temo.
+
+_Temo._ A Friend and Servant of thine.
+
+_Urlan._ What is thy Name, and thy Business here in the Dead of Night?
+
+_Temo._ My Name is _Temo_; as to my Business, ’tis secret.
+
+_Urlan._ You are the famous Inchanter; can you tell us what Adventures
+will happen, the cause of the Guns firing thus early?
+
+_Temo._ ’Tis the first Volly of a mighty War; this Morning exactly at
+two the Battle will be rehears’d first in the _Elysian_ Fields.
+
+_Urlan._ Is it not possible for me to see it?
+
+_Temo._ ’Tis possible.
+
+_Urlan._ Accept of this Purse of Guineas; let me see, the time is now
+expired.
+
+                       [Temo _stamps, a Spirit rises up, and gives him a
+                           Talisman_.
+
+_Temo._ You shall, my Lord; hold this firm to your right Eye: tell me
+what you see.
+
+_Urlan._ I see the _Elysian_ World, ’tis light as Noon of Day, and all
+us Mortals act in yonder Climes: I see myself, I see _Hurlothrumbo_;
+_Hurlo_ kisses a Lass; the Spirits smile; I stir my Hand, it moves
+yonder. _Mars_ stands in the Element, and beholds the People; they
+divide, and make two separate Armies; Death stalks among the Croud,
+marking his own Appointed. Oh! he makes towards me! oh! he’ll touch me;
+take it I’ll see no more.
+
+                   [_A shout behind the Scenes, Fire and Sword! Fire and
+                       Sword! rise quickly._
+
+_Daro._ This is _Puny_’s House, the Miser, break it open.
+
+_Urlan._ Forbear, forbear he’ll rise and open the Door; fall back, he
+comes.
+
+_Daro._ I’ll go head the Mob, break open the King’s Treasury, and
+satisfy their Thirst with Gold; then will I take possession of his
+Person, and his Crown.
+
+                                                              [_Exeunt._
+
+                             _Enter_ Puny.
+
+_Puny._ Oh bless me! Fire and Sword! I shall not live three Minutes! if
+my trembling Limbs permit me, I’ll kneel, I’ll pray Heaven preserve my
+poor Soul; these Villains will come in a moment, and take every Penny of
+my Money; I desire I may be forgiven all my Sins. These Rogues are
+coming, they’ll rob me, take my Plate, and break my Windows: O sweet
+Heaven forgive me all my ill-dreamt visionary Lewdness! If they come, I
+shall never purchase _Kemp_’s Estate, but buy a Coat of Arms, and a
+Patent for my Son.
+
+                     _Enter_ Urlandenny _and_ Temo.
+
+_Urlan._ So old _Gaddecar_, you’re at Prayers, cry aloud, thy Deity is
+deaf, with your squinting Soul that kens both Earth and Heaven; fling
+your Bags into the Elements, then will you look straight upright: Be
+gone, what hast thou to do in this World? What dost thou mean?
+
+_Puny._ I mean to be the Root of a Family.
+
+_Urlan._ If the Root be Avarice, what will the Body, Branches, Leaves
+and Fruit be? Twenty Generations must pass away, before thy Seed can be
+refined so far, as to produce a Gentleman.
+
+_Puny._ Is not Gold a Gentleman, a Person of Quality? What makes a
+Gentleman?
+
+_Urlan._ Education, Honour, and Generosity; add to a fine Gentleman
+Love, Resolution, Taste; a Person of Quality has all these Perfections,
+and is discerning, with a sublime Thirst in the Soul; a longing to
+reward Merit; fervent to serve the meanest, and punctual to his Word;
+his Blood is double and treble refin’d; he’s full of Heaven; a Sunfire;
+a Light that quenches all the Flame of Nature; he lets himself down to
+converse with great Men and Angels, that are in Intellect but three
+Inches high.
+
+_Puny._ Cannot a new-born Gentleman have all these Perfections?
+
+_Urlan._ No, your Upstarts are huge, and tall, converse with a Prince of
+the Air, and their Nostrils are full of the Devil.
+
+                                                  [_Ex._ Pun. _and_ Tem.
+
+                      _Drums beat. Enter_ Darony.
+
+_Dar._ Now, my dear Friend, all is secured, the King is in Chains.
+
+_Urlan._ What Drums are these?
+
+_Dar._ _Lomperhomock_, the _Dutch_ General.
+
+                         _Enter_ Lomperhomock.
+
+My Lord _Lomperhomock_, you’re welcome to Court.
+
+_Lom._ I wish you much Happiness of your Crown, when it is secured.
+
+_Dar._ I hope there is no Danger.
+
+_Lom._ ’Tis my earnest Desire that you will instantly execute the King;
+for while he’s living, all his Friends will rouse up like Lions, but
+when they hear he’s dead, ’twill greatly oppress their Souls.
+
+_Dar._ He shall instantly be executed.
+
+_Lom._ Then I’ll march in Pleasure, and meet his Army.
+
+                                          [_Ex._ Urland. Dar. _and_ Lom.
+
+               _The Scene changes to the King in Prison._
+
+_King._ I would ask Relief of Heaven, though ’tis in vain, when all the
+eternal Infernals are turn’d out loose upon me, to pour out their
+flaming Cataracts of mighty, limited Revenge.
+
+                         _Enter_ Lomperhomock.
+
+_Lomp._ Pardon me, oh King, I am come to inform you, at Six a-Clock this
+Morning is your appointed Time to die.
+
+                                                            [_Ex. King._
+
+_King._ Let them strike me, let these Clouds pass away; let them break
+the Sky within me, that I may truly see, enter Orbs like the Sun; see
+Spirits, Angels, and the radiant Fields: but what is that to a Man in
+Love, a Man whose Heaven’s here? Oh my _Cademore_, who can bear the
+Pangs of parting! since we must part, ’tis death to live.
+
+                           _Enter_ Cademore.
+
+_King._ O Executioner art thou come, bring to me a Taste of Torment, a
+Rack of Nature, like Heaven’s Vengeance, to afflict my Soul? Still thou
+art my Friend, and something more than Woman, my Prospect-Glass to
+Paradise; thou Emblem of Eternity; oh how great’s my Thought of Heaven,
+whilst my Eyes are fix’d on thee! For if the way to live with you, lay
+through the Shades of Misery, to lodge in tremendous Caves of Darkness,
+one single Thought of thee would fill Obscurity full of Light, and make
+it like a Palace adorn’d with Diamonds: but now, oh now, what is my
+Hope, a Man is never destitute of Hope; but my dear Expectation, my
+Spring of Life, is now become the Sting of Death: for every Thought of
+thee shoots through my Heart; and at a Sight of thee, oh ye Goddess!
+that I could love thee less, and Heaven more.
+
+_Cad._ I am sorry I encrease your Grief, I come in hopes to mitigate
+your Pain; for every Sigh that proceeds from you, pursues me, and
+ecchoes in my Breast.
+
+_King._ That I believe, it must be so; ’tis so in Love, ’tis so in
+Musick, ’tis so in Souls; the fine in Raptures sympathize with cœlestial
+Joys, revived by all their Unisons in Heaven; but to free thee from
+Pain, I’ll think no more of Life below, but fly to nobler Thoughts, and
+pursue my Hopes in Happier Climes.
+
+_Cad._ Cease not to vent your Grief for my Relief, ’tis my Delight to
+share with you in Suffering; but rather wish that all may be fixed on
+me, that I may take them to some gentle Stream, and then to lay me down
+to stifle all in Waves; and there, oh there, let my Spirit expire.
+
+_King._ Nay, no more of that, if thou be my Friend, hate me, be lewd, be
+infamous, that I may banish thee; oh let me banish thee from every
+Glance of Thought, that I may take my Sleep, my lasting Sleep in Peace.
+
+_Cad._ Name not that to me.
+
+_King._ Name not what?
+
+_Cad._ Your Death, my Lord.
+
+_King._ ’Tis Death to resign up thee, to yield thee into others Arms; oh
+my _Cademore_, be a Virgin still, for if you marry, you part from me,
+and make me jealous in Eternity.
+
+_Cad._ Let no Thought of that arise, the Pangs of your Death will always
+smart in me, keep me from all and every Thought of Man.
+
+_King._ The Pangs of my Death smart in thee, there is no pain in Death,
+the Sound of your Words is Musick to my Soul, and makes the ever-living
+Youth rejoice, and leap for Joy, being ripe for birth, desires to go to
+Life; but this Body, this timorous Mother Earth; alas she shivers, and
+dreads the Hour of her Travail, but when that Midwife Death in Life
+shall give me Birth, Oh! may it be in that Kingdom where thou in long
+Eternity shall shine; and if my Happiness be no more than what I
+conceive in thee, and that to last for ever, then let the World say I am
+nothing, I am dishonourable, the Crown of my Head is dropped from the
+Kingdom of my Body, so that I may say I live with thee, but when we
+part.
+
+_Cad._ O my Soul!
+
+_King._ O Heaven!
+
+_Cad._ Oh Angels!
+
+_King._ Burst Heart, and let me fall.
+
+_Cad._ Oh Death! quickly to my Aid.
+
+_King._ Oh my _Cademore_, live!
+
+_Cad._ If it must be so, come visit me after Death.
+
+_King._ Oh how can I promise that? If this great Sun should refuse his
+Heaven, and slide from Orb to Orb, leave the Elements, prostrate himself
+on the Earth, fall a Victim at thy Feet, it would only serve to surprize
+and fire thy Heart; blind thy mortal Eyes; and lest the Garment of the
+Intellect be thus incomparable and Glorious, make me not promise, for if
+I promise, ’twill make me uneasy in Heaven, ’till I perform my Word; but
+if I can entreat to thy Guardian Saint, then I’ll attend thee all the
+Day, hover and settle upon thy Pillow all the Night, where I’ll converse
+with thee in Visions, and when thy Time is full done, I’ll wait and
+watch the closing of thine Eyes, and then will I catch away thy Soul in
+a Divine Transport; with Cœlestial Wings we’ll soar to the Lofty
+Mountains in the Clouds, when they shall dissolve like a Bed of Down;
+our inward Hearts shall kiss each other in Love, in Extasy, and then
+we’ll fly away together from all Adversity.
+
+                       [Cademore _faints, and is carried off the Stage_.
+
+      Oh my Soul stealeth from me.
+      Clippeth and hangeth upon thee.
+
+                                                      [_King lies down._
+
+                  _Enter_ Theorbeo. _The King rises._
+
+_King._ Oh _Theorbeo_, I perceive there is an End of Hope; it was my
+fear they would conquer thee, and bring thee to this Place of Adversity.
+
+_Theor._ It is not so, my Lord, I have left your Troops in trusty Hands,
+and am come here, that you may make your Escape in my Habit; and by that
+Time you have reach’d to the Army, I being a Stranger, will pass the
+Centry again, and come to your Majesty.
+
+_King._ ’Tis an inspired Thought, we’ll put it in Execution.
+
+                    [_The King dresses himself in_ Theorbeo_’s Clothes_.
+
+Oh _Theorbeo_, grieve not, every Sigh of thine, will make my Heart to
+weep Drops of Blood; consider a small Affliction by chance may happen;
+but these great Calamities, must proceed from something Great; and if
+so, it is Philosophy to rejoice.
+
+_Theor._ But Nature conquers Philosophy, and is a match for Divinity: I
+am sometimes at wars with my Will, whether to fly to Sin for Refuge, or
+to Heaven for Relief.
+
+_King._ My Lord I’ll haste away, and in one Hour expect to see you
+again.
+
+_Theor._ When I think you’re safe, I’ll follow.
+
+                                                            [_Ex. King._
+
+                     _Enter_ Dologodelmo _guarded_.
+
+O _Godelmo_, what brings thee to this Place of Misery? Speak quickly,
+though I dread to hear.
+
+_Dolo._ May all the Ills that are preparing in the Elements, be dash’d
+on the Head of _Hurlothrumbo_, that I might die, and my Soul join with
+his Adversary; I’d fly swiftly with the Ball, and direct it to his
+inward Heart.
+
+_Theor._ Curse him not; has he deserted you?
+
+_Dolo._ We no sooner entered the Field, but he joined the Adversary; may
+Heaven pour down upon him the bitter Blessings, the Honey Curse, the
+gilded Pill, that satisfies Desire, and infects the Mind; give him
+Riches, and make him love them, then will he be abhorred of Men, the
+Spirits, the Angels, and the Gods: may a proud Sign appear in his Face,
+that he may be a Tavern for Devils to riot and banquet in; let him
+pamper Nature, feed high, to destroy his Taste; so blind all the
+Beauties of the Mind; then will his hungry Pleasure devour up all the
+eternal Treasure of his Soul.
+
+_Theor._ _Godelmo_, let thy Passion cease.
+
+_Dolo._ O pardon me, I must be alone, and burst my Heart with sighing.
+
+                                                            [_Ex._ Dolo.
+
+_Theor._ O that Heaven would erect an Altar where Man might sacrifice
+himself an Offering; then surely the Blood of great Men would dye the
+Spring, the Rivers, and the Seas. O my Soul is full of Calamity, and my
+Heart is sore with Sorrow.
+
+                             _Enter_ Flame.
+
+_Fla._ Just now my Rival is with her; I tremble thus in the solemn
+Gloom, the Noon of Night; my wakeful Soul can find no rest, but from a
+jealous Dream I start, I rise amazed, in the Face of the Elements, bow,
+sigh, and think of Sorrow; I wonder what the Moon thinks of me. Oh when,
+oh when, shall Time and Sorrow cease! Surely _Cupid_’s Dart is the Sting
+of Death; oh dear Death, oh how I could hug thee. What Sign is it when a
+Man’s Heart is broken?
+
+_Theor._ That he is in love.
+
+_Fla._ Come, do, let you and I weep together, and pour out all the sour
+Anguish of our Souls: Women are cruel Creatures; tho’ I could kiss her a
+thousand thousand Times; oh ye inconstant Wretch, yet I will press my
+Check to thine, weep, sigh, and part Eternal; Oh!
+
+      Oh you dearest Creature,
+      Heaven is seen in every Feature
+      Is there no such thing, as learning Charms to move?
+      No, no, no, ’tis Gold and Honour makes the Fair to love:
+      Angel, ’tis in vain, if you come like a Swain,
+      With all your Harps and Arts, and Sweets to please from _Jove_.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                ACT IV.
+
+
+                      _Enter_ Bellman _and Sings_.
+
+      Good Morn, good Morn, my Masters all good Morn!
+      Whilst I poor Mortal wander here below,
+      You what’s most pleasing know,
+      No Charm’s so deep, how charming, how sweet
+      It is to fall within the fair Enchantress Arms asleep;
+      But if I chance to wake you with my Bell,
+      Be sure you let my Mistress know you’re well;
+      And if you please her, as you ought to do,
+      She’ll thank you, Master, and the Bellman too.
+
+                                                                [_Exit._
+
+                    _Enter_ Sementory _and_ Seringo.
+
+_Sem._ I have had no Rest this Night, my flustrated Spirits, my troubled
+Soul rais’d me from my Couch to my Terrass, where I beheld all Nature in
+Confusion, the City in Uproar, the Brave in Distress; Spears of Fire,
+fighting in the Elements; the King’s Solitaries scrambling up the lofty
+Hills, by the Light of the Moon; they prostrated themselves on the
+Ground, and invoke Heaven for good towards their Master.
+
+_Ser._ I laid me down, and could not rest, I am uneasy for want of
+Sleep.
+
+_Sem._ Who can sleep when a Lover’s false! This Morning _Cademore_
+intreated for the Life of the King; and as she kneel’d before _Darony_,
+her Sighs, her Tears, her Beauty has made him passionately in Love with
+her; yet chear up thy self, and still have hopes; when a Woman has a
+mind to gain a Man, she may study his Constitution, and what he likes.
+
+_Ser._ Oh _Sementory_, I have had cruel Dreams.
+
+                         _Enter_ Hurlothrumbo.
+
+_Hurlo._ Ladies, what are you upon now?
+
+_Sem._ Dreams my Lord.
+
+_Hurlo._ Can you interpret, Madam?
+
+_Sem._ You’re sure of my best Endeavours, my Lord.
+
+_Hurlo._ As I was alone in my Chair, I slumber’d, I thought myself
+mounted before a beautiful Wife upon the solemn Desarts of _Arabia_,
+where a dark, black Cloud overwhelm’d the Desart; a stormy, tempestuous
+Wind arose, and ripped up ragged Rocks, then drove them furiously over
+the Plain, like tremendous Bullets of Thunder; and all the dreadful
+Engines of eternal Misery rose up in Arms; I was in a Moment surrounded
+with wild Monsters, fighting with one another which should devour me
+first; my Horse tired, my Wife fell in Labour, the Element opened her
+fiery Mouth, and pour’d out Cataracts of Lightning and Hail; all the
+Pile of Building in the other World was tumbling down upon my Head, and
+how I came into my Body, I know not.
+
+_Sem._ You’re happy you had a Body to shelter you: this prognosticates
+you’ll endure great Calamities, and at the last lose your Mistress.
+
+_Hurlo._ This is my Mistress; _Darony_, my Rival, is dead in Love to
+thee; since he’s cruel and inconstant, pour out thy Grief in merry
+Sounds; you must part.
+
+_Ser._ Part, and never meet no more:
+
+      How can I bear to see that gloomy Day,
+      No, no, no, no, I’ll be a Soul, and fly away,
+      In merry Sounds, I will pour out my Pain,
+      And never think of Man again.
+
+                                                  [_Ex._ Sem. _and_ Ser.
+
+                             _Enter_ Primo.
+
+_Hurlo._ Honest Solitary, what brings thee to Court to-day?
+
+_Primo._ I am come in hopes to see our Lord and Master _Darony_.
+
+_Hurlo._ He will be here instantly, and desires you will be Counsel to
+him, as you was to _Soarethereal_.
+
+_Primo._ When he is King, I will be his Subject; till then, I am
+fervently so to my Soveraign.
+
+                            _Enter_ Darony.
+
+_Hurlo._ Much Joy to your Majesty; I perceive Heaven’s Frowns are
+departed from your Dominions: what an Alteration in the Elements! and
+all Nature seems to rejoice; _Phœbus_ till now hath ceas’d to shine upon
+the foggy Globe for many Weeks.
+
+_Dar._ This Morning I perceiv’d the bright Angel in the Sun, that water
+and warms this lower World, drive away swiftly the Clouds from his
+Presence; he open’d high the Casement of Heaven, and sweetly smiled upon
+me.
+
+_Hurlo._ _Primo_, what thinkest thou of that?
+
+_Primo._ When I gaze upon the Sun, I sink into myself, full of Humility;
+I also learn Lowliness of the Moon; when she looks over the Brow, and
+begins to rise, she’s huge and dull; she swells like an outstretch’d
+Hero; but as she climbs, she clears, she soars aloft diminutive, that
+she may shine among the Stars.
+
+_Hurlo._ Mr. Humility, your humble Servant.
+
+_Primo._ Every one that petitions must be humble, or else his Petition
+will not be granted.
+
+_Dar._ Art thou a Petitioner?
+
+_Primo._ In the Name of _Soarethereal_ I am, who fervently desires the
+Life of _Theorbeo_.
+
+_Dar._ He shall not perish by the Hands of Man; but I have sworn a
+mighty Thirst of Revenge; he shall take his Chance in the Room of
+burning Glass: be thou humble still, and petition Heaven; cry aloud in
+Vocal Perspiration of thy Soul; thy Words, like Thunder, sound in the
+Elements, and alarm the Angels on high; then if thou hast Power above,
+let _Phœbus_ cease to shine, or _Theorbeo_ cease to live.
+
+_Primo._ Then he must not live.
+
+_Dar._ No, he shall not live.
+
+_Primo._ Oh how Men condemn themselves!
+
+                                                           [_Ex._ Primo.
+
+_Dar._ Compassion is a Weakness in Man, it may become a Woman; not but I
+feel the Failing in myself, tho’ I conquer it and keep it under, lest it
+should appear to the World.
+
+_Hurlo._ That’s true, my Lord.
+
+_Dar._ I am inform’d _Soarethereal_ is in a Wood with 20000 Men, and
+designs to conquer there or die; and I myself will be there present at
+the Slaughter.
+
+_Hurlo._ There is no danger of him, my Lord; he is surrounded with 60000
+Men, and was he a Grashopper, he could not escape your Armour.
+
+_Dar._ Then I’m at peace within; yet _Cademore_ still runs in my Mind:
+let us haste to her Apartment, and if she will not consent to marry,
+I’ll force her.
+
+                                                              [_Exeunt._
+
+
+                           SCENE, _a Prison_.
+
+      _Enter_ Theorbeo, _and_ Dologodelmo _looking on his Watch_.
+
+_Theor._ Our Time is almost expired.
+
+_Dolo._ I think this Finger is like the Dart of Death, upon the Figure
+of Twelve sits my Life; Oh how it steals to sting!
+
+_Theor._ Those are melancholly Thoughts, think not of Death, but of
+Life, or of any thing that will divert thee most.
+
+_Dolo._ When I think my King is in misery, and _Darony_ upon his Throne;
+when the Noble suffer, and Miscreants are blest, then my Faculties
+within me rejoice; there is a secret Thought in that, which revives my
+very Soul.
+
+_Theor._ A small Offence unthrones the Noble, but infamous Actions raise
+a Tyrant.
+
+                    _Enter Guards and Executioner._
+
+_Theor._ After what manner must we suffer?
+
+_Dolo._ In the Room of burning glass.
+
+_Theor._ Then what means this Executioner?
+
+_Dolo._ If the Sun destroys us not, as he rides along the Meridian
+Course, by this Man we must be slaughtered.
+
+_Offic._ My Lord, your Time’s expired; Guards attend here.
+
+                             _Enter_ Flame.
+
+_Fla._ But hold, I’m come to give you a Description of your happy Flight
+to the _Elysian_: Your Neck’s no sooner laid to the Block, but the
+Stroke’s given; immediately your Soul begins a March through all the
+Elements: in the Body first, you’re confin’d five Minutes in the Regions
+of Fire, amazed, amidst the verdant green Climes of Water and Air; you
+pass then heavily through the solemn Gloom of Earth; you go, you faint,
+the Soul bows, farewel to Nature; you fall into a dark, black Slumber, a
+Trance; and when the Spirit touches you upon the Elbow, you wake
+surpriz’d in a World of Light; there you see _Shakespear_, _Milton_,
+_Homer_, sprightly, alert, alive, flying swiftly through the radiant
+Climes, to visit the Wits of every Generation; the Rich, Poor, the
+Merry, Mournful; the pamper’d, hungry Souls are there. Alas, the Scene
+is chang’d, you’ll not pity them; Queen _Eliz._ is in her Hut, selling
+of fry’d Fritters; _Pompey_ and _Alexander_ carry Charcoal to feed her
+Fires; the Great Mogul, the Czar, the grim Bashaw, the Emperor, the
+Grand Turk and _Cæsar_, are scrambling for the Drops of the Pan, and as
+they are wont, are scuffling for Trifles, till it raises their
+inextinguishable Rage to Loggerheads, cutting, flashing, carbonading
+_Nero_’s Buttocks; nay, they’re all fighting in Blood up to the Ears,
+and there is the Devil to do amongst them.
+
+                                                          [_Exit_ Flame.
+
+_Theo. Dologodelmo_ farewell.
+
+_Dolo._ Our Time is come to part.
+
+_Theo._ Farewell, my Lord farewell, this World is all Departure; Oh that
+I could appoint a Place to meet thee after Death; yet through the
+ranging of my Soul at Liberty, I’ll surely ken thee afar; methinks I see
+thee shine upon the brightest Mountain in the highest Orb, stretching
+forth thy self, and pluming thy immortal Wings, preparing to take thy
+everlasting and eternal Flight; and when we meet to part no more, may
+all our Song be Love, in Divine Tranquility.
+
+_Dolo._ This lofty, sublime Speculation, proceeds from your own Virtue,
+not from my Merit; for if the Work of this Life, makes a Garment for the
+Soul, mine will be stain’d with Avarice, Debauchery and Revenge; you are
+Innocent: O Innocence! thou only Traveller to Heaven, farewell for ever.
+
+                                                                  [_Ex._
+
+
+                            SCENE, _a Wood_.
+
+                  _Thunder and Lightning. Enter_ King.
+
+_King._ What a Smell of Sulphur is here? Was ever Day like this? surely
+all the Infernals are rising up in Arms, in Thunder, Lightning, and
+Hail; the Air’s in a Flame; I think my self in the Sun, expecting every
+Moment to be dissolv’d, and Conscience smiles.
+
+                                                            [_Ex._ King.
+
+       _A_ Genius _descends in a Cloud, and_ Death _enters upon a
+                            pale-dun Horse_.
+
+_Death._ Thou Genius of the King, confront me not.
+
+_Genius._ Oh Death, thou long-liv’d Mortal, say for what art thou come,
+thus proudly aloft, and hieroglyphick mounted?
+
+_Death._ To Wars, Victory, Revenge, with Stings from _Lucifer_ my
+imperial Grandfather; I drive my Parent Man from Nature; I’ll die, be
+born again, and pursue him in Eternity.
+
+_Genius._ Thus when Man commits a Crime, he creates a Fiend to fight
+against him: remember thou Toad of Hell, all the Elements that compound
+the Nature of Mortals, are now conspiring against thee.
+
+_Death._ Discord horrid!
+
+_Genius._ Thou Off-spring of Sin, that is, of that Nature that will draw
+upon it all the eternal Vengeance of Heaven!
+
+_Death._ Thou mak’st me tremble.
+
+_Genius._ Tremble thou, when yon marble Sky shall rent, flashing swift
+as the Lightning glimpse away; when crimson Elements appear, and Fury
+rides on flaming Winds, and spreads himself abroad, deep in the Bowels
+of this Globe shall wake, nay twice ten thousand Thunders, renting the
+rocky Mountains, and hurling Kingdoms to the Sky; Cataracts of Fire, and
+purple Storms shall rage, and hurricane thy infernal Soul.
+
+_Death._ Discord horrid!
+
+                                                           [_Ex._ Death.
+
+                             _Enter_ King.
+
+_King._ Man, what is thy Business here to interrupt my Solitude?
+
+_Genius._ I follow the Oppress’d, where I often find Relief.
+
+_King._ What is thy Name?
+
+_Genius._ My Name is secret, I was Tutor to a young Man, and when I
+corrected him to cure Pride, he resisted and rose up against me, and for
+that Reason I have left him for a Season.
+
+_King._ And will Calamity cure Pride?
+
+_Genius._ Behold yon pamper’d high-fed Colt, unoppress’d, at ease,
+unbroke, he leap’d his Mounds, and sported all abroad; he saw a Lamb, a
+Nightingale, a Dove; he started, snorted, and bridled with Disdain, with
+twisted Neck and cocking Tail, with bended Knee he bounds away,
+disdaining all he sees; but now his Back is stain’d with Saddle-marks,
+his Mouth is gaul’d with Bridle-bit; and he that despis’d the Lamb, the
+Dove, the Nightingale before, now is tam’d, and feeding with a Goose and
+Boar.
+
+_King._ Alas! I pity thee; here is all the Money I have, and this Ring;
+’twas given me by one I most admire.
+
+_Genius._ But why do you give me all?
+
+_King._ I am distress’d my self, and design to ask Relief of Heaven.
+
+_Genius._ I will speak of thy Generosity, and force my Words to the
+highest Heaven; Angels will love and long for thy coming on high; rapp’d
+with thy Fame will wing away, warbling as the Swift, to meet thee in thy
+flight.
+
+                                                          [_Ex._ Genius.
+
+_King._ From whence this inward Joy, as if the Musick of the Spheres,
+and heavenly Song, penetrate the Sky, and eccho in my Soul.
+
+                            _Enter_ Officer.
+
+_Offic._ I am inform’d from the City, that _Darony_ has taken Possession
+of all, and is now crown’d, and the People greatly rejoice:
+_Lomporhomock_ and _Hurlothrumbo_ are come down with an Army of 60000
+Men, and threaten in a Moment to destroy you and your Troops.
+
+                                                         [_Ex._ Officer.
+
+_King._ The excessive Storm blows up the Fire of my Soul, and makes me
+long to fight; every String of my Heart is firm, is stony as the Lion’s
+Nerve; it rises in my Breast, it leaps, it yearns; Oh great is my
+Desire! I am all athirst, not for the Blood of my Adversaries, but for
+the Freedom of my Friends.
+
+                            _Enter_ Officer.
+
+_Offic. Theorbeo_ is at the Place of Execution; he desires to be
+interr’d under his Statue in the Grove, that if you ever come to your
+Kingdom, you may sometimes walk and think of him.
+
+                                                        [_Exit_ Officer.
+
+_King._ Oh when shall this Dramatick World be done! but yet with me
+indeed it is. Oh when shall the End of all Things come! When shall the
+Musick of the Spheres break out! like Trumpets found Alarms, and Thunder
+in Bases roar? Oh when shall the glittering Crouds of Angels tread the
+Stages of the Sky, to sing the Chorus at the End of Time! Sing, oh
+Chant, with Sounds to metamorphose Man; and make me, oh make me any
+thing but what I am!
+
+                            _Enter_ Officer.
+
+_King._ Why do you pause?
+
+_Offic._ I fear to speak.
+
+_King._ Speak, for I dread not to hear; this Moment I will fight and die
+with my Army.
+
+_Offic._ The Princess _Cademore_ is now forc’d in Marriage to _Darony_.
+
+                                                        [_Exit_ Officer.
+
+_King._ O there is the Sting! Have I lost, for ever lost, every thing
+that’s dear to me in Life, my Crown, my Mistress, and my Friends? Rise
+up now, thou Strength of Reason, and pull down the Passion of my Soul;
+oh let the Curtain of the Clouds be lifted up, the Scenes, the Elements
+depart asunder; and may some piercing penetrating Eye in tender Pity
+gaze upon me!
+
+                            _Enter_ Officer.
+
+_Offic._ The Enemies assaults us in our Trenches, we must either fight
+or die, and only wait for your Majesty’s Commands.
+
+_King._ Depart, I’ll instantly be with you. [_Exit_ Officer.] Yet hold,
+20000 to engage with 60000, there must be great Courage or Contrivance,
+tho’ I have known brave Men naked have beaten Cowards in Armour; I have
+also heard of the _Grecian_ Contrivance, their Horse: I scorn to
+overcome by Stratagem, no, I’ll raise up the Spirit of my Army; I’ll
+give them to drink Brandy mix’d with Gun-powder, and in the Anguish and
+Bitterness of my Soul, I’ll slash it through the Veins, and mingle it in
+the Blood of every Man, that they altogether may be one in the Image of
+a Dragon.
+
+      With fiery Heart and flaming Eyes,
+      To every Part the Sulphur flies;
+      The Wings extend, the thorny Points display,
+      The Sting from Mouth ascends, and shuts for happy Day:
+      The Heart, the Eyes, the Sting, the Feet, the furious Claws,
+      Mount all up on the Wing, and fly amidst the Foes;
+      Then Lightning from the Nostrils flies.
+      Swift Thunder-bolts from Anus, and the Mouth will break,
+      With Sounds to pierce the Skies, and make the Earth to quake:
+      And if one Part should chance to fail,
+      I’ll prick him on with speary Tail.
+
+
+SCENE, _Cademore_’s Apartment.
+
+                    _Enter_ Cademore _and_ Seringo.
+
+_Cad._ See who comes here?
+
+_Serin._ ’Tis the Lord _Flame_.
+
+                             _Enter_ Flame.
+
+_Flame._ My Soul is outrageous in Pursuit of my Rivals, and mounts my
+Body Upon the Wing; flies through the Woods, rips up the lofty Oaks,
+splits the Rocks, plows up the Seas. Oh this scandalizing World!
+disgrace the noble _Oliver_, and say, that he is Gunpowder-maker to the
+Devil; and that _Lucifer_ reads the Scriptures, that he may plead
+against Mortals. See, see those two glow-worms how they glitter; these
+are _Cleopatra_’s radiant Eyes, just scrall’d up from her Body,
+ambitious to vie against the Stars: How vain is Woman! veil thy Bosom,
+those heaving Monsters fire me; oh that I was a Child again, that I
+might suck!
+
+                                                          [_Exit_ Flame.
+
+_Cad._ I pity this poor unfortunate Man, I feel his Distemper approach
+my Brain.
+
+               _Enter_ Darony, Cademore _turns from him_.
+
+_Daro._ Dear Lady fly me not, stay and hear me speak; _Ovid_’s Words in
+_Bonon_’s Sound, cannot describe the Passion of my Love.
+
+_Cad._ Cruel Man, follow me not; if you love me, do not augment my
+Torment.
+
+_Daro._ I am come with Comforts to feed the distressed Soul, I love.
+
+_Cad._ What in me, do you admire?
+
+_Daro._ Your Person, Madam.
+
+_Cad._ They are Brutes that marry Bodies; the Mind is all that can be
+loved; the other is a Desire proceeds from Nature vicious, urged by Food
+and Wine: Live low, and you’ll not love me.
+
+_Daro._ Oh ’tis in my Soul, I admire the Mind!
+
+_Cad._ Then if you converse, you enjoy; what can you ask for more?
+
+                 _Enter_ Hurlothrumbo, _and a_ Parson.
+
+_Hurlo._ Come along, Sir, the King will make you a Bishop.
+
+_Daro._ My Love, my Life, my Fire, to thee shall all be given;
+        I’ll make thee taste of earthly Joys, and fetch thee down from
+           Heaven:
+        A Power that will without controul,
+        Knock down all the Centrys of the Soul.
+
+Sir, perform your Office.
+
+                                              [_Speaking to the_ Parson.
+
+_Par._ Madam, are you willing to be married?
+
+_Cad._ I am not.
+
+_Hurlo._ Never mind that.
+
+_Par._ ’Tis my Sovereign, and I must obey.
+
+           _Enter_ Flame, _with Pistols, and a drawn Sword_.
+
+_Fla._ This Dagger will I heat red-hot in the crimson Blood of _Darony_,
+with which I’ll spear the Heart of _Seringo_, that Weather-cock; I’ll
+raise it upon some Pinacle or Spire; it shall ever whirl about with
+every Blast; myself I’ll dissolve into Air; I’ll make the stormy Winds
+to blow, the petty Breezes shall have no Power; but I’ll reign King of
+Tempest.
+
+_Hurlo._ My Lord, can I serve you? Do you please to accept of
+Assistance?
+
+_Flame. Hurlothrumbo_, what hast thou done with _Seringo_, hid her in
+thy Belly? Speak, in a moment speak, or I’ll rip it open, and let her
+out.
+
+_Hurlo._ O no! ah hold! oh pray give me leave, and I’ll answer you!
+
+_Fla._ Speak! quickly speak! or like a Griffin stuff’d with Fire and
+Gunpowder, I’ll blow thy Limbs and Stings to every Part of the Globe!
+
+_Hurlo._ Oh ye Powers inspire me with Madness, that I may answer him in
+his own Language! [_Aside._] If you please to let us go, my Lord, we’ll
+this Moment mount her upon the Back of the Sun; in the mean while, you
+get a stradling upon the Moon, there you’ll be mounted aloft, and ride
+after her, spur and whip, whip and spur, and you’ll be sure to overtake
+her in the Eclipses; there you’ll be clapp’d together, Face to Face, one
+upon another; and all the World will shout and say, he has her, he has
+her, he has her! huzza!
+
+                [Darony, Hurlothrumbo, _and the_ Parson, _shout and Ex._
+
+_Fla._ Ride on, Lightning, to perform, or I’ll drive you on with
+Thunder.
+
+_Serin._ Dear Lady keep him in Discourse, for your own Security.
+
+_Cad._ My Lord, you seem to be in Distress, is it in my Power to assist
+you?
+
+_Fla._ No; my Soul, like a Jocky, is mounted and riding his eternal
+Race; I have slackned the Reins of Nature, and the Beast pulls, is
+pampered with too many Beans and Oats, and is running away with me to
+the Devil.
+
+                                            [_Exit_ Flame _and_ Seringo.
+
+_Cad._ Pity! I have heard of Pity, surely Pity now is banish’d from the
+Earth, and all the Spirits of Love are lock’d up fast in Heaven. Was I
+once free from this miserable Cave of Nature, I think I could deny
+myself even of Paradise, to fly about within this lower World, to cure
+all the Sick, and heal the Broken-hearted: If there be a Maid on Earth
+whose Grief is like to mine, O ye sublimer Genius of the Air! in tender
+Pity direct her here to me, that I may lay my Face down to her Feet, and
+wash them clean with Tears; then will I rise, and gaze, and give her all
+that’s mine, that Generosity may please my Soul, and Love will rise up
+in my Heart, and conquer all my Grief.
+
+                    _Enter_ Seringo _and_ Sementory.
+
+_Sem._ I am full of sympathetick Confusion; there is nothing to be seen
+upon the Terrass, but Flashes of Lightning, flying through Clouds of
+Gun-powder Smoak.
+
+_Cad._ Oh I tremble!
+
+                            _Enter_ Servant.
+
+_Serv._ _Hurlothrumbo_ is taken Prisoner, and the _Dutch_ Horse begin to
+fly.
+
+                                                        [_Exit_ Servant.
+
+                             _Enter_ Flame.
+
+_Flame._ The King has gain’d the Victory; I’ll fly to the _Elysian_
+Fields, and provoke them all to dance.
+
+_Serin._ Shall I go with you, my Lord?
+
+_Flame._ Oh! no, _Seringo_, Coquets can never alarm me.
+
+                                                              [_A Song._
+
+      _I’ll to the simple Fair incline,
+      Constant Love, full of_ Jove, _all divine,
+      All, all, all divine, she’s rais’d, touch’d, rap’d, and only mine:
+      O lead me, lead me to one like thee!
+      Yet mighty Fate from happy State,
+      Leads us all from Ruin,
+      Through jealous Discords oh,
+      And parting worse than Death, Death, oh._
+
+                                                              [_Exeunt._
+
+
+_The End of the Fourth Act._
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+[Illustration]
+
+                                 ACT V.
+
+
+               _Enter_ Hurlothrumbo, _in Prison guarded_.
+
+_Hurlo._ Leave me alone, let me vent, let me pour out the inveterate
+Anguish of my Soul; I see there is nothing impossible; no, does not this
+World turn round without Spit or Jack, and roast before the Fire in the
+Elements ’till all her Fruits are ripe to eat? If this be so, all things
+are rul’d by the same Power, and there is nothing impossible. Stand
+still ye Globe, let there be but one Season, scorch or starve the
+Universe: Come a little nearer, oh ye Sun, and burn all mortal Race, or
+keep thee farther off, and starve them soon to Death; oh that all
+Mankind might perish with myself!
+
+                    _Enter_ Lomporhomock, _guarded_.
+
+_Hurlo._ My Lord _Lomporhomock_, you’re welcome to your new Habitation.
+
+_Lom._ ’Tis a cold Place.
+
+_Hurlo._ Yes; you had us’d to stew your Lungs up in Claret all Night,
+and the next Morning skim the Pot with a Pipe of Tobacco; but a little
+cold Water must now suffice: I wish I had the scourging of thy _Dutch_
+Buttocks.
+
+_Lom._ Is there any Hopes of Liberty?
+
+_Hurlo._ Nothing more sure than that; they’ll first make thee dance the
+stripping Dance.
+
+_Lom._ How is that?
+
+_Hurlo._ They’ll first take this Stone Cloak off thy Shoulders; thy
+Clothes off thy Back; then strip thy Body of thy Soul, and send it into
+its own Country stark naked, and a good Journey to you.
+
+_Lom._ Rather a good Dream.
+
+_Hurlo._ This World is all a Dream, an Outside, a Dunghill pav’d with
+Diamonds; but to you and your cursed Army nothing can compare,
+
+      Except I hunt the Woods, to find a Savage Boar:
+      No sooner he his Adversary sees,
+      But rouses up from Luxury and Ease;
+      His Heart and Eyes, was in Surprize, and both at Civil War,
+      And all his Passion backward flies, and flames into the Air,
+      Then from his Jaws did Foam descend, as tho’ he fear’d no Evil;
+      The Tail, the Tusks, the Bristles stood an end, as if he’d fight
+         the Devil;
+      But when with Spear, the Foe drew near, to shout for happy Day,
+      His Ears let fall, and drooping all, cry’d _Boh!_ and run away.
+
+                                                           [_Exit_ Lomp.
+
+                             _Enter_ Primo.
+
+_Hurlo._ Honourable Sir, and greatest Comfort in Adversity, ’tis my
+fervent Desire to know what Pleasure we shall enjoy in the _Elysian_;
+for now all my Hopes are there.
+
+_Primo._ Has your Pleasure been intellectual, in which the Body has no
+share?
+
+_Hurlo._ I have had very delightful Dreams, all Spirit and Love; but I
+must needs say, the Body did share in the Pleasure, and Woman has been
+all the Delight of my Life.
+
+_Primo._ Look up, my Lord; you see yon Marble Sky, thro’ that is the Way
+you are to pass; then you come to a Scarlet Flame, that Flame compounds
+the Nature of Woman, and if that Part of Woman has dissolved thee here,
+how shalt thou be able to march thro’ the fiery Element, on which a
+Woman is made; no, it cannot be, you will descend, you’ll yearn to your
+old Delights, and visit the Virgins in the Night.
+
+_Hurlo._ That’s good.
+
+_Primo._ Then will you haunt melancholy Tombs, and visit _Hurlothrumbo_
+in his Solitude; invite him to a Banquet of Raptures: but alas, he’ll be
+indispos’d, and so desire to be excus’d.
+
+_Hurlo._ That’s blank; may I not fly amongst my old Friends, and noble
+Officers? will they not honour me as a Person of Quality?
+
+_Primo._ Every Man is honour’d according to his Colour and Brightness;
+your common Souls are like dissolved Allum, pour’d in clear Water; these
+are not able to converse with the Sublimes, nor Gloworm shine before the
+Sun.
+
+_Hurlo._ I hope they’ll not rob me of my Honour, that his Majesty has
+bestow’d upon me: they’ll call me Lord, will they not?
+
+_Primo._ Words are not the Language of the Place, ’tis Musick, Motion,
+Hieroglyphick, Dress.
+
+_Hurlo._ Tell me how shall I converse with _Brutus_, I long to see him:
+By what shall I know him?
+
+_Primo._ _Brutus_ is in Scarlet; his Heart shines like a Star, and his
+Right hand is black.
+
+_Hurlo._ What, for Murder! then I shall be black all over; now be
+sincere, and let me know your Opinion of my Case.
+
+_Primo._ Then answer me, can you love a Friend more than a Mistress?
+
+_Hurlo._ No.
+
+_Primo._ Are you mov’d with Sounds? do they drive Venom from your Soul,
+and make your Blood run cold?
+
+_Hurlo._ No.
+
+_Primo._ Are you affected with sublime Prose; do your Nerves creep, and
+your Veins shiver?
+
+_Hurlo._ No.
+
+_Primo._ Then you’ll enter into the Shades like a Cow in an Opera,
+terrify’d with Delights; she lows and interrupts; she gallops to those
+Climes, where is most Grass, and a Bull.
+
+                                                           [_Ex._ Primo.
+
+_Hurlo._ May be live in my Dream, upon the Desarts of _Arabia_, hurl’d
+about with stormy Tempest, in Thunder, Lightning and Hail; be pursued by
+Dragons, Wolves and Tygers; then fly to my Body for shelter, and find
+the Door shut. Oh most horrid! oh, what has brought me to this unhappy
+Place of Misery? it was in pursuit of Honour.
+
+      Honour, like the lighted Meteor in the Air,
+      She leads the midnight Traveller astray,
+      Forsaken by the Light, the Sun and Day;
+      Thro’ Brambles, Briers, Hedges, Ditches,
+      The _Ignis fatuus_ the Fool bewitches.
+      Thus stimulated, the glimmering Light deceives him,
+      Leads him to a miry Bog, then vanishes and leaves him:
+      Thus I do roul and wallow in the Mire of the Mind,
+      Not one Moment’s Ease to my Soul can find;
+      Shine oh Sun, my Life to me restore,
+      And thee for _Fatuus_ I’ll forsake no more.
+
+                                                           [_Ex._ Hurlo.
+
+                      _Enter_ King, _and Officer_.
+
+_King._ Here I parted with _Theorbeo_; ah he is gone, he is banish’d
+from the Earth; oh now my Body hungers for the Ground, as my Soul is
+a-thirst for Heaven; I will go visit him in the Dust, whilst Sorrow is
+desirous to vent, lest I rejoice at the Sight of _Cademore_, and forget
+my Grief for my Friend. The Fatigue of this Day has been very great;
+what can strengthen these trembling Nerves; quench and compose these
+flaming Spirits?
+
+_Offic._ Sleep.
+
+_King._ Oh, what can make an afflicted Mind to sleep?
+
+_Offic._ Harmony.
+
+_King._ ’Tis true; whilst I visit _Theorbeo_, get the Performers in
+readiness; let the Musick be _Astartus_, ’tis the Language of Angels,
+the Eccho of Heaven; and who shall declare the Sense to Mortals? Those
+Sounds inspire the Intellect, and strengthen the Soul; they animate and
+arm the Mind; raise to the highest Œconomy of the Universe, and lure me
+quite from Care; then finely turning the Keys of Paradise, they waft me
+from Orb to Orb, and make me, thro’ divine Opticks, see, the radiant
+Splendors of bright shining Worlds.
+
+                                                [_Ex. King and Officer._
+
+                 [_Musick plays solemn. The Scene discovers_ Theorbeo_’s
+                     Statue in a Grove_.
+
+                             _Enter_ King.
+
+_King._ I could lay me down, and dissolve my Body by thee, and make my
+Soul to swim away to thine in Floods of Tears: Oh _Theorbeo_, thy Body
+was inhabited once by all things fine, Faculties that rous’d aloft
+within, ready to heave up the Sky, and force themselves to Heaven; full
+of an humble Grandeur, Resolution, Ambition divine, that mighty he, that
+wings the Soul: ’tis impossible that so much Greatness should ever cease
+to live; oh here let me stay, till thy Breath of eternal Raptures, shall
+descend from Heaven in Harmony; when thy bright Spirit, like the Sun,
+shall glance from the Sphere, I’ll leap up in Extasy, and meet thee in
+the Air; when we descend, I’ll stand to pause, to gaze, admire, rejoice
+and weep; I’ll parry thy Beams, run into thy Rays, and clasp thee in my
+Arms; if I become blind; but now sleepy Nature calls to rest, and as our
+Bodies slumbering sympathize, may our Souls in extatick Visions meet.
+
+                                 [_Enter_ Seringo _and sings, and Exit_.
+
+                  _Enter_ Theorbeo _and_ Dologodelmo.
+
+_Theor._ She resembles the Guardian Angel of a Man, when his Pupil to
+_Pluto_ and to Vice is given; then just like her, he sings, he mourns,
+and sends the Muse to Heaven.
+
+_King._ Now have I pass’d my _Cademore_’s World, and enter _Theorbeo_’s
+Kingdom; is it thus we pass from lasting Sleep, and wak’d to Life by a
+Choir of Angels? This inimitable Sound makes all my Nerves to creep; the
+chanting Harmony thrills my Veins; the superlative Sweetness of the
+Musick raises me from the Dust of Death.
+
+                                          [_He rises and sees_ Theorbeo.
+
+Oh _Theorbeo_, I am like a Cœlestial inspired Man, my Heart is full of
+Love, and overflows with Joy; is it lasting, or will it vanish? To-day
+or ever? Momentary or eternal? declare those blooming Thoughts; a Pearl
+and Heavenly Mystery lodge within thy Eyes, ripe with Anity, appris’d
+with Tidings from on high; oh tell to me the Case of separate Souls; or
+in the Rapidity of thy Career, catch me away in a divine Transport, I
+long to touch thee; may I touch thee?
+
+_Theor._ Yes, you may.
+
+_Dolo._ Will your Majesty give me leave to explain the Mystery?
+
+_King._ Speak _Godelmo_, for I long to hear.
+
+_Dolo._ The King was no sooner enter’d the Room of Burning-Glass; but it
+scorch’d his very Soul; crying out aloud to Heaven, with fervent
+Oraison, the Sun seem’d to start, and vail’d his Face with Clouds; for
+when he reflected on what was done, he mourn’d and wept, he wetted all
+the World with Tears: when we were both releas’d from our Chains, he
+drew the Vesture from his Eyes, and smil’d on all the Earth.
+
+_King._ Oh _Theorbeo_, methinks I see the Angel, that pitches his
+Pavilion round thee, leave thee and march to the higher Regions of the
+Air, then rise up with his glittering Glory, and eclipse the Sun; O
+_Theorbeo_, I celebrate a Dunelmo in my Heart, and all the Faculties of
+my Soul are banqueting on high Delight.
+
+                             _Enter_ Flame.
+
+_Fla._ The Centry of my Actions is just reliev’d; my new Companion, and
+a good Conscience, revive my Vitals, chuck my Heart under the Chin; and
+all the Strings strike up a Rit-a-te; every Faculty is trickling down
+with Transports.
+
+_Sings._ I gaze in Transport charm’d,
+         My Soul’s with Love alarm’d.
+
+                                                                  [_Ex._
+
+                               _A SONG._
+
+                     _Scene changes to the Court._
+
+                    _Enter_ Sementory _and_ Seringo.
+
+_Sem._ See here comes the King; Calamity prepares a Man to receive a
+Petition; _Dolo_ will tell him the Cause of our coming.
+
+                          _Enter_ Dologodelmo.
+
+_Dolo._ I have inform’d the King that you have a Petition to his
+Majesty; he’ll instantly pass by, and speak to you; see where he comes!
+
+                                                            [_Ex._ Dolo.
+
+                             _Enter_ King.
+
+_Sem._ Pray my Sovereign Lord hear us, let Pity move; the meanest of
+Kings pardon small Offences, and the mightiest of Kings may stand in
+need of Mercy; your Majesty knows that Greatness is seen more in a Man,
+when Mercy exerts in Lowliness, than when he rides in Fury, upon
+red-wing’d Thunder to revenge.
+
+_King._ Rise up, I’ll hear no more, I can guess at what you’ll say.
+(_Ex._ Sem. _and_ Ser.) My Enemies are the Rod of Heaven, that seldom
+ceases to torment: How mean a thing it is for Men to beg that Life, that
+is in the Hands of the greatest Adversary? No, they cannot live, their
+Breath would infect the Air, who would turn loose Dragons, Wolves and
+Tygers, I am not safe upon my Throne; yet Wisdom, in the highest
+Philosophy, tells me I am fate? for if there be a Power above, I am the
+Shadow of that Power below; and if so, not all the Power of my
+Adversaries, and all the furious Infernals, can stir a Shadow the
+Breadth of a Hair, except they have power to move the Substance. I
+cannot bear to have an Enemy; if I destroy these Men, they go down to
+the Dust unconquered: I never knew a Temper, not of the most inveterate
+kind, but I could conquer it, and force the Man to love me. When
+Ambition, Revenge and Passions rise, then Reason strengthens, and Love
+stands up and demands a Parly; and when my vanquish’d Adversary stands
+before me, it is equal to me whether I strike or kiss.
+
+                                                                [_Exit._
+
+                    _Enter_ Sementory _and_ Seringo.
+
+_Sem._ _Darony_ is very desirous to live, he’s much in love with Life;
+the King is now in _Cademore_’s Apartment; she may soften his Mind, and
+make him full of Compassion: _Darony_ deserves no Pity. Oh _Seringo_,
+what was you in love with, when you admir’d that Mortal?
+
+_Ser._ Not with the Man, but his Title.
+
+_Sem._ Well, we Women are not worth a wise Man’s Observation; our
+graceless Pride, and covetous Ambition, makes us always poor, and
+tasteless; were we humble as the purest Spirits, discerning as the
+Watchers above; we should admire Merit, then find Happiness, and be as
+rich as Hermits: you’ll never prosper for your Cruelty to the Lord
+_Flame_.
+
+_Ser._ That’s my fear.
+
+_Sem._ See, here he comes; ’tis Vertue creates Love, Love Fire, and Fire
+confin’d creates Madness; but give vent, and all shall be well.
+
+_Ser._ I will, _Sementory_.
+
+                             _Enter_ Flame.
+
+_Fla._ What! not marry’d yet?
+
+_Sem._ No; Angels are jealous of the Sublime in Ladies, prevent and
+preserve us from rude Men; for they destroy the Beauty of the Mind, as
+Time and Thought do the Body.
+
+_Fla._ O _Seringo_! that thy Heart was Steel; ’tis Sand upon which I
+wrote all my Perfections, but every little Wind makes an Alteration, and
+blows the Impression quite away.
+
+_Sem._ Make way; see here the King comes!
+
+                                 [_Ex._ Flame, Sementory, _and_ Seringo.
+
+                      _Enter_ King _and_ Cademore.
+
+_Cad._ Oh! tell me, how did you bear the Pangs of Parting?
+
+_King._ When I heard that you was married to another my Soul sigh’d
+within me; it mourn’d, it griev’d, I perceiv’d a Tear of Blood to
+trickle down, and drop from the Bottom of my Heart; then Reason rouz’d
+within me, with celestial Wings I soar’d, I flew to my Aid aloft, I
+sigh’d, I bow’d sublime, and wept.
+
+                  _Enter_ Theorbeo _and_ Dologodelmo.
+
+_Dolo._ The vanquish’d Traitors are come to appear before your Majesty.
+
+_King._ Can you bear to see any thing in distress?
+
+_Theo._ I must own my Soul is apt to sympathize.
+
+_King._ ’Tis so with me; when I see the Wound of a Man, that Part of me
+trembles; and thro’ viewing a Cripple, have been seiz’d with Lameness.
+How Thoughts rise up and plead to strengthen Mercy! telling me I am a
+Judge, my own Eternal highly honour’d, myself appears before myself, to
+receive from myself my irrevocable Sentence.
+
+      _A Shout behind the Scenes. Enter_ Hurlothrumbo, Urlandenny,
+                             _and_ Darony.
+
+_King._ Here comes _Hurlothrumbo_ in Hieroglyphicks; pray the meaning of
+this comical Dress?
+
+_Hurlo._ ’Tis a dumb Confession of my Guilt, ’tis an Index to my Heart;
+black and yellow without, wild and foolish within.
+
+_King._ ’Tis true; though I have never known a Coward honourable, I have
+seen a stout Man a Villain; the Love of Gold will overthrow the greatest
+Heart: thou hast conquer’d a Lion, deceiv’d a Madman, and cunningly
+escaped from Death, but now——
+
+_Hurlo._ Oh now let me live that I may be all divine, and so out-wit the
+Devil!
+
+_King._ _Darony_, what have you to ask?
+
+_Dar._ Life, and Pardon for my Offences.
+
+_King._ As the Optick through the Lid discerns the Light; so through the
+Eye of the Intellect, methinks I see your separate Souls strolling sad
+through the intricate Windings of _Elysium_: I pity you all as poor
+unfortunate Men; _Darony_, I will not take from you that Life which
+Heaven has given, but will give thee Riches to satisfy the Thirst of thy
+Ambition. Why do you pause?
+
+_Dar._ Oh what an Alteration in the Mind! your Generosity is at Wars
+within, and knocks down Avarice, Cruelty and Pride in me, I am in love
+with your Greatness, and hate myself; I myself will punish your
+Offender, [_stabs himself_] Oh! loose me, ’tis not finished.
+
+                                                      [Dol. _holds him_.
+
+_King._ See, is the Wound mortal?
+
+_Dol._ ’Tis not, my Lord.
+
+_King._ Unarm him, take him hence, he shall not die. _Hurlothrumbo_, so
+long as thou art cloathed in that like Garment, thou shalt live, thou
+shalt never appear in Scarlet any more, to deceive Mankind.
+_Urlandenny_, I remember what good thy Father perform’d in our Family,
+therefore I will not separate thy Soul from thy Body, but will give thee
+Liberty.
+
+_Urlan._ Oh how Heaven exerts in Nature! Great and noble Man, every
+Tongue shall speak of thee, their Words shall mingle with the Winds, to
+fly and sing through all and every part: those Sounds rebound from Sky
+to Sky, and Eccho’s ring in every Heart; and when that Cloud thy Body
+shall pass from the Sun, thy Soul, that Sun, shall shine throughout all
+Worlds: the diminutive Spirits will in Amazement stand, for thy
+exceeding Glory will eclipse their Sight: Fear and Trembling on their
+vital Hearts will seize, they’ll drop to the Earth as Leaves in Autumn
+fall; the mortal Stars will not presume to gaze, but in thy Presence
+veil their Faces all.
+
+                                                              [_Exeunt._
+
+
+           --------------------------------------------------
+
+                                _FINIS._
+
+           --------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+[Illustration]
+
+                               EPILOGUE,
+
+                                   BY
+
+                              Mr. _BYROM_.
+
+
+                         Enter _Hurlothrumbo_.
+
+      _Ladies and Gentlemen, my Lord of_ Flame
+      _Has sent me here to thank you in his Name;
+      Proud of your Smiles, he’s mounted many a Story
+      Above the tip-top Pinnacle of Glory:
+      Thence he defies the Sons of Clay, the Criticks;
+      Fellows, says he, that are meer Paralyticks,
+      With Judgments lame, and Intellects that halt,
+      Because a Man outruns them——they find fault.
+      He is indeed, to speak my poor Opinion,
+      Out of the reach of_ critical _Dominion._
+
+                           [Enter _Critick_.]
+
+_Adso! her’s one of ’em._——Cr. _A strange odd Play, Sir_;
+
+                           [Enter _Author_, pushes _Hurlothrumbo_ aside.
+
+Au. _Let me come to him——Pray, what’s that you say, Sir?_
+
+Cr. _I say, Sir, Rules are not observ’d here._——Au. _Rules,
+Like Clocks and Watches, were all made for Fools.
+Rules make a Play? that is_——Cr. _What, Mr. Singer?_
+
+Au. _As if a Knife and Fork should make a Finger._
+
+Cr. _Pray Sir, which is the_ Hero _of your Play?_
+
+Au. _Hero! why they’re all Heroes in their way._
+
+Cr. _Why here’s no_ Plot! _or none that’s understood._
+
+Au. _There’s a Rebellion tho’; and that’s as good._
+
+Cr. _No Spirit nor Genius in’t._   Au. _Why didn’t here
+A_ SPIRIT _and a_ GENIUS _both appear?_
+
+Cr. _Poh, ’tis all Stuff and Nonsense_——Au. _Lack-a-day!
+Why that’s the very_ Essence _of a Play,
+Your Old-House, New-House, Opera and Ball;
+’Tis_ NONSENSE, Critick, _that supports ’em all.
+As you yourselves ingeniously have shown,
+Whilst on their Nonsense you have built your own._
+
+Cr. _Here wants——Wants what! Why now for all your canting,
+What one Ingredient of a Play is wanting?
+Musick, Love, War, Death, Madness without Sham,
+Done to the Life, by_ Persons _of the_ Dram:
+_Scenes and Machines, descending and arising;
+Thunder and Lightning; ev’ry thing surprizing!_
+
+Cr. _Play, Farce, or Opera is’t?_ Au. _No matter whether,
+’Tis a_ REHEARSAL _of ’em all together.
+But come Sir, come, troop off, old Blundermonger,
+And interrupt the_ Epilogue _no longer._
+
+                           [_Author_ drives the _Critick_ off the Stage.
+
+Hurlo _proceed_——
+
+                   Hurlo. _Troth! he says true enough,
+The Stage has given rise to wretched Stuff:
+Critick, or Player; a_ Dennis, _or a_ Cibber,
+_Vie only which shall make it go down glibber;
+A thousand murd’rous ways they cast about
+To stifle it——but Murder-like——’twill out.
+Our Author fairly, without so much Fuss
+Shews it—in_ puris Naturalibus;
+_Pursues the Point beyond its highest Height,             }
+Then bids his Men of Fire, and Ladies bright,             }
+Mark, how it looks!——When it is out of Sight.             }
+So true a_ Stage, _so fair a Play for Laughter,
+There never was before, nor ever will come after:
+Never, no never; not while vital Breath,
+Defends ye from that_ long-liv’d Mortal _Death.
+Death!——something hangs on my prophetick Tongue,
+I’ll give it utterance——be it right or wrong_:
+Handel _himself shall yield to_ Hurlothrumbo,
+_And_ Bononcini _too shall cry_——Succumbo.
+_That’s if the Ladies condescend to smile:
+Their Looks make Sense, or Nonsense, in our Isle._
+
+[Illustration]

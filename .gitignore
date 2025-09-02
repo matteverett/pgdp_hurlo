@@ -1,12 +1,10 @@
 guiguts.log
-*-utf8.txt
-*.html
 *.bin
 *.txt.json
-/output/
 /gimp/
 /zipdir/
 /ebooks/
 /.vscode/
+/output/images/
 !hurlo-pg.html
 .DS_Store
